@@ -10,7 +10,7 @@
 		"range": 2,
 		"cost": 500,
 		"requiredTech": "Electronics",
-		"uniques": ["Can carry [4] [Aircraft] units", "[15]% chance to intercept air attacks"],
+		"uniques": ["Can carry [4] [Aircraft] units", "[+10]% Strength bonus for [Water] units within [2] tiles"],
 		"attackSound": "shipguns"
 	}
 ]
