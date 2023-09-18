@@ -1,17 +1,16 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"name": "Raptor Supercarrier",
+		"unitType": "Aircraft Carrier",
+		"uniqueTo": "Konstanz",
+		"replaces": "Carrier",
+		"movement": 5,
+		"strength": 45,
+		"rangedStrength": 25,
 		"range": 2,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"requiredTech": "Electronics",
+		"uniques": ["Can carry [4] [Aircraft] units", "[15]% chance to intercept air attacks"],
+		"attackSound": "shipguns"
 	}
 ]
