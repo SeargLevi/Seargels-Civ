@@ -12,5 +12,13 @@
 		"requiredTech": "Electronics",
 		"uniques": ["Can carry [4] [Aircraft] units", "[+10]% Strength bonus for [Water] units within [2] tiles"],
 		"attackSound": "shipguns"
-	}
+	},
+	{
+		"name": "Antonov",
+		"unitType": "Civilian",
+		"movement": 9,
+		"cost": 450, 
+		"requiredTech": "Radar", 
+		"uniques": ["Uncapturable", "All tiles cost 1 movement", "Ignores Zone of Control", "Can speed up construction of a building", "Can [Can speed up construction of a building] [2] times"]
+	} 
 ]
