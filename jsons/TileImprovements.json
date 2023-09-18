@@ -6,7 +6,7 @@
 		"uniqueTo": "Konstanz",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 7,
-		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [30]%", "+1 Range"],
+		"uniques": ["Can be built outside your borders", "Does not need removal of [Improvement]", "Gives a defensive bonus of [30]%", "+1 Range"],
 		"techRequired": "Archery"
   } 
 ] 
