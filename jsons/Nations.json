@@ -29,7 +29,8 @@
 
 		"outerColor": [90,100,49],
 		"innerColor": [19,62,83],
-		"unique": "I'M_A_SUPPORTER",
+		"uniqueName": "I'M_A_SUPPORTER",
+		"uniques": ["[+50]% XP gained from combat <for [Water] units>"]
 		"cities": ["Konstanz","Balrogh","Doron","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
