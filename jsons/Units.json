@@ -19,6 +19,6 @@
 		"movement": 9,
 		"cost": 450, 
 		"requiredTech": "Radar", 
-		"uniques": ["Uncapturable", "All tiles cost 1 movement", "Ignores Zone of Control", "Can speed up construction of a building", "Can [Can speed up construction of a building] [2] times"]
-	} 
+		"uniques": ["Uncapturable", "All tiles cost 1 movement", "Ignores Zone of Control", "Can [Can speed up construction of a building] [2] times"]
+	}
 ]
