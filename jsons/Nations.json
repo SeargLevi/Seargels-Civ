@@ -2,8 +2,8 @@
 	{
 		"name": "Konstanz",
 		"leaderName": "Searg",
-		"adjective": ["konstant"],
-		"startBias": ["Coast"],
+		"adjective": ["Konstant"],
+		"startBias": ["River", "Mountain"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Let's go on an adventure!",
@@ -24,7 +24,7 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "That must be a turning point in all our life's!",
+		"afterPeace": "That must be a turning point in all our lifes!",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [90,100,49],
