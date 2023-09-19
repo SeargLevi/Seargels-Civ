@@ -33,5 +33,22 @@
 		"requiredResource": "Horses",
 		"uniques" : ["Can transform to [Great General] <for units with [Great General Promotion]>", "Can transform to [Great Prophet] <for units with [Great General Promotion]>" ],
 		"attackSound": "horse",
-	}
+	}, 
+			"cost": 450, 
+		"requiredTech": "Radar", 
+		"uniques": ["Uncapturable", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "Ignores Zone of Control", "Can speed up construction of a building"]
+	}, 
+	{
+		"name": "Great General Tester",
+		"unitType": "Mounted",
+		"uniqueTo": "Konstanz",
+		"replaces": "Horseman", 
+		"movement": 4,
+		"strength": 13,
+		"cost": 90,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"uniques" : ["Can transform to [Great General] <for units with [Great General Promotion]>", "Can transform to [Great Prophet] <for units with [Great General Promotion]>" ],
+		"attackSound": "horse",
+	} 
 ]
