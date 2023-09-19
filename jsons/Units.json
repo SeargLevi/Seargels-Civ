@@ -20,5 +20,15 @@
 		"cost": 450, 
 		"requiredTech": "Radar", 
 		"uniques": ["Uncapturable", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "Ignores Zone of Control", "Can speed up construction of a building"]
+	}, 
+	{
+		"name": "Great Trainee",
+		"unitType": "Sword",
+		"uniqueTo": "Konstanz",
+		"movement": 2,
+		"strength": 9,
+		"cost": 40,
+		"uniques" : ["Can transform to [Great General] <for units with [Great General Promotion]>"],
+		"attackSound": "nonmetalhit",
 	}
 ]
