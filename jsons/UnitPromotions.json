@@ -21,7 +21,7 @@
 	{
 		"name": "Great General Promotion",
 		"prerequisites": ["Great General Promotion III"],
-		"uniques": ["Can transform to [Tank]"], 
+		"uniques": ["Can transform to [Great General]"], 
 		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"]
 	}
 		
