@@ -23,6 +23,11 @@
 		"prerequisites": ["Great General Promotion III"],
 		"uniques": ["[+10]% Strength bonus for [Military] units within [2] tiles", "Can transform to [Great General]"], 
 		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"]
-	}
+	}, 
+	{
+		"name": "Turtle Formation",
+		"uniques": ["[+10]% Strength bonus for [Turtle Formation] units within [1] tiles"], 
+		"unitTypes": ["Sword"]
+	} 
 		
 ] 
