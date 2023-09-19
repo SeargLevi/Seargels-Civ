@@ -1,10 +1,28 @@
 [
 
 	{
-		"name": "Great Promotion",
-    "prerequisites": ["Accuracy III","Barrage III","Targeting III", "Wolfpack III",
-			"Bombardment III", "Coastal Raider III","Boarding Party III","Siege III", "Mobility II", "Anti-Armor II"],
+		"name": "Great General Promotion I",
+		"prerequisites": ["Accuracy III", "Barrage III"],
+		"uniques": ["[+5]% Strength bonus for [Military] units within [1] tiles" ], 
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"]
+	}, 
+	{
+		"name": "Great General Promotion II",
+		"prerequisites": ["Great General Promotion I"],
+		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles" ], 
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"]
+	}, 
+	{
+		"name": "Great General Promotion III",
+		"prerequisites": ["Great General Promotion II"],
+		"uniques": ["[+10]% Strength bonus for [Military] units within [2] tiles" ], 
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"]
+	}, 
+	{
+		"name": "Great General Promotion",
+		"prerequisites": ["Great General Promotion III"],
 		"uniques": ["Can transform to [Great General]"], 
 		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"]
 	}
+		
 ] 
