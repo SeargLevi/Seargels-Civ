@@ -2,7 +2,7 @@
 
   {
 		"name": "Guard Tower",
-	        "replaced": "Fort", 
+	        "replaces": "Fort", 
 		"uniqueTo": "Konstanz",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 7,
