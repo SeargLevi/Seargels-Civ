@@ -31,7 +31,7 @@
 		"cost": 90,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
-		"uniques" : ["Can transform to [Great General] <for units with [Great General Promotion]>"],
+		"uniques" : ["Can transform to [Great General] <for units with [Great General Promotion]>", "Can transform to [Great Prophet] <for units with [Great General Promotion]>" ],
 		"attackSound": "horse",
 	}
 ]
