@@ -25,7 +25,7 @@
 		"name": "Great General Trainee",
 		"unitType": "Mounted",
 		"uniqueTo": "Konstanz",
-		"replaced": "Horseman", 
+		"replaces": "Horseman", 
 		"movement": 4,
 		"strength": 13,
 		"cost": 90,
