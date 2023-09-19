@@ -2,7 +2,7 @@
 
 	{
 		"name": "Great General Promotion I",
-		"prerequisites": ["Accuracy III", "Barrage III"],
+		"prerequisites": ["Accuracy III", "Barrage III", "Siege III", "Drill III"],
 		"uniques": ["[+5]% Strength bonus for [Military] units within [1] tiles" ], 
 		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"]
 	}, 
