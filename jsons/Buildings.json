@@ -19,7 +19,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredBuilding": "Barracks", 
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "All newly-trained [Ranged] units [in this city] receive the [Extended Range] promotion", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "All newly-trained [Archery] units [in this city] receive the [Extended Range] promotion", "Destroyed when the city is captured"],
 		"requiredTech": "Machinery"
 	}
 ]
