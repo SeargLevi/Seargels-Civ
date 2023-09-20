@@ -30,9 +30,13 @@
 		"unitTypes": ["Sword"]
 	}, 
 	{
-		"name": "Rookie", 
-		"uniques": ["[+10]% Strength", "Doing so will consume this opportunity to choose a Promotion"], 
-		"unitTypes":["Sword"]
-	} 
+		"name": "Talent", 
+		"uniques": ["[+75]% XP gained from combat"], 
+	},
+	{
+		"name": "Rookie I",
+		"prerequisites": ["Talent"],
+		"uniques": ["[+10]% Strength"],
+	}
 		
 ] 
