@@ -141,6 +141,12 @@
 		"prerequisites": ["Strength III"],
 		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles"],
 		"unitTypes" : ["Adventurer"]
-	}
+	}, 
+	{
+		"name": "Change of Heart",
+		"prerequisites": ["Strength III"],
+		"uniques": ["May capture killed [Land] units <with [12]% chance>"],
+		"unitTypes" : ["Adventurer"]
+	} 
 		
 ] 
