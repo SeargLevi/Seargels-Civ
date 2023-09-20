@@ -34,5 +34,13 @@
 		"uniques" : ["Can transform to [Great General] <for units with [Great General Promotion]>", "Can transform to [Great Prophet] <for units with [Great General Promotion]>" ],
 		"attackSound": "horse",
 	
-	} 
+	}, 
+	{
+		"name": "Drone",
+		"unitType": "Civilian",
+		"requiredTech": "Stealth",
+		"movement": 5,
+		"cost": 400,
+		"uniques": ["[+3] Sight", "Can see over obstacles", "All tiles cost 1 movement", "Uncapturable"],
+	}
 ]
