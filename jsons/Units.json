@@ -48,10 +48,13 @@
 		"uniqueTo": "Konstanz",
 		"replaces": "Spearman", 
 		"movement": 2,
-		"strength": 14,
+		"strength": 11,
 		"cost": 75,
-		"requiredTech": "Bronze Working", 
-		"uniques" : ["[+1] Sight"],
+		"requiredTech": "Bronze Working",
+		"promotions": ["Talent"],
 		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"text": "A talented unit with a lot of possible unique promotions."}
+		]
 	}
 ]
