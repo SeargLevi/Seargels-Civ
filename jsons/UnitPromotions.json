@@ -78,7 +78,7 @@
 	}, 
 	{
 		"name": "Multiple Attack II",
-		"prerequisites": ["Multiple Attack II"],
+		"prerequisites": ["Multiple Attack I"],
 		"uniques": ["[1] additional attacks per turn"],
 		"unitTypes" : ["Adventurer"]
 	}, 
@@ -109,6 +109,12 @@
 	{
 		"name": "Quick Feet II",
 		"prerequisites": ["Quick Feet I"],
+		"uniques": ["[+1] Movement"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Quick Feet III",
+		"prerequisites": ["Quick Feet II"],
 		"uniques": ["[+1] Movement"],
 		"unitTypes" : ["Adventurer"]
 	}, 
