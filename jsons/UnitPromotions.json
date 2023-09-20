@@ -53,9 +53,21 @@
 		"unitTypes" : ["Adventurer"]
 	},  
 	{
-		"name": "Companion",
+		"name": "Companion I",
 		"prerequisites": ["Talent"],
-		"uniques": ["Free [Dog] appears", "Free [Great General] appears"],
+		"uniques": ["Free [Dog] appears"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Companion II",
+		"prerequisites": ["Companion I"],
+		"uniques": ["Free [Dog and Horse] appears"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Companion III",
+		"prerequisites": ["Companion II"],
+		"uniques": ["Free [Dog, Horse and Bird] appears"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
