@@ -4,7 +4,7 @@
 		"leaderName": "Searg",
 		"adjective": ["Konstant"],
 		"startBias": ["River", "Mountain"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Let's go on an adventure!",
 		"startIntroPart2": "The world is a mysterious place.",
@@ -30,8 +30,7 @@
 		"outerColor": [90,100,49],
 		"innerColor": [19,62,83],
 		"uniqueName": "Introverted",
-		"uniques": ["[+1] Unit Supply per [1] population [in all cities]", "[+30]% Culture cost of natural border growth [in all cities]", "[-20]% growth [in all cities]",
-		"Cannot build [Settler] units", "May buy [Settler] units for [300] [Happiness] [in all cities] at an increasing price ([200])"]
+		"uniques": ["[+1] Unit Supply per [1] population [in all cities]", "[+30]% Culture cost of natural border growth [in all cities]", "[-20]% growth [in all cities]"]
 		"cities": ["Konstanz","Balrogh","Doron","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
