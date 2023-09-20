@@ -66,8 +66,8 @@
 		"rangedStrength": 8,
 		"range": 1, 
 		"cost": 75,
-		"promotions": ["Talent", "Can transform to [Adventurer Melee]"],
-		"uniques": ["unbuildable"],
+		"promotions": ["Talent"],
+		"uniques": ["unbuildable", "Can transform to [Adventurer Melee]"],
 		"attackSound": "arrow",
 		"civilopediaText": [
 			{"text": "A talented unit with a lot of possible unique promotions."}
