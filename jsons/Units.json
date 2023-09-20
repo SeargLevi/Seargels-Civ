@@ -62,6 +62,6 @@
 		"unitType": "Companion",
 		"movement": 4,
 		"cost": 40,
-		"uniques": ["All tiles cost 1 movement", "[+10]% Strength bonus for [Adventurer] units within [0] tiles"],
+		"uniques": ["All tiles cost 1 movement", "[+10]% Strength bonus for [Adventurer] units within [1] tiles"],
 	}
 ]
