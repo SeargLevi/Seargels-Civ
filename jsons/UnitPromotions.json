@@ -31,7 +31,7 @@
 	}, 
 	{
 		"name": "Rookie", 
-		"uniques": "[+10]% Strength", "Doing so will consume this opportunity to choose a Promotion"], 
+		"uniques": "[+10]% Strength", "Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes":["Sword"]
 	} 
 		
