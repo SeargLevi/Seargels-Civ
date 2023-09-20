@@ -27,8 +27,7 @@
         // something something unit supply
 
      "[+1] Range <for [Ranged] units> <in [Guard Tower] tiles>",
-     "[+2] Sight <for [All] units> <in [Guard Tower] tiles>",
-       "[1] free [Dog] units appear <upon being promoted> <for units with [Companion]>"
+     "[+2] Sight <for [All] units> <in [Guard Tower] tiles>"
 
     ]
 }
