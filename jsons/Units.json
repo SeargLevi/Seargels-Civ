@@ -52,7 +52,7 @@
 		"cost": 75,
 		"requiredTech": "Bronze Working",
 		"promotions": ["Talent"],
-		"uniques": ["Can transform to [Adventurer Ranged]"],
+		"uniques": ["Can transform to [Adventurer Ranged] <for units with [Archery]>"],
 		"attackSound": "metalhit",
 		"civilopediaText": [
 			{"text": "A talented unit with a lot of possible unique promotions."}
@@ -67,7 +67,7 @@
 		"range": 1, 
 		"cost": 75,
 		"promotions": ["Talent"],
-		"uniques": ["unbuildable", "Can transform to [Adventurer Melee]"],
+		"uniques": ["Unbuildable", "Can transform to [Adventurer Melee]"],
 		"attackSound": "arrow",
 		"civilopediaText": [
 			{"text": "A talented unit with a lot of possible unique promotions."}
