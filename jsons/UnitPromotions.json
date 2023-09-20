@@ -71,6 +71,18 @@
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
+		"name": "Bow and Arrow",
+		"prerequisites": ["Strength II"],
+		"uniques": ["Can transform to [Adventurer Ranged]"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Strong Bow",
+		"prerequisites": ["Bow and Arrow"],
+		"uniques": ["[+1] Range"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
 		"name": "Looter I",
 		"prerequisites": ["Strength I"],
 		"uniques": ["Earn [50]% of the damage done to [Land] units as [Gold]"],
