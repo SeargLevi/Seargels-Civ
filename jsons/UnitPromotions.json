@@ -41,6 +41,18 @@
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
+		"name": "Rookie II",
+		"prerequisites": ["Rookie I"],
+		"uniques": ["[+15]% Strength"],
+		"unitTypes" : ["Adventurer"]
+	},  
+	{
+		"name": "Rookie III",
+		"prerequisites": ["Rookie II"],
+		"uniques": ["[+20]% Strength"],
+		"unitTypes" : ["Adventurer"]
+	},  
+	{
 		"name": "Companion",
 		"prerequisites": ["Talent"],
 		"uniques": ["gain a dog"],
