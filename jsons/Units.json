@@ -58,7 +58,7 @@
 			{"text": "A talented unit with a lot of possible unique promotions."}
 		]
 	}, 
-		{
+	{
 		"name": "Adventurer Ranged",
 		"unitType": "Adventurer",
 		"movement": 2,
@@ -72,12 +72,5 @@
 		"civilopediaText": [
 			{"text": "A talented unit with a lot of possible unique promotions."}
 		]
-	}, 
-	{
-		"name": "Dog",
-		"unitType": "Companion",
-		"movement": 4,
-		"cost": 40,
-		"uniques": ["All tiles cost 1 movement", "[+10]% Strength bonus for [Adventurer] units within [1] tiles"],
 	}
 ]
