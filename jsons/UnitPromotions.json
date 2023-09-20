@@ -53,21 +53,21 @@
 		"unitTypes" : ["Adventurer"]
 	},  
 	{
-		"name": "Companion I",
+		"name": "Companion Dog",
 		"prerequisites": ["Talent"],
-		"uniques": ["Free [Dog] appears"],
+		"uniques": ["[10]% Strength", "Only available <for units without [Companion Horse]>", "Only available <for units without [Companion Bird]>" ],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
-		"name": "Companion II",
-		"prerequisites": ["Companion I"],
-		"uniques": ["Free [Dog and Horse] appears"],
+		"name": "Companion Horse",
+		"prerequisites": ["Talent"],
+		"uniques": ["[+2] Movement", "Only available <for units without [Companion Dog]>", "Only available <for units without [Companion Bird]>"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
-		"name": "Companion III",
-		"prerequisites": ["Companion II"],
-		"uniques": ["Free [Dog, Horse and Bird] appears"],
+		"name": "Companion Bird",
+		"prerequisites": ["Talent"],
+		"uniques": ["[+1] Sight", "Only available <for units without [Companion Dog]>", "Only available <for units without [Companion Horse]>" ],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
