@@ -44,7 +44,7 @@
 	}, 
 		{
 		"name": "Adventurer",
-		"unitType": "Sword",
+		"unitType": "Adventurer",
 		"uniqueTo": "Konstanz",
 		"replaces": "Spearman", 
 		"movement": 2,
