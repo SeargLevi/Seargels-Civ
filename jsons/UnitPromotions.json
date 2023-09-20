@@ -1,20 +1,20 @@
 [
 
 	{
-		"name": "Great General Promotion I",
-		"prerequisites": ["Accuracy III", "Barrage III", "Siege III", "Drill III"],
+		"name": "Road to Glory I",
+		"prerequisites": ["Accuracy III", "Barrage III", "Shock III", "Drill III"],
 		"uniques": ["[+5]% Strength bonus for [Military] units within [1] tiles" ], 
 		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"]
 	}, 
 	{
-		"name": "Great General Promotion II",
-		"prerequisites": ["Great General Promotion I"],
+		"name": "Road to Glory II",
+		"prerequisites": ["Road to Glory I"],
 		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles" ], 
 		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"]
 	}, 
 	{
-		"name": "Great General Promotion III",
-		"prerequisites": ["Great General Promotion II"],
+		"name": "Road to Glory III",
+		"prerequisites": ["Road to Glory II"],
 		"uniques": ["[+10]% Strength bonus for [Military] units within [2] tiles" ], 
 		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"]
 	}, 
@@ -31,7 +31,7 @@
 	}, 
 	{
 		"name": "Rookie", 
-		"uniques": ["+10]% Strength", "Doing so will consume this opportunity to choose a Promotion"], 
+		"uniques": ["[+10]% Strength", "Doing so will consume this opportunity to choose a Promotion"], 
 		"unitTypes":["Sword"]
 	} 
 		
