@@ -26,7 +26,7 @@
 	}, 
 	{
 		"name": "Turtle Formation",
-		"uniques": ["[+10]% Strength bonus for [Sword] units within [1] tiles <for units with [Turtle Formation]>"], 
+		"uniques": ["[+50]% Strength <for units with [Turtle Formation]> <when defending>"], 
 		"unitTypes": ["Sword"]
 	}, 
 	{
