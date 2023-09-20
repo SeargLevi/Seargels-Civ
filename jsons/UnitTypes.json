@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Adventurers",
+        "movementType": "Land"
+    },
+    {
+        "name": "Companion",
+        "movementType": "Land"
+    }
+] 
