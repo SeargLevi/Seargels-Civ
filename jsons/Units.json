@@ -59,9 +59,9 @@
 	}, 
 	{
 		"name": "Dog",
-		"unitType": "Civilian",
+		"unitType": "Companion",
 		"movement": 4,
-		"cost": 400,
-		"uniques": ["Unbuildable", "All tiles cost 1 movement", "[+10]% Strength bonus for [Adventurer] units within [0] tiles"],
+		"cost": 40,
+		"uniques": ["All tiles cost 1 movement", "[+10]% Strength bonus for [Adventurer] units within [0] tiles"],
 	}
 ]
