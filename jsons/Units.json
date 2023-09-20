@@ -42,8 +42,8 @@
 		"cost": 400,
 		"uniques": ["[+3] Sight", "Can see over obstacles", "All tiles cost 1 movement", "Uncapturable"],
 	}, 
-		{
-		"name": "Adventurer",
+	{
+		"name": "Adventurer Melee",
 		"unitType": "Adventurer",
 		"uniqueTo": "Konstanz",
 		"replaces": "Spearman", 
@@ -52,7 +52,23 @@
 		"cost": 75,
 		"requiredTech": "Bronze Working",
 		"promotions": ["Talent"],
+		"uniques": ["Can transform to [Adventurer Ranged]"],
 		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"text": "A talented unit with a lot of possible unique promotions."}
+		]
+	}, 
+		{
+		"name": "Adventurer Ranged",
+		"unitType": "Adventurer",
+		"movement": 2,
+		"strength": 9,
+		"rangedStrength": 8,
+		"range": 1, 
+		"cost": 75,
+		"promotions": ["Talent", "Can transform to [Adventurer Melee]"],
+		"uniques": ["unbuildable"],
+		"attackSound": "arrow",
 		"civilopediaText": [
 			{"text": "A talented unit with a lot of possible unique promotions."}
 		]
