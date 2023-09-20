@@ -32,18 +32,25 @@
 	{
 		"name": "Talent", 
 		"uniques": ["[+75]% XP gained from combat"], 
+		"unitTypes": ["Adventurer"]
 	},
 	{
 		"name": "Rookie I",
 		"prerequisites": ["Talent"],
 		"uniques": ["[+10]% Strength"],
-		"unitTypes" : ["Sword"]
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Companion",
 		"prerequisites": ["Talent"],
 		"uniques": ["gain a dog"],
-		"unitTypes" : ["Sword"]
-	} 
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Looter",
+		"prerequisites": ["Talent"],
+		"uniques": ["Earn [50]% of the damage done to [Land] units as [Gold]"],
+		"unitTypes" : ["Adventurer"]
+	}  
 		
 ] 
