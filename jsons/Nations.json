@@ -4,6 +4,43 @@
 		"leaderName": "Searg",
 		"adjective": ["Konstant"],
 		"startBias": ["River", "Mountain"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Let's go on an adventure!",
+		"startIntroPart2": "The world is a mysterious place.",
+		
+		"declaringWar": "This must be a joke!",
+		"attacked": "How dare you?",
+		"defeated": "I'll be back!",
+		"introduction": "To the seas! And beyond!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "That must be a turning point in all our lifes!",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [255,0,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "Introverted",
+		"uniques": ["[+2] Unit Supply per [3] population [in all cities]", "[+30]% Culture cost of natural border growth [in all cities]", "[-20]% growth [in all cities]"]
+		"cities": ["Konstanz","Balrogh","Doron","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	}, 
+	{
+		"name": "Durion",
+		"leaderName": "Levi",
+		"adjective": ["Durian"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Let's go on an adventure!",
@@ -29,11 +66,11 @@
 
 		"outerColor": [90,100,49],
 		"innerColor": [19,62,83],
-		"uniqueName": "Introverted",
-		"uniques": ["[+1] Unit Supply per [1] population [in all cities]", "[+30]% Culture cost of natural border growth [in all cities]", "[-20]% growth [in all cities]"]
-		"cities": ["Konstanz","Balrogh","Doron","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+		"uniqueName": "To the seas! And beyond!",
+		"uniques": ["[+50]% XP gained from combat <for [Water] units>", "[+1] Movement <for [Water] units>", "[+1] Sight <for [Water] units>", "[Great General] is earned [+20]% faster <for [Water] units>"] 
+		"cities": ["Durion","Nalon","Veeron Alpha","Veeron Beta","Magnon","Veeron Gamma","Nalon Outpost","Durion Ignis","Durion Terra",
+			"Durion Aqua","Durion Air","District 19","Durion Vita","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+	} 
 ]
