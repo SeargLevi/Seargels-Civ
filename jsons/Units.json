@@ -19,7 +19,7 @@
 		"movement": 9,
 		"cost": 450, 
 		"requiredTech": "Radar", 
-		"uniques": ["Uncapturable", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "Ignores Zone of Control", "Can speed up construction of a building"]
+		"uniques": ["Uncapturable", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "Can speed up construction of a building"]
 	}, 
 	{
 		"name": "Great General Trainee",
@@ -31,9 +31,8 @@
 		"cost": 90,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
-		"uniques" : ["Can transform to [Great General] <for units with [Great General Promotion]>", "Can transform to [Great Prophet] <for units with [Great General Promotion]>" ],
+		"uniques" : ["Can transform to [Great General] <for units with [Great General Promotion]>"],
 		"attackSound": "horse",
-	
 	}, 
 	{
 		"name": "Drone",
@@ -42,5 +41,17 @@
 		"movement": 5,
 		"cost": 400,
 		"uniques": ["[+3] Sight", "Can see over obstacles", "All tiles cost 1 movement", "Uncapturable"],
+	}, 
+		{
+		"name": "Adventurer",
+		"unitType": "Sword",
+		"uniqueTo": "Konstanz",
+		"replaces": "Spearman", 
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Bronze Working", 
+		"uniques" : ["[+1] Sight"],
+		"attackSound": "metalhit",
 	}
 ]
