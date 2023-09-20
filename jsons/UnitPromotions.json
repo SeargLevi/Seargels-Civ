@@ -55,7 +55,7 @@
 	{
 		"name": "Companion",
 		"prerequisites": ["Talent"],
-		"uniques": ["Free [Companion] appears"],
+		"uniques": ["Free [Dog] appears"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
