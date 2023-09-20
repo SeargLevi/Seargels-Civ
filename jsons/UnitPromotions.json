@@ -20,7 +20,7 @@
 	}, 
 	{
 		"name": "Great General Promotion",
-		"prerequisites": ["Great General Promotion III"],
+		"prerequisites": ["Road to Glory III"],
 		"uniques": ["[+10]% Strength bonus for [Military] units within [2] tiles", "Can transform to [Great General]"], 
 		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"]
 	}, 
@@ -37,6 +37,13 @@
 		"name": "Rookie I",
 		"prerequisites": ["Talent"],
 		"uniques": ["[+10]% Strength"],
-	}
+		"unitTypes" : ["Sword"]
+	}, 
+	{
+		"name": "Companion",
+		"prerequisites": ["Talent"],
+		"uniques": ["gain a dog"],
+		"unitTypes" : ["Sword"]
+	} 
 		
 ] 
