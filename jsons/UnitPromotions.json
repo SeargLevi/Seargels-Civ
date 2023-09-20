@@ -35,34 +35,88 @@
 		"unitTypes": ["Adventurer"]
 	},
 	{
-		"name": "Rookie I",
+		"name": "Strength I",
 		"prerequisites": ["Talent"],
 		"uniques": ["[+10]% Strength"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
-		"name": "Rookie II",
-		"prerequisites": ["Rookie I"],
+		"name": "Strength II",
+		"prerequisites": ["Strength I"],
 		"uniques": ["[+15]% Strength"],
 		"unitTypes" : ["Adventurer"]
 	},  
 	{
-		"name": "Rookie III",
-		"prerequisites": ["Rookie II"],
+		"name": "Strength III",
+		"prerequisites": ["Strength II"],
 		"uniques": ["[+20]% Strength"],
 		"unitTypes" : ["Adventurer"]
 	},  
 	{
 		"name": "Companion",
 		"prerequisites": ["Talent"],
-		"uniques": ["gain a dog"],
+		"uniques": ["Free [Companion] appears"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
-		"name": "Looter",
-		"prerequisites": ["Talent"],
+		"name": "Looter I",
+		"prerequisites": ["Strength I"],
 		"uniques": ["Earn [50]% of the damage done to [Land] units as [Gold]"],
 		"unitTypes" : ["Adventurer"]
-	}  
+	}, 
+	{
+		"name": "Looter II",
+		"prerequisites": ["Looter I"],
+		"uniques": ["Earn [100]% of the damage done to [Land] units as [Gold]"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Multiple Attack I",
+		"prerequisites": ["Strength III"],
+		"uniques": ["[1] additional attacks per turn"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Multiple Attack II",
+		"prerequisites": ["Multiple Attack II"],
+		"uniques": ["[1] additional attacks per turn"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Healer I",
+		"prerequisites": ["Strength II"],
+		"uniques": ["[+5] HP when healing"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Healer II",
+		"prerequisites": ["Healer I"],
+		"uniques": ["[+5] HP when healing"],
+		"unitTypes" : ["Adventurer"]
+	},
+	{
+		"name": "Healer III",
+		"prerequisites": ["Healer II"],
+		"uniques": ["Unit will heal every turn, even if it performs an action"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Quick Feet I",
+		"prerequisites": ["Talent"],
+		"uniques": ["[+1] Movement"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Quick Feet II",
+		"prerequisites": ["Quick Feet I"],
+		"uniques": ["[+1] Movement"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Eagle Eye",
+		"prerequisites": ["Strength II"],
+		"uniques": ["[+1] Sight"],
+		"unitTypes" : ["Adventurer"]
+	}
 		
 ] 
