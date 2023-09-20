@@ -52,7 +52,7 @@
 		"cost": 75,
 		"requiredTech": "Bronze Working",
 		"promotions": ["Talent"],
-		"uniques": ["Can transform to [Adventurer Ranged] <for units with [Archery]>"],
+		"uniques": ["Can transform to [Adventurer Ranged] <for units with [Bow and Arrow]>"],
 		"attackSound": "metalhit",
 		"civilopediaText": [
 			{"text": "A talented unit with a lot of possible unique promotions."}
