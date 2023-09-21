@@ -22,7 +22,7 @@
 		"uniques": ["Uncapturable", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "Can speed up construction of a building"]
 	}, 
 	{
-		"name": "Great General Trainee",
+		"name": "Great General Recruit",
 		"unitType": "Mounted",
 		"uniqueTo": "Konstanz",
 		"replaces": "Horseman", 
