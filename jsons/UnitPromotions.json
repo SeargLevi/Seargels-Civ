@@ -23,12 +23,7 @@
 		"prerequisites": ["Road to Glory III"],
 		"uniques": ["[+10]% Strength bonus for [Military] units within [2] tiles", "Can transform to [Great General]"], 
 		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"]
-	}, 
-	{
-		"name": "Turtle Formation",
-		"uniques": ["[+50]% Strength <for units with [Turtle Formation]> <when defending>"], 
-		"unitTypes": ["Sword"]
-	}, 
+	},
 	{
 		"name": "Talent", 
 		"uniques": ["[+75]% XP gained from combat"], 
@@ -55,7 +50,7 @@
 	{
 		"name": "Companion Dog",
 		"prerequisites": ["Talent"],
-		"uniques": ["[10]% Strength", "Only available <for units without [Companion Horse]>", "Only available <for units without [Companion Bird]>" ],
+		"uniques": ["[+10]% Strength", "Only available <for units without [Companion Horse]>", "Only available <for units without [Companion Bird]>" ],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
