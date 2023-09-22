@@ -48,6 +48,42 @@
 		"unitTypes" : ["Adventurer"]
 	},  
 	{
+		"name": "Defender I",
+		"prerequisites": ["Strength I"],
+		"uniques": ["[+20]% Strength <when defending>", "Only available <for units without [Attacker I]>"],
+		"unitTypes" : ["Adventurer"]
+	},  
+	{
+		"name": "Defender II",
+		"prerequisites": ["Defender I"],
+		"uniques": ["[+25]% Strength <when defending>"],
+		"unitTypes" : ["Adventurer"]
+	},  
+	{
+		"name": "Defender III",
+		"prerequisites": ["Defender II"],
+		"uniques": ["[+30]% Strength <when defending>"],
+		"unitTypes" : ["Adventurer"]
+	},  
+	{
+		"name": "Attacker I",
+		"prerequisites": ["Strength I"],
+		"uniques": ["[+15]% Strength <when attacking>", "Only available <for units without [Defender I]>"],
+		"unitTypes" : ["Adventurer"]
+	},  
+	{
+		"name": "Attacker II",
+		"prerequisites": ["Attacker I"],
+		"uniques": ["[+20]% Strength <when attacking>"],
+		"unitTypes" : ["Adventurer"]
+	},  
+	{
+		"name": "Attacker III",
+		"prerequisites": ["Attacker II"],
+		"uniques": ["[+25]% Strength <when attacking>"],
+		"unitTypes" : ["Adventurer"]
+	},  
+	{
 		"name": "Companion Dog",
 		"prerequisites": ["Talent"],
 		"uniques": ["[+15]% Strength", "Only available <for units without [Companion Horse]>", "Only available <for units without [Companion Bird]>" ],
