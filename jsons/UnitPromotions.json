@@ -132,6 +132,18 @@
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
+		"name": "Intimidation I",
+		"prerequisites": ["Strength III"],
+		"uniques": ["[-5]% Strength for enemy [Land] units in adjacent [All] tiles" ],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Intimidation II",
+		"prerequisites": ["Intimidation I"],
+		"uniques": ["[-10]% Strength for enemy [Land] units in adjacent [All] tiles" ],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
 		"name": "Multiple Attack I",
 		"prerequisites": ["Strength III"],
 		"uniques": ["[1] additional attacks per turn"],
@@ -182,25 +194,32 @@
 	{
 		"name": "Heroism I",
 		"prerequisites": ["Strength III"],
-		"uniques": ["[+33]% Strength"],
+		"uniques": ["[+30]% Strength"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Heroism II",
 		"prerequisites": ["Heroism I"],
-		"uniques": ["[+33]% Strength"],
+		"uniques": ["[+40]% Strength"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Heroism III",
 		"prerequisites": ["Heroism II"],
-		"uniques": ["[+33]% Strength"],
+		"uniques": ["[+50]% Strength"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Heroes Aura",
 		"prerequisites": ["Heroism III"],
 		"uniques": ["[+15]% Strength bonus for [Military] units within [1] tiles"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Hiding",
+		"prerequisites": ["Heroism II"],
+		"uniques": ["Invisible to non-adjacent units <in [Forest] tiles>", 
+			"Invisible to non-adjacent units <in [Jungle] tiles>"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
