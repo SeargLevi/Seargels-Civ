@@ -62,7 +62,7 @@
 	{
 		"name": "Companion Bird",
 		"prerequisites": ["Talent"],
-		"uniques": ["[+2] Sight", "Only available <for units without [Companion Dog]>", "Only available <for units without [Companion Horse]>" ],
+		"uniques": ["[+1] Sight", "Can see over obstacles", "Only available <for units without [Companion Dog]>", "Only available <for units without [Companion Horse]>" ],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
@@ -97,7 +97,7 @@
 	}, 
 	{
 		"name": "Multiple Attack II",
-		"prerequisites": ["Multiple Attack I"],
+		"prerequisites": ["Heroism III"],
 		"uniques": ["[1] additional attacks per turn"],
 		"unitTypes" : ["Adventurer"]
 	}, 
@@ -126,20 +126,44 @@
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
+		"name": "Hit and Run",
+		"prerequisites": ["Quick Feet"],
+		"uniques": ["Can move after attacking"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
 		"name": "Eagle Eye",
 		"prerequisites": ["Strength II"],
 		"uniques": ["[+1] Sight"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
-		"name": "Heroes Aura",
+		"name": "Heroism I",
 		"prerequisites": ["Strength III"],
-		"uniques": ["[+5]% Strength bonus for [Military] units within [1] tiles"],
+		"uniques": ["[+33]% Strength"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Heroism II",
+		"prerequisites": ["Heroism I"],
+		"uniques": ["[+33]% Strength"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Heroism III",
+		"prerequisites": ["Heroism II"],
+		"uniques": ["[+33]% Strength"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Heroes Aura",
+		"prerequisites": ["Heroism III"],
+		"uniques": ["[+15]% Strength bonus for [Military] units within [1] tiles"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Change of Heart",
-		"prerequisites": ["Strength III"],
+		"prerequisites": ["Heroism II"],
 		"uniques": ["May capture killed [Land] units <with [12]% chance>"],
 		"unitTypes" : ["Adventurer"]
 	} 
