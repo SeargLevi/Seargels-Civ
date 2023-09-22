@@ -50,7 +50,7 @@
 	{
 		"name": "Companion Dog",
 		"prerequisites": ["Talent"],
-		"uniques": ["[+10]% Strength", "Only available <for units without [Companion Horse]>", "Only available <for units without [Companion Bird]>" ],
+		"uniques": ["[+15]% Strength", "Only available <for units without [Companion Horse]>", "Only available <for units without [Companion Bird]>" ],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
@@ -62,7 +62,7 @@
 	{
 		"name": "Companion Bird",
 		"prerequisites": ["Talent"],
-		"uniques": ["[+1] Sight", "Only available <for units without [Companion Dog]>", "Only available <for units without [Companion Horse]>" ],
+		"uniques": ["[+2] Sight", "Only available <for units without [Companion Dog]>", "Only available <for units without [Companion Horse]>" ],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
@@ -120,20 +120,8 @@
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
-		"name": "Quick Feet I",
+		"name": "Quick Feet",
 		"prerequisites": ["Talent"],
-		"uniques": ["[+1] Movement"],
-		"unitTypes" : ["Adventurer"]
-	}, 
-	{
-		"name": "Quick Feet II",
-		"prerequisites": ["Quick Feet I"],
-		"uniques": ["[+1] Movement"],
-		"unitTypes" : ["Adventurer"]
-	}, 
-	{
-		"name": "Quick Feet III",
-		"prerequisites": ["Quick Feet II"],
 		"uniques": ["[+1] Movement"],
 		"unitTypes" : ["Adventurer"]
 	}, 
@@ -146,7 +134,7 @@
 	{
 		"name": "Heroes Aura",
 		"prerequisites": ["Strength III"],
-		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles"],
+		"uniques": ["[+5]% Strength bonus for [Military] units within [1] tiles"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
