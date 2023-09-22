@@ -126,6 +126,12 @@
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
+		"name": "Team Up",
+		"prerequisites": ["Strength III"],
+		"uniques": ["[+30]% Strength <when adjacent to a [Adventurer] unit> <for units with [Team Up]>"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
 		"name": "Multiple Attack I",
 		"prerequisites": ["Strength III"],
 		"uniques": ["[1] additional attacks per turn"],
