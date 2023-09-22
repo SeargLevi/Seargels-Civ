@@ -180,6 +180,12 @@
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
+		"name": "Strong Legs",
+		"prerequisites": ["Quick Feet"],
+		"uniques": ["Can pass through impassable tiles", "Double movement in [Hill]"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
 		"name": "Hit and Run",
 		"prerequisites": ["Quick Feet"],
 		"uniques": ["Can move after attacking"],
