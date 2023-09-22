@@ -51,7 +51,6 @@
 		"strength": 11,
 		"cost": 75,
 		"requiredTech": "Bronze Working",
-		"promotions": ["Talent"],
 		"uniques": ["Can transform to [Adventurer Ranged] <for units with [Bow and Arrow]>"],
 		"attackSound": "metalhit",
 		"civilopediaText": [
@@ -66,7 +65,6 @@
 		"rangedStrength": 8,
 		"range": 1, 
 		"cost": 75,
-		"promotions": ["Talent"],
 		"uniques": ["Unbuildable", "Can transform to [Adventurer Melee]"],
 		"attackSound": "arrow",
 		"civilopediaText": [
