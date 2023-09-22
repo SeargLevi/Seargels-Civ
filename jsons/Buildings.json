@@ -6,5 +6,17 @@
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [10000] Experience [in this city]"] 
 		"requiredTech": "Agriculture"
+	}, 
+	{
+		"name": "Arena",
+		"cost": 140,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [30] per owned city", "Can only be built [in capital]",
+			"All newly-trained [Land] units [in this city] receive the [Drill I] Promotion <with [15]% chance>",
+			"All newly-trained [{Ranged} {Land}] units [in this city] receive the [Extended Range] Promotion <with [15]% chance>", 
+			"All newly-trained [Land] units [in this city] receive the [Woodsman] Promotion <with [15]% chance>", 
+			"All newly-trained [Land] units [in this city] receive the [Amphibious] Promotion <with [15]% chance>",
+			"All newly-trained [Land] units [in this city] receive the [Medic] Promotion <with [15]% chance>"],
+		"requiredTech": "Construction"
 	}
 ]
