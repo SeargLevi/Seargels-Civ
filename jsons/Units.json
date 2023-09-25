@@ -23,7 +23,7 @@
 		"cost": 425,
 		"requiredTech": "Rocketry",
 		"uniques": ["No defensive terrain bonus", "Cannot attack", "Can move after attacking",
-			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "Can carry [4] [Land] units" ],
+			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "Can carry [4] [Gunpowder] units" ],
 		"attackSound": "machinegun"
 	},
 	{
