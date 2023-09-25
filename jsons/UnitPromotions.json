@@ -26,7 +26,7 @@
 	},
 	{
 		"name": "Talent", 
-		"uniques": ["[+75]% XP gained from combat"], 
+		"uniques": ["[+100]% XP gained from combat"], 
 		"unitTypes": ["Adventurer"]
 	},
 	{
