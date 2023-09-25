@@ -1,16 +1,28 @@
 [
 	{
-		"name": "Raptor Supercarrier",
+		"name": "Supercarrier",
 		"unitType": "Aircraft Carrier",
 		"uniqueTo": "Durion",
 		"replaces": "Carrier",
 		"movement": 5,
-		"strength": 45,
-		"rangedStrength": 25,
-		"range": 2,
+		"strength": 100,
 		"cost": 500,
+		"requiredTech": "Robotics",
+		"uniques": ["Cannot attack", "Can carry [4] [Aircraft] units", "[+10]% Strength bonus for [Water] units within [2] tiles"],
+		"attackSound": "shipguns"
+	},
+	{
+		"name": "Minicarrier",
+		"unitType": "Aircraft Carrier",
+		"uniqueTo": "Durion",
+		"replaces": "Carrier",
+		"movement": 5,
+		"strength": 35,
+		"rangedStrength": 35,
+		"range": 1,
+		"cost": 325,
 		"requiredTech": "Electronics",
-		"uniques": ["Can carry [4] [Aircraft] units", "[+10]% Strength bonus for [Water] units within [2] tiles"],
+		"uniques": ["Can carry [1] [Aircraft] units"],
 		"attackSound": "shipguns"
 	},
 	{
