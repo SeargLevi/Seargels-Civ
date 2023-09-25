@@ -14,35 +14,6 @@
 		"attackSound": "shipguns"
 	},
 	{
-		"name": "Antonov",
-		"unitType": "Civilian",
-		"movement": 9,
-		"cost": 450, 
-		"requiredTech": "Radar", 
-		"uniques": ["Uncapturable", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "Can speed up construction of a building"]
-	}, 
-	{
-		"name": "Great General Recruit",
-		"unitType": "Mounted",
-		"uniqueTo": "Konstanz",
-		"replaces": "Horseman", 
-		"movement": 4,
-		"strength": 13,
-		"cost": 120,
-		"requiredTech": "Horseback Riding",
-		"requiredResource": "Horses",
-		"uniques" : ["Can transform to [Great General] <for units with [Great General Promotion]>"],
-		"attackSound": "horse",
-	}, 
-	{
-		"name": "Drone",
-		"unitType": "Civilian",
-		"requiredTech": "Stealth",
-		"movement": 5,
-		"cost": 400,
-		"uniques": ["[+3] Sight", "Can see over obstacles", "All tiles cost 1 movement", "Uncapturable"],
-	}, 
-	{
 		"name": "Adventurer Melee",
 		"unitType": "Adventurer",
 		"uniqueTo": "Konstanz",
