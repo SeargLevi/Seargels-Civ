@@ -53,5 +53,29 @@
 		"civilopediaText": [
 			{"text": "A talented unit with a lot of possible unique promotions."}
 		]
+	}, 
+	{
+		"name": "Great General of Defense",
+		"unitType": "Civilian",
+		"uniqueTo": "Konstanz",
+		"replaces": "Great General",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+30]% Strength bonus for [Military] units within [2] tiles <when defending>",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	}, 
+	{
+		"name": "Great General of Offense",
+		"unitType": "Civilian",
+		"uniqueTo": "Konstanz",
+		"replaces": "Great General",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+30]% Strength bonus for [Military] units within [2] tiles <when attacking>",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 5
 	}
 ]
