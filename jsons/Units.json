@@ -53,11 +53,5 @@
 		"civilopediaText": [
 			{"text": "A talented unit with a lot of possible unique promotions."}
 		]
-	}, 
-	{
-		"name": "Great Noob",
-		"unitType": "Civilian",
-		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[+33]% Strength bonus for [Land] units within [2] tiles","Great Person - [Food]", "Unbuildable","Uncapturable"],
-		"movement": 4
 	}
 ]
