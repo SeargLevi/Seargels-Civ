@@ -8,16 +8,12 @@
 		"requiredTech": "Agriculture"
 	}, 
 	{
-		"name": "Arena",
-		"cost": 140,
-		"isNationalWonder": true,
-		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [30] per owned city", "Can only be built [in capital]",
-			"All newly-trained [Land] units [in this city] receive the [Shock I] promotion <with [13]% chance>",
-			"All newly-trained [Land] units [in this city] receive the [Drill I] promotion <with [14]% chance>",
-			"All newly-trained [{Ranged} {Land}] units [in this city] receive the [Extended Range] promotion <with [15]% chance>", 
-			"All newly-trained [Land] units [in this city] receive the [Woodsman] promotion <with [16]% chance>", 
-			"All newly-trained [Land] units [in this city] receive the [Amphibious] promotion <with [17]% chance>",
-			"All newly-trained [Land] units [in this city] receive the [Medic] promotion <with [18]% chance>"],
-		"requiredTech": "Construction"
+		"name": "Guild Center",
+		"uniqueTo": "Konstanz",
+		"cost": 50,
+		"maintenance": 1,
+		"uniques": ["Limited to [1] per Civilization", "Creates a [Dungeon] improvement on a specific tile"] 
+		"requiredTech": "Bronze Working"
 	}
+	
 ]
