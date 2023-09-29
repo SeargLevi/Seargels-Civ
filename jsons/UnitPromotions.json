@@ -23,6 +23,24 @@
 		"unitTypes" : ["Adventurer"]
 	},  
 	{
+		"name": "Heroism I",
+		"prerequisites": ["Strength III"],
+		"uniques": ["[+30]% Strength"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Heroism II",
+		"prerequisites": ["Heroism I"],
+		"uniques": ["[+40]% Strength"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Heroism III",
+		"prerequisites": ["Heroism II"],
+		"uniques": ["[+50]% Strength"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
 		"name": "Defender I",
 		"prerequisites": ["Strength I"],
 		"uniques": ["[+20]% Strength <when defending>", "Only available <for units without [Attacker I]>"],
@@ -86,6 +104,12 @@
 		"name": "Strong Bow",
 		"prerequisites": ["Bow and Arrow"],
 		"uniques": ["[+1] Range"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "All Out",
+		"prerequisites": ["Strength I"],
+		"uniques": ["Damage is ignored when determining unit Strength"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
@@ -170,24 +194,6 @@
 		"name": "Eagle Eye",
 		"prerequisites": ["Strength II"],
 		"uniques": ["[+1] Sight"],
-		"unitTypes" : ["Adventurer"]
-	}, 
-	{
-		"name": "Heroism I",
-		"prerequisites": ["Strength III"],
-		"uniques": ["[+30]% Strength"],
-		"unitTypes" : ["Adventurer"]
-	}, 
-	{
-		"name": "Heroism II",
-		"prerequisites": ["Heroism I"],
-		"uniques": ["[+40]% Strength"],
-		"unitTypes" : ["Adventurer"]
-	}, 
-	{
-		"name": "Heroism III",
-		"prerequisites": ["Heroism II"],
-		"uniques": ["[+50]% Strength"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
