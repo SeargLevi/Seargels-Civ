@@ -30,9 +30,10 @@
 		"outerColor": [255,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Introverted",
-		"uniques": ["[+1] Unit Supply per [3] population [in all cities]", "[+30]% Culture cost of natural border growth [in all cities]", "[-20]% growth [in all cities]", 
+		"uniques": ["[+1] Unit Supply per [4] population [in all cities]", 
+			"[+30]% Culture cost of natural border growth [in all cities]", "[-20]% growth [in all cities]", 
 			"Free [Adventurer Melee] appears"]
-		"cities": ["Konstanz","Balrogh","Doron","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"cities": ["Konstanz","Wildberg","Kupfertal","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
@@ -68,7 +69,7 @@
 		"outerColor": [90,100,49],
 		"innerColor": [19,62,83],
 		"uniqueName": "To the seas! And beyond!",
-		"uniques": ["[+50]% XP gained from combat <for [Water] units>", "[+1] Movement <for [Water] units>", "[+1] Sight <for [Water] units>", "[Great General] is earned [+20]% faster <for [Water] units>"] 
+		"uniques": ["[+50]% XP gained from combat <for [Water] units>", "[Great General] is earned [+50]% faster <for [Water] units>"] 
 		"cities": ["Durion Prime","Nalon","Veeron Alpha","Veeron Beta","Magnon","Veeron Gamma","Nalon Outpost","Durion Ignis","Durion Terra",
 			"Durion Aqua","Durion Air","District 19","Durion Vita","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
