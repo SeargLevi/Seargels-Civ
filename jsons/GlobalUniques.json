@@ -26,8 +26,7 @@
         // "[+20]% [Production] [in cities connected via railroad]"
         // something something unit supply
 
-     "[+1] Range <for [Ranged] units> <in [Guard Tower] tiles>",
-     "[+2] Sight <for [All] units> <in [Guard Tower] tiles>", 
+     
 
     ]
 }
