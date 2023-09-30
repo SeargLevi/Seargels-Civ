@@ -1,7 +1,8 @@
 [
 	{
 		"name": "Talent", 
-		"uniques": ["[+200]% XP gained from combat"], 
+		"uniques": ["[+100]% XP gained from combat", "[+100]% XP gained from combat <while the empire is happy>", 
+			"This Promotion is free"], 
 		"unitTypes": ["Adventurer"]
 	},
 	{
@@ -113,6 +114,12 @@
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
+		"name": "Turn the Tides",
+		"prerequisites": ["All Out"],
+		"uniques": ["[+100]% Strength <when below [15] HP>"],
+		"unitTypes" : ["Adventurer"]
+	},
+	{
 		"name": "Looter I",
 		"prerequisites": ["Strength I"],
 		"uniques": ["Earn [50]% of the damage done to [Land] units as [Gold]"],
@@ -170,6 +177,12 @@
 		"name": "Healer III",
 		"prerequisites": ["Healer II"],
 		"uniques": ["Unit will heal every turn, even if it performs an action"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Dodge",
+		"prerequisites": ["Strength I"],
+		"uniques": ["May withdraw before melee ([33]%)"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
