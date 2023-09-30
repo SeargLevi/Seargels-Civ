@@ -34,7 +34,8 @@
 		"strength": 11,
 		"cost": 65,
 		"requiredTech": "Bronze Working",
-		"uniques": ["Can transform to [Adventurer Ranged] <for units with [Bow and Arrow]>", "Limited to [10] per Civilization"],
+		"uniques": ["Can transform to [Adventurer Ranged] <for units with [Bow and Arrow]>", "Limited to [10] per Civilization", 
+			"This Unit gains [4] XP <upon ending a turn in a [Dungeon] tile>", "Heal this unit by [-10] HP <upon ending a turn in a [Dungeon] tile>"],
 		"attackSound": "metalhit",
 		"civilopediaText": [
 			{"text": "A talented unit with a lot of possible unique promotions."}
@@ -48,7 +49,8 @@
 		"rangedStrength": 8,
 		"range": 1, 
 		"cost": 65,
-		"uniques": ["Unbuildable", "Can transform to [Adventurer Melee]", "Limited to [10] per Civilization"],
+		"uniques": ["Unbuildable", "Can transform to [Adventurer Melee]", "Limited to [5] per Civilization",
+			"This Unit gains [4] XP <upon ending a turn in a [Dungeon] tile>", "Heal this unit by [-10] HP <upon ending a turn in a [Dungeon] tile>"],
 		"attackSound": "arrow",
 		"civilopediaText": [
 			{"text": "A talented unit with a lot of possible unique promotions."}
