@@ -198,6 +198,12 @@
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
+		"name": "Escape",
+		"prerequisites": ["Quick Feet"],
+		"uniques": ["[+4] Movement <when below [15] HP>"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
 		"name": "Hit and Run",
 		"prerequisites": ["Quick Feet"],
 		"uniques": ["Can move after attacking"],
