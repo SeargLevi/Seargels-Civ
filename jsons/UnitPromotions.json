@@ -235,9 +235,19 @@
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
-		"name": "Magic",
-		"uniques": ["Heals [25] damage if it kills a unit", "Only available <with [Grimoire]>", "Consumes [1] [Grimoire]" ],
+		"name": "Drain Magic",
+		"uniques": ["Heals [25] damage if it kills a unit", "Only available <with [Grimoire]>", "Consumes [1] [Grimoire]"],
 		"unitTypes" : ["Adventurer"]
-	}  
+	}, 
+	{
+		"name": "Shield Magic",
+		"uniques": ["[+50]% Strength bonus for [Military] units within [1] tiles <when defending>", "Only available <with [Grimoire]>", "Consumes [1] [Grimoire]"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
+		"name": "Summon Magic",
+		"uniques": ["Free [Musketman] appears"],
+		"unitTypes" : ["Adventurer"]
+	}
 		
 ] 
