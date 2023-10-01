@@ -2,7 +2,7 @@
     {
         "name": "Adventurer",
         "movementType": "Land", 
-        "uniques": ["This Unit gains the [Magic] Promotion <once> <with [Magic Stone]>"
+        "uniques": ["This Unit gains the [Magic] Promotion <once> <with [Magic Stone]>"] 
     }, 
     {
         "name": "Companion",
