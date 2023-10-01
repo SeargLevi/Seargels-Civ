@@ -246,7 +246,7 @@
 	}, 
 	{
 		"name": "Summon Magic",
-		"uniques": ["Free [Musketman] appears"],
+		"uniques": ["Free [Musketman] appears", "Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes" : ["Adventurer"]
 	}
 		
