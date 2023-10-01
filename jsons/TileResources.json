@@ -1,6 +1,6 @@
 [
   {
-		"name": "Magic Stone",
+		"name": "Grimoire",
 		"resourceType": "Strategic",
 		"faith": 7,
 		"uniques": ["Cannot be traded", "Stockpiled"]
