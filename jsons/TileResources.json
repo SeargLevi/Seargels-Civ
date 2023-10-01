@@ -1,1 +1,8 @@
-
+[
+  {
+		"name": "Magic Stone",
+		"resourceType": "Strategic",
+		"faith": 7,
+		"uniques": ["Cannot be traded"]
+  } 
+] 
