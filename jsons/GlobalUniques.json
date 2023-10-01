@@ -27,7 +27,8 @@
         // something something unit supply, 
 
   		"Gain [1] [Grimoire] <upon defeating a [Great Prophet] unit> <with [33]% chance>",
-        "Gain [1] [Grimoire] <upon conquering a city> <with [10]% chance>"
+        "Gain [1] [Grimoire] <upon conquering a city> <with [10]% chance>", 
+        "Gain [1] [Grimoire] <upon ending a turn in a [Dungeon] tile> <with [1]% chance>"
     
     ]
 
