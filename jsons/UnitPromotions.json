@@ -236,7 +236,7 @@
 	}, 
 	{
 		"name": "Magic",
-		"uniques": ["Heals [25] damage if it kills a unit", "Consumes [1] [Magic Stone]" ],
+		"uniques": ["Heals [25] damage if it kills a unit", "Only available <with [Magic Stone]>", "Consumes [1] [Magic Stone]" ],
 		"unitTypes" : ["Adventurer"]
 	}  
 		
