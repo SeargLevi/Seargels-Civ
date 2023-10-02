@@ -36,7 +36,7 @@
 		"requiredTech": "Bronze Working",
 		"uniques": ["Can transform to [Adventurer Ranged] <for units with [Bow and Arrow]>", "Limited to [10] per Civilization", 
 			"This Unit gains [3] XP <upon ending a turn in a [Dungeon] tile>", "Heal this unit by [-30] HP <upon ending a turn in a [Dungeon] tile>",
-			"Instantly provides [3] [Grimoire] <upon ending a turn in a [Dungeon] tile>"],
+			"Instantly provides [3] [Grimoire] <upon ending a turn in a [Dungeon] tile> <with [1]% chance>"],
 		"attackSound": "metalhit",
 		"civilopediaText": [
 			{"text": "A talented unit with a lot of possible unique promotions."}
@@ -53,7 +53,8 @@
 		"range": 1, 
 		"cost": 65,
 		"uniques": ["Unbuildable", "Can transform to [Adventurer Melee]", "Limited to [5] per Civilization",
-			"This Unit gains [4] XP <upon ending a turn in a [Dungeon] tile>", "Heal this unit by [-30] HP <upon ending a turn in a [Dungeon] tile>"],
+			"This Unit gains [3] XP <upon ending a turn in a [Dungeon] tile>", "Heal this unit by [-30] HP <upon ending a turn in a [Dungeon] tile>",
+			"Instantly provides [3] [Grimoire] <upon ending a turn in a [Dungeon] tile> <with [1]% chance>" ],
 		"attackSound": "arrow",
 		"civilopediaText": [
 			{"text": "A talented unit with a lot of possible unique promotions."}
