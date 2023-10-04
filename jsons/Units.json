@@ -55,5 +55,16 @@
 		"civilopediaText": [
 			{"text": "A talented unit with a lot of possible unique promotions."}
 		]
+	}, 
+	{
+		"name": "Shadow Clone",
+		"unitType": "Sword",
+		"uniqueTo": "Filler",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 8,
+		"cost": 65,
+		"uniques": ["Unbuildable"],
+		"attackSound": "metalhit", 
 	}
 ]
