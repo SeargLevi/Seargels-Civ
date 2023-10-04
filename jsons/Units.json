@@ -59,7 +59,6 @@
 	{
 		"name": "Shadow Clone",
 		"unitType": "Sword",
-		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 5,
 		"cost": 1,
