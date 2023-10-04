@@ -1,4 +1,9 @@
 [
+	
+	{
+		"name": "Hero", 
+		"uniques": ["[+300]% Strength"],
+	},
 	{
 		"name": "Talent", 
 		"uniques": ["[+100]% XP gained from combat", "[+100]% XP gained from combat <while the empire is happy>", 
