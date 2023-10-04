@@ -252,6 +252,12 @@
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
+		"name": "Teleport Magic",
+		"uniques": ["May Paradrop up to [4] tiles from inside friendly territory", 
+			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]", "This Promotion is free"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
 		"name": "Summon Magic",
 		"uniques": ["Free [Shadow Clone] appears", "Doing so will consume this opportunity to choose a Promotion", 
 			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]"],
