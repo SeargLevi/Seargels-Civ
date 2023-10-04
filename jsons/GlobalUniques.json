@@ -26,8 +26,8 @@
         // "[+20]% [Production] [in cities connected via railroad]"
         // something something unit supply, 
 
-  		"Gain [1] [Grimoire] <upon defeating a [Great Prophet] unit>",
-        "Gain [1] [Grimoire] <upon conquering a city>"
+  		"Instantly provides [1] [Grimoire] <upon defeating a [Great Prophet] unit> <with [33]% chance>",
+        "Instantly provides [1] [Grimoire] <upon conquering a city> <with [8]% chance>"
     
     ]
 
