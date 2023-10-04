@@ -242,19 +242,19 @@
 	{
 		"name": "Drain Magic",
 		"uniques": ["Heals [25] damage if it kills a unit", 
-			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]"],
+			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]", "This Promotion is free"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Shield Magic",
 		"uniques": ["[+50]% Strength bonus for [Military] units within [1] tiles <when defending>", 
-			"Only available <with [Grimoire]>", "Consumes [1] [Grimoire]"],
+			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]", "This Promotion is free"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Summon Magic",
-		"uniques": ["Free [Musketman] appears", "Doing so will consume this opportunity to choose a Promotion", 
-			"Only available <with [Grimoire]>", "Consumes [1] [Grimoire]"],
+		"uniques": ["Free [Shadow Clone] appears", "Doing so will consume this opportunity to choose a Promotion", 
+			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]"],
 		"unitTypes" : ["Adventurer"]
 	}
 		
