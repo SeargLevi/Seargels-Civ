@@ -59,12 +59,11 @@
 	{
 		"name": "Shadow Clone",
 		"unitType": "Sword",
-		"uniqueTo": "Filler",
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 5,
-		"cost": 65,
-		"uniques": ["Unbuildable"],
+		"cost": 1,
+		"uniques": ["Cannot attack"],
 		"attackSound": "metalhit", 
 	}
 ]
