@@ -242,19 +242,19 @@
 	{
 		"name": "Drain Magic",
 		"uniques": ["Heals [30] damage if it kills a unit", 
-			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]", "This Promotion is free"],
+			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Shield Magic",
 		"uniques": ["[+70]% Strength bonus for [Military] units within [1] tiles <when defending>", 
-			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]", "This Promotion is free"],
+			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Teleport Magic",
 		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", 
-			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]", "This Promotion is free"],
+			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
