@@ -2,354 +2,267 @@
 	
 	{
 		"name": "Hero", 
-		"uniques": ["[+300]% Strength"],
-		"row": 0,
-		"column": 0
+		"uniques": ["[+300]% Strength"]
 	},
 	{
 		"name": "Talent", 
 		"uniques": ["[+100]% XP gained from combat", "[+100]% XP gained from combat <while the empire is happy>", 
 			"This Promotion is free"], 
-		"unitTypes": ["Adventurer"], 
-		"row": 4,
-		"column": 0
+		"unitTypes": ["Adventurer"]
 	},
 	{
 		"name": "Strength I",
 		"prerequisites": ["Talent"],
 		"uniques": ["[+10]% Strength"],
-		"unitTypes" : ["Adventurer"], 
-		"row": 4,
-		"column": 1
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Strength II",
 		"prerequisites": ["Strength I"],
 		"uniques": ["[+15]% Strength"],
-		"unitTypes" : ["Adventurer"],
-		"row": 4,
-		"column": 2
+		"unitTypes" : ["Adventurer"]
 	},  
 	{
 		"name": "Strength III",
 		"prerequisites": ["Strength II"],
 		"uniques": ["[+20]% Strength"],
-		"unitTypes" : ["Adventurer"],
-		"row": 4,
-		"column": 3
+		"unitTypes" : ["Adventurer"]
 	},  
 	{
 		"name": "Heroism I",
 		"prerequisites": ["Strength III"],
 		"uniques": ["[+30]% Strength"],
-		"unitTypes" : ["Adventurer"],
-		"row": 4,
-		"column": 4
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Heroism II",
 		"prerequisites": ["Heroism I"],
 		"uniques": ["[+40]% Strength"],
-		"unitTypes" : ["Adventurer"],
-		"row": 4,
-		"column": 5
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Heroism III",
 		"prerequisites": ["Heroism II"],
 		"uniques": ["[+50]% Strength"],
-		"unitTypes" : ["Adventurer"],
-		"row": 4,
-		"column": 6
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Defender I",
-		"prerequisites": ["Strength I"],
+		"prerequisites": ["Talent"],
 		"uniques": ["[+20]% Strength <when defending>", "Only available <for units without [Attacker I]>"],
-		"unitTypes" : ["Adventurer"], 
-		"row": 6,
-		"column": 1
+		"unitTypes" : ["Adventurer"]
 	},  
 	{
 		"name": "Defender II",
 		"prerequisites": ["Defender I"],
 		"uniques": ["[+25]% Strength <when defending>"],
-		"unitTypes" : ["Adventurer"],
-		"row": 6,
-		"column": 2
+		"unitTypes" : ["Adventurer"]
 	},  
 	{
 		"name": "Defender III",
 		"prerequisites": ["Defender II"],
 		"uniques": ["[+30]% Strength <when defending>"],
-		"unitTypes" : ["Adventurer"],
-		"row": 6,
-		"column": 3
+		"unitTypes" : ["Adventurer"]
 	},  
 	{
 		"name": "Attacker I",
-		"prerequisites": ["Strength I"],
+		"prerequisites": ["Talent"],
 		"uniques": ["[+15]% Strength <when attacking>", "Only available <for units without [Defender I]>"],
-		"unitTypes" : ["Adventurer"],
-		"row": 5,
-		"column": 1
+		"unitTypes" : ["Adventurer"]
 	},  
 	{
 		"name": "Attacker II",
 		"prerequisites": ["Attacker I"],
 		"uniques": ["[+20]% Strength <when attacking>"],
-		"unitTypes" : ["Adventurer"],
-		"row": 5,
-		"column": 2
+		"unitTypes" : ["Adventurer"] 
 	},  
 	{
 		"name": "Attacker III",
 		"prerequisites": ["Attacker II"],
 		"uniques": ["[+25]% Strength <when attacking>"],
-		"unitTypes" : ["Adventurer"],
-		"row": 5,
-		"column": 3
+		"unitTypes" : ["Adventurer"]
 	},  
 	{
 		"name": "Companion Dog",
 		"prerequisites": ["Talent"],
 		"uniques": ["[+15]% Strength", "Only available <for units without [Companion Horse]>", "Only available <for units without [Companion Bird]>" ],
-		"unitTypes" : ["Adventurer"], 
-		"row": 1,
-		"column": 1
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Companion Horse",
 		"prerequisites": ["Talent"],
 		"uniques": ["[+2] Movement", "Only available <for units without [Companion Dog]>", "Only available <for units without [Companion Bird]>"],
-		"unitTypes" : ["Adventurer"],
-		"row": 2,
-		"column": 1
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Companion Bird",
 		"prerequisites": ["Talent"],
 		"uniques": ["[+1] Sight", "Can see over obstacles", "Only available <for units without [Companion Dog]>", "Only available <for units without [Companion Horse]>" ],
-		"unitTypes" : ["Adventurer"],
-		"row": 3,
-		"column": 1
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Bow and Arrow",
 		"prerequisites": ["Strength II"],
 		"uniques": ["Can transform to [Adventurer Ranged]"],
-		"unitTypes" : ["Adventurer"], 
-		"row": 0,
-		"column": 3
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Strong Bow I",
 		"prerequisites": ["Bow and Arrow"],
 		"uniques": ["[+1] Range"],
-		"unitTypes" : ["Adventurer"],
-		"row": 0,
-		"column": 4
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Strong Bow II",
-		"prerequisites": ["Strong Bow II"],
+		"prerequisites": ["Strong Bow I"],
 		"uniques": ["[+1] Range"],
-		"unitTypes" : ["Adventurer"],
-		"row": 0,
-		"column": 5
+		"unitTypes" : ["Adventurer"] 
 	}, 
 	{
 		"name": "All Out",
-		"prerequisites": ["Strength I"],
+		"prerequisites": ["Strength II"],
 		"uniques": ["Damage is ignored when determining unit Strength"],
-		"unitTypes" : ["Adventurer"],
-		"row": 7,
-		"column": 3
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Turn the Tides",
 		"prerequisites": ["All Out"],
 		"uniques": ["[+100]% Strength <when below [15] HP>"],
-		"unitTypes" : ["Adventurer"], 
-		"row": 7,
-		"column": 4
+		"unitTypes" : ["Adventurer"]
 	},
 	{
 		"name": "Looter I",
 		"prerequisites": ["Strength I"],
 		"uniques": ["Earn [50]% of the damage done to [Land] units as [Gold]"],
-		"unitTypes" : ["Adventurer"], 
-		"row": 8,
-		"column": 2
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Looter II",
 		"prerequisites": ["Looter I"],
 		"uniques": ["Earn [100]% of the damage done to [Land] units as [Gold]"],
-		"unitTypes" : ["Adventurer"], 
-		"row": 8,
-		"column": 3
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Team Up",
 		"prerequisites": ["Strength III"],
 		"uniques": ["[+30]% Strength <when adjacent to a [Adventurer] unit> <for units with [Team Up]>"],
-		"unitTypes" : ["Adventurer"],
-		"row": 9,
-		"column": 4
+		"unitTypes" : ["Adventurer"] 
 	}, 
 	{
 		"name": "Intimidation I",
 		"prerequisites": ["Strength III"],
 		"uniques": ["[-5]% Strength for enemy [Land] units in adjacent [All] tiles" ],
-		"unitTypes" : ["Adventurer"], 
-		"row": 10,
-		"column": 4
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Intimidation II",
 		"prerequisites": ["Intimidation I"],
 		"uniques": ["[-10]% Strength for enemy [Land] units in adjacent [All] tiles" ],
-		"unitTypes" : ["Adventurer"],
-		"row": 10,
-		"column": 5
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Multiple Attack I",
 		"prerequisites": ["Strength III"],
 		"uniques": ["[1] additional attacks per turn"],
-		"unitTypes" : ["Adventurer"],
-		"row": 3,
-		"column": 4
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Multiple Attack II",
 		"prerequisites": ["Heroism III"],
 		"uniques": ["[1] additional attacks per turn"],
-		"unitTypes" : ["Adventurer"], 
-		"row": 3,
-		"column": 7
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Healer I",
 		"prerequisites": ["Strength II"],
 		"uniques": ["[+5] HP when healing"],
-		"unitTypes" : ["Adventurer"],
-		"row": 2,
-		"column": 3
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Healer II",
 		"prerequisites": ["Healer I"],
 		"uniques": ["[+5] HP when healing"],
-		"unitTypes" : ["Adventurer"],
-		"row": 2,
-		"column": 4
+		"unitTypes" : ["Adventurer"]
 	},
 	{
 		"name": "Healer III",
 		"prerequisites": ["Healer II"],
 		"uniques": ["Unit will heal every turn, even if it performs an action"],
-		"unitTypes" : ["Adventurer"],
-		"row": 2,
-		"column": 5
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Dodge",
 		"prerequisites": ["Strength I"],
 		"uniques": ["May withdraw before melee ([33]%)"],
-		"unitTypes" : ["Adventurer"],
-		"row": 9,
-		"column": 2
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Quick Feet",
 		"prerequisites": ["Talent"],
 		"uniques": ["[+1] Movement"],
-		"unitTypes" : ["Adventurer"],
-		"row": 10
-		"column": 1
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Strong Legs",
 		"prerequisites": ["Quick Feet"],
 		"uniques": ["Can pass through impassable tiles", "Double movement in [Hill]"],
-		"unitTypes" : ["Adventurer"],
-		"row": 10,
-		"column": 2
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Escape",
 		"prerequisites": ["Quick Feet"],
 		"uniques": ["[+4] Movement <when below [15] HP>"],
-		"unitTypes" : ["Adventurer"],
-		"row": 11,
-		"column": 2
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Hit and Run",
 		"prerequisites": ["Quick Feet"],
 		"uniques": ["Can move after attacking"],
 		"unitTypes" : ["Adventurer"], 
-		"row": 12,
-		"column": 2
 	}, 
+
 	{
-		"name": "Heroes Aura",
+		"Heroes Aura",
 		"prerequisites": ["Heroism III"],
 		"uniques": ["[+15]% Strength bonus for [Military] units within [1] tiles"],
-		"unitTypes" : ["Adventurer"], 
-		"row": 4,
-		"column": 7
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Hiding",
 		"prerequisites": ["Heroism II"],
 		"uniques": ["Invisible to non-adjacent units <in [Forest] tiles>", 
 			"Invisible to non-adjacent units <in [Jungle] tiles>"],
-		"unitTypes" : ["Adventurer"], 
-		"row": 6,
-		"column": 6
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Change of Heart",
 		"prerequisites": ["Heroism II"],
 		"uniques": ["May capture killed [Land] units <with [12]% chance>"],
-		"unitTypes" : ["Adventurer"], 
-		"row": 5,
-		"column": 6
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Drain Magic",
 		"uniques": ["Heals [30] damage if it kills a unit", 
 			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]"],
-		"unitTypes" : ["Adventurer"], 
-		"row": 13,
-		"column": 0
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Shield Magic",
 		"uniques": ["[+70]% Strength bonus for [Military] units within [1] tiles <when defending>", 
 			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]"],
-		"unitTypes" : ["Adventurer"],
-		"row": 13,
-		"column": 1
+		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Teleport Magic",
 		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", 
 			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]"],
-		"unitTypes" : ["Adventurer"],
-		"row": 13,
-		"column": 2
+		"unitTypes" : ["Adventurer"]
 	},
 	{
 		"name": "Summon Magic",
 		"uniques": ["[2] free [Shadow Clone] units appear", "Doing so will consume this opportunity to choose a Promotion", 
 			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]"],
-		"unitTypes" : ["Adventurer"],
-		"row": 13,
-		"column": 3
+		"unitTypes" : ["Adventurer"]
 	}
 		
 ] 
