@@ -28,7 +28,7 @@
 
   		"Instantly provides [1] [Grimoire] <upon defeating a [Great Prophet] unit> <with [33]% chance>",
         "Instantly provides [1] [Grimoire] <upon conquering a city> <with [8]% chance>", 
-        "[0] XP gained from combat <vs [Shadow Clone] units>"
+        "[-1000]% XP gained from combat <vs [Shadow Clone] units>"
     
     ]
 
