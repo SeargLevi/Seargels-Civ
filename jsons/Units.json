@@ -57,9 +57,7 @@
 	}, 
 	{
 		"name": "Shadow Clone",
-		"unitType": "Sword",
-		"uniqueTo": "Konstanz", 
-		"replaces": "Swordsman", 
+		"unitType": "Sword", 
 		"movement": 2,
 		"strength": 5,
 		"cost": 1,
