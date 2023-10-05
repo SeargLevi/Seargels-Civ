@@ -260,7 +260,8 @@
 	},
 	{
 		"name": "Summon Magic",
-		"uniques": ["[2] free [Shadow Clone] units appear", "Doing so will consume this opportunity to choose a Promotion", 
+		"uniques": ["Free [Shadow Clone] appears", "Free [Shadow Clone] appears <with [50]% chance>", "Free [Shadow Clone] appears <with [25]% chance>", 
+			"Doing so will consume this opportunity to choose a Promotion", 
 			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]"],
 		"unitTypes" : ["Adventurer"]
 	}
