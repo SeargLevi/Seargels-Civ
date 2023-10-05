@@ -211,7 +211,7 @@
 	{
 		"name": "Escape",
 		"prerequisites": ["Quick Feet"],
-		"uniques": ["[+4] Movement <when below [15] HP>"],
+		"uniques": ["[+4] Movement <when below [25] HP>"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
@@ -219,8 +219,7 @@
 		"prerequisites": ["Quick Feet"],
 		"uniques": ["Can move after attacking"],
 		"unitTypes" : ["Adventurer"], 
-	}, 
-
+	},
 	{
 		"Heroes Aura",
 		"prerequisites": ["Heroism III"],
