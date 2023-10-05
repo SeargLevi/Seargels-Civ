@@ -215,12 +215,6 @@
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
-		"name": "Eagle Eye",
-		"prerequisites": ["Strength II"],
-		"uniques": ["[+1] Sight"],
-		"unitTypes" : ["Adventurer"]
-	}, 
-	{
 		"name": "Heroes Aura",
 		"prerequisites": ["Heroism III"],
 		"uniques": ["[+15]% Strength bonus for [Military] units within [1] tiles"],
@@ -256,7 +250,7 @@
 		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", 
 			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]"],
 		"unitTypes" : ["Adventurer"]
-	}, 
+	},
 	{
 		"name": "Summon Magic",
 		"uniques": ["[2] free [Shadow Clone] units appear", "Doing so will consume this opportunity to choose a Promotion", 
