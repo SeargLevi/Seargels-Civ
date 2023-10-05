@@ -59,10 +59,12 @@
 	{
 		"name": "Shadow Clone",
 		"unitType": "Sword",
+		"uniqueTo": "Konstanz", 
+		"replaces": "Swordsman", 
 		"movement": 2,
 		"strength": 5,
 		"cost": 1,
-		"uniques": ["Cannot attack"],
+		"uniques": ["Unbuildable", "[+100]% Strength <when adjacent to a [Adventurer] unit>"],
 		"attackSound": "metalhit", 
 	}
 ]
