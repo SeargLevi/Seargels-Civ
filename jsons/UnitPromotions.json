@@ -221,7 +221,7 @@
 		"unitTypes" : ["Adventurer"], 
 	},
 	{
-		"Heroes Aura",
+		"name": "Heroes Aura",
 		"prerequisites": ["Heroism III"],
 		"uniques": ["[+15]% Strength bonus for [Military] units within [1] tiles"],
 		"unitTypes" : ["Adventurer"]
