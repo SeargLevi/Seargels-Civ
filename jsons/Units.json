@@ -45,7 +45,7 @@
 		"name": "Shadow Clone",
 		"unitType": "Sword", 
 		"movement": 2,
-		"strength": 5,
+		"strength": 3,
 		"cost": 1,
 		"uniques": ["Unbuildable", "[+100]% Strength <when adjacent to a [Adventurer] unit>"],
 		"attackSound": "metalhit", 
