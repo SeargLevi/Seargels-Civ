@@ -11,6 +11,7 @@
 		"name": "Guild Center",
 		"uniqueTo": "Konstanz",
 		"cost": 50,
+		"hurryCostModifier": 40,
 		"maintenance": 1,
 		"uniques": ["Limited to [1] per Civilization", "Creates a [Dungeon] improvement on a specific tile", "Unsellable"]
 	}
