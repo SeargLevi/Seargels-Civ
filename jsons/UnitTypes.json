@@ -5,7 +5,7 @@
         "uniques": ["This Unit gains the [Hero] promotion <upon defeating a [Military] unit> <when below [10] HP> <with [5]% chance>", 
        			"Limited to [10] per Civilization", 
        			"This Unit gains [3] XP <upon ending a turn in a [Dungeon] tile>", "Heal this unit by [-30] HP <upon ending a turn in a [Dungeon] tile>",
-			"Instantly provides [1] [Grimoire] <upon ending a turn in a [Dungeon] tile> <with [1]% chance>",]
+			"Instantly provides [1] [Grimoire] <upon ending a turn in a [Dungeon] tile> <with [1]% chance>"]
     }, 
     {
         "name": "Companion",
