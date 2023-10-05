@@ -44,7 +44,7 @@
 		"name": "Adventurer Ranged",
 		"unitType": "Adventurer",
 		"uniqueTo": "Konstanz",
-		"replaces": "Bowman",
+		"replaces": "Archer",
 		"movement": 2,
 		"strength": 9,
 		"rangedStrength": 8,
