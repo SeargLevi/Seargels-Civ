@@ -49,5 +49,15 @@
 		"cost": 1,
 		"uniques": ["Unbuildable", "[+100]% Strength <when adjacent to a [Adventurer] unit>"],
 		"attackSound": "metalhit", 
-	}
+	}, 
+	{
+		"name": "White Dragon of Light",
+		"unitType": "Creature",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 65,
+		"cost": 50,
+		"uniques": ["Limited to [10] per Civilization"],
+		"attackSound": "nonmetalhit"
+	}, 
 ]
