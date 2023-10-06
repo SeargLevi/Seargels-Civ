@@ -13,5 +13,9 @@
     {
         "name": "Companion",
         "movementType": "Land"
-    }
+    }, 
+	{
+        "name": "Creature",
+        "movementType": "Land"
+	} 
 ] 
