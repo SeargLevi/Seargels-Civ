@@ -2,7 +2,7 @@
   {
 		"name": "Dungeon",
 		"terrainsCanBeBuiltOn": ["Land"], 
-	 	"uniques": ["Unpillagable", "Irremovable", "Unbuildable"], 
+	 	"uniques": ["Unpillagable", "Irremovable"], 
 	 	"civilopediaText": [{"text":"The place to have an adventure"}] 
   } 
 ] 
