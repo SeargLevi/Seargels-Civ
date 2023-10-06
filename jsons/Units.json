@@ -57,7 +57,7 @@
 		"movement": 2,
 		"strength": 65,
 		"cost": 50,
-		"uniques": ["Limited to [10] per Civilization"],
+		"uniques": ["Limited to [5] per Civilization", "Ignores terrain cost"],
 		"attackSound": "nonmetalhit"
 	}, 
 ]
