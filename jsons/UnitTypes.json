@@ -17,5 +17,6 @@
 	{
         "name": "Creature",
         "movementType": "Land"
+	"uniques": "Uncapturable <vs [Adventurer] units> <for units without [Tamer Magic]>"
 	} 
 ] 
