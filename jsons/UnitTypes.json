@@ -18,6 +18,6 @@
 	{
         "name": "Creature",
         "movementType": "Land"
-	"uniques": "Uncapturable <vs [All] units> <for units without [Taming Magic]>"
+	"uniques": ["Uncapturable <vs [All] units> <for units without [Taming Magic]>"] 
 	} 
 ] 
