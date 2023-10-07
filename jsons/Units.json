@@ -18,7 +18,7 @@
 		"replaces": "Swordsman", 
 		"movement": 2,
 		"strength": 11,
-		"cost": 65,
+		"cost": 50,
 		"requiredTech": "Bronze Working",
 		"attackSound": "metalhit",
 		"civilopediaText": [
@@ -34,7 +34,7 @@
 		"strength": 9,
 		"rangedStrength": 8,
 		"range": 1, 
-		"cost": 65,
+		"cost": 40,
 		"uniques": ["Unbuildable"],
 		"attackSound": "arrow",
 		"civilopediaText": [
