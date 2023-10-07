@@ -50,14 +50,25 @@
 		"uniques": ["Unbuildable", "[+100]% Strength <when adjacent to a [Adventurer] unit>"],
 		"attackSound": "metalhit", 
 	}, 
+	//Creatures
 	{
 		"name": "White Dragon of Light",
 		"unitType": "Creature",
 		"uniqueTo": "Barbarians",
 		"movement": 2,
-		"strength": 5,
+		"strength": 60,
 		"cost": 50,
 		"uniques": ["Limited to [5] per Civilization", "Ignores terrain cost"],
 		"attackSound": "nonmetalhit"
 	}, 
+	{
+		"name": "Black Magician of Darkness",
+		"unitType": "Creature",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 40,
+		"cost": 50,
+		"uniques": ["Limited to [5] per Civilization", "Can pass through impassable tiles"],
+		"attackSound": "nonmetalhit"
+	}
 ]
