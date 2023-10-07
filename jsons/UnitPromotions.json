@@ -260,7 +260,7 @@
 	},
 	{
 		"name": "Taming Magic",
-		"uniques": ["May capture killed [Creature] units <with [100]% chance>",
+		"uniques": ["May capture killed [Creature] units <with [66]% chance>",
 			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]"],
 		"unitTypes" : ["Adventurer"]
 	}, 
