@@ -259,6 +259,12 @@
 		"unitTypes" : ["Adventurer"]
 	},
 	{
+		"name": "Taming Magic",
+		"uniques": ["May capture killed [Creature] units <with [50]% chance>",
+			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
 		"name": "Summon Magic",
 		"uniques": ["Free [Shadow Clone] appears", "Free [Shadow Clone] appears <with [50]% chance>", "Free [Shadow Clone] appears <with [25]% chance>", 
 			"Doing so will consume this opportunity to choose a Promotion", 
