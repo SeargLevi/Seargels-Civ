@@ -8,8 +8,7 @@
 			"Instantly provides [1] [Grimoire] <upon ending a turn in a [Dungeon] tile> <with [1]% chance>", 
 			"Gain [1] [Gold] <upon ending a turn in a [Dungeon] tile>",
 			"Gain [2] [Gold] <upon ending a turn in a [Dungeon] tile> <for units with [Looter I]>",
-			"Gain [3] [Gold] <upon ending a turn in a [Dungeon] tile> <for units with [Looter II]>", 
-			"May capture killed [Creature] units <with [100]% chance>"]
+			"Gain [3] [Gold] <upon ending a turn in a [Dungeon] tile> <for units with [Looter II]>"]
     }, 
     {
         "name": "Companion",
@@ -18,6 +17,5 @@
 	{
         "name": "Creature",
         "movementType": "Land"
-	"uniques": ["Uncapturable <vs [All] units> <for units without [Taming Magic]>"] 
 	} 
 ] 
