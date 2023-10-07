@@ -55,7 +55,7 @@
 		"unitType": "Creature",
 		"uniqueTo": "Barbarians",
 		"movement": 2,
-		"strength": 65,
+		"strength": 5,
 		"cost": 50,
 		"uniques": ["Limited to [5] per Civilization", "Ignores terrain cost"],
 		"attackSound": "nonmetalhit"
