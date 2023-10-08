@@ -1,10 +1,6 @@
 [
 	
 	{
-		"name": "Hero", 
-		"uniques": ["[+300]% Strength"]
-	},
-	{
 		"name": "Talent", 
 		"uniques": ["[+100]% XP gained from combat", "[+100]% XP gained from combat <while the empire is happy>", 
 			"This Promotion is free"], 
@@ -239,6 +235,15 @@
 		"uniques": ["May capture killed [Land] units <with [12]% chance>"],
 		"unitTypes" : ["Adventurer"]
 	}, 
+	//Special
+	{
+		"name": "Hero", 
+		"uniques": ["[+300]% Strength"]
+	},
+	{
+		"name": "Dragon Slayer", 
+		"uniques": ["[+100]% Strength <vs [White Dragon of Light] units>"]
+	},
 	//Magic
 	{
 		"name": "Drain Magic",
