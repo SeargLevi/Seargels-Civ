@@ -29,7 +29,7 @@
   		"Instantly provides [1] [Grimoire] <upon defeating a [Great Prophet] unit> <with [33]% chance>", 
         "Instantly provides [1] [Grimoire] <upon defeating a [Black Magician of Darkness] unit> <with [100]% chance>",
         "Instantly provides [1] [Grimoire] <upon conquering a city> <with [8]% chance>", 
-        "Instantly provides [1] [Grimoire] <upon gaining a [Great Prophet] unit> <with [100]% chance>", 
+        "Gain [1] [Grimoire] <upon gaining a [Great Prophet] unit> <with [100]% chance>", 
         "[-100]% XP gained from combat <vs [Shadow Clone] units>", 
         "[-50]% XP gained from combat <vs [Shadow Clone] units> <after adopting [Military Tradition]>", 
         "Gain [+999] [Faith]"
