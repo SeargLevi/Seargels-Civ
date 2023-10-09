@@ -52,23 +52,43 @@
 	}, 
 	//Creatures
 	{
-		"name": "White Dragon of Light",
+		"name": "Dragon of Light",
 		"unitType": "Creature",
 		"uniqueTo": "Barbarians",
 		"movement": 2,
-		"strength": 60,
+		"strength": 50,
 		"cost": 50,
-		"uniques": ["Limited to [5] per Civilization", "Ignores terrain cost"],
+		"uniques": ["Ignores terrain cost", "Can pass through impassable tiles"], 
 		"attackSound": "nonmetalhit"
 	}, 
 	{
-		"name": "Black Magician of Darkness",
+		"name": "Magician of Darkness",
 		"unitType": "Creature",
 		"uniqueTo": "Barbarians",
 		"movement": 2,
 		"strength": 40,
 		"cost": 50,
-		"uniques": ["Limited to [5] per Civilization", "Can pass through impassable tiles"],
+		"uniques": ["[+10] HP when healing"],
+		"attackSound": "nonmetalhit"
+	}, 
+	{
+		"name": "Golden Armor Knight",
+		"unitType": "Creature",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 30,
+		"cost": 50,
+		"uniques": ["[+100]% Strength <when defending>"],
+		"attackSound": "nonmetalhit"
+	}, 
+	{
+		"name": "Crimson Lance Knight",
+		"unitType": "Creature",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 45,
+		"cost": 50,
+		"uniques": ["[+100]% Strength <vs [Mounted] units>"], 
 		"attackSound": "nonmetalhit"
 	}
 ]
