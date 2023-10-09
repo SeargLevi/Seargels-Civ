@@ -12,7 +12,7 @@
 			"Gain [3] [Gold] <upon ending a turn in a [Dungeon] tile> <for units with [Looter II]>", 
 			"This Unit gains [15] XP <upon defeating a [White Dragon of Light] unit>", 
 			"This Unit gains [10] XP <upon defeating a [Black Magician of Darkness] unit>", 
-			"Instantly provides [1] [Grimoire] <upon defeating a [Black Magician of Darkness] unit> <with [100]% chance>"]
+			"Instantly provides [1] [Grimoire] <upon defeating a [Black Magician of Darkness] unit> <with [25]% chance>"]
     }, 
     {
         "name": "Companion",
