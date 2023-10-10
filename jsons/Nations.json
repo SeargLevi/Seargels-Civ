@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Konstanz",
+		"name": "Familia Searg",
 		"leaderName": "Searg",
-		"adjective": ["Konstant"],
+		"adjective": ["Seargent"],
 		"startBias": ["River", "Mountain"],
 		"preferredVictoryType": "Cultural",
 		
@@ -27,8 +27,8 @@
 		"afterPeace": "That must be a turning point in all our lifes!",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [255,0,0],
-		"innerColor": [255,255,255],
+		"outerColor": [255,215,58],
+		"innerColor": [140,140,140],
 		"uniqueName": "Introverted",
 		"uniques": ["[+1] Unit Supply per [4] population [in all cities]", 
 			"[+30]% Culture cost of natural border growth [in all cities]", "[-20]% growth [in all cities]", 
