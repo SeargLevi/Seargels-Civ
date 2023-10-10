@@ -20,6 +20,6 @@
 	{
         "name": "Creature",
         "movementType": "Land", 
-	"uniques": ["[+80]% XP gained from combat"] 
+	"uniques": ["[-80]% XP gained from combat"] 
 	} 
 ] 
