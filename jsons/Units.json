@@ -14,12 +14,9 @@
 	{
 		"name": "Adventurer Melee",
 		"unitType": "Adventurer",
-		"uniqueTo": "Konstanz",
-		"replaces": "Swordsman", 
 		"movement": 2,
 		"strength": 11,
 		"cost": 50,
-		"requiredTech": "Bronze Working",
 		"attackSound": "metalhit",
 		"civilopediaText": [
 			{"text": "A talented unit with a lot of possible unique promotions."}
@@ -28,8 +25,6 @@
 	{
 		"name": "Adventurer Ranged",
 		"unitType": "Adventurer",
-		"uniqueTo": "Konstanz",
-		"replaces": "Archer",
 		"movement": 2,
 		"strength": 9,
 		"rangedStrength": 8,
@@ -39,6 +34,15 @@
 		"attackSound": "arrow",
 		"civilopediaText": [
 			{"text": "A talented unit with a lot of possible unique promotions."}
+		]
+	}, 
+	{
+		"name": "Supporter",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 25,
+		"civilopediaText": [
+			{"text": "The Adventurers supporting Unit."} 
 		]
 	}, 
 	{
