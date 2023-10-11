@@ -9,7 +9,6 @@
 	}, 
 	{
 		"name": "Guild Center",
-		"uniqueTo": "Konstanz",
 		"cost": 50,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
