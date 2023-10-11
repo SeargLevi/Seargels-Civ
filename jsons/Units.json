@@ -41,6 +41,8 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 25,
+		"uniques": ["[+10]% Strength bonus for [Adventurer] units within [1] tiles", 
+			"All adjacent units heal [+10] HP when healing"], 
 		"civilopediaText": [
 			{"text": "The Adventurers supporting Unit."} 
 		]
