@@ -96,14 +96,5 @@
 		"cost": 50,
 		"uniques": ["[+100]% Strength <vs [Mounted] units>"], 
 		"attackSound": "nonmetalhit"
-	}, 
-	{
-		"name": "Goblin",
-		"unitType": "Creature",
-		"movement": 2,
-		"strength": 4,
-		"cost": 50,
-		"uniques": ["Only available <upon being promoted> <for units with [Strength I]>"],
-		"attackSound": "nonmetalhit"
-	} 
+	}
 ]
