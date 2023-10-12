@@ -9,79 +9,79 @@
 	{
 		"name": "Strength I",
 		"prerequisites": ["Talent"],
-		"uniques": ["[+10]% Strength"],
+		"uniques": ["[+15]% Strength"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Strength II",
 		"prerequisites": ["Strength I"],
-		"uniques": ["[+15]% Strength"],
+		"uniques": ["[+25]% Strength"],
 		"unitTypes" : ["Adventurer"]
 	},  
 	{
 		"name": "Strength III",
 		"prerequisites": ["Strength II"],
-		"uniques": ["[+20]% Strength"],
+		"uniques": ["[+40]% Strength"],
 		"unitTypes" : ["Adventurer"]
 	},  
 	{
 		"name": "Heroism I",
 		"prerequisites": ["Strength III"],
-		"uniques": ["[+30]% Strength"],
+		"uniques": ["[+60]% Strength"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Heroism II",
 		"prerequisites": ["Heroism I"],
-		"uniques": ["[+40]% Strength"],
+		"uniques": ["[+90]% Strength"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Heroism III",
 		"prerequisites": ["Heroism II"],
-		"uniques": ["[+50]% Strength"],
+		"uniques": ["[+125]% Strength"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Defender I",
 		"prerequisites": ["Talent"],
-		"uniques": ["[+20]% Strength <when defending>", "Only available <for units without [Attacker I]>"],
+		"uniques": ["[+25]% Strength <when defending>", "Only available <for units without [Attacker I]>"],
 		"unitTypes" : ["Adventurer"]
 	},  
 	{
 		"name": "Defender II",
 		"prerequisites": ["Defender I"],
-		"uniques": ["[+25]% Strength <when defending>"],
+		"uniques": ["[+50]% Strength <when defending>"],
 		"unitTypes" : ["Adventurer"]
 	},  
 	{
 		"name": "Defender III",
 		"prerequisites": ["Defender II"],
-		"uniques": ["[+30]% Strength <when defending>"],
+		"uniques": ["[+100]% Strength <when defending>"],
 		"unitTypes" : ["Adventurer"]
 	},  
 	{
 		"name": "Attacker I",
 		"prerequisites": ["Talent"],
-		"uniques": ["[+15]% Strength <when attacking>", "Only available <for units without [Defender I]>"],
+		"uniques": ["[+20]% Strength <when attacking>", "Only available <for units without [Defender I]>"],
 		"unitTypes" : ["Adventurer"]
 	},  
 	{
 		"name": "Attacker II",
 		"prerequisites": ["Attacker I"],
-		"uniques": ["[+20]% Strength <when attacking>"],
+		"uniques": ["[+35]% Strength <when attacking>"],
 		"unitTypes" : ["Adventurer"] 
 	},  
 	{
 		"name": "Attacker III",
 		"prerequisites": ["Attacker II"],
-		"uniques": ["[+25]% Strength <when attacking>"],
+		"uniques": ["[+60]% Strength <when attacking>"],
 		"unitTypes" : ["Adventurer"]
 	},  
 	{
 		"name": "Companion Dog",
 		"prerequisites": ["Talent"],
-		"uniques": ["[+15]% Strength", "Only available <for units without [Companion Horse]>", "Only available <for units without [Companion Bird]>" ],
+		"uniques": ["[+25]% Strength", "Only available <for units without [Companion Horse]>", "Only available <for units without [Companion Bird]>" ],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
@@ -123,7 +123,7 @@
 	{
 		"name": "Turn the Tides",
 		"prerequisites": ["All Out"],
-		"uniques": ["[+100]% Strength <when below [15] HP>"],
+		"uniques": ["[+150]% Strength <when below [15] HP>"],
 		"unitTypes" : ["Adventurer"]
 	},
 	{
@@ -141,7 +141,7 @@
 	{
 		"name": "Team Up",
 		"prerequisites": ["Strength III"],
-		"uniques": ["[+30]% Strength <when adjacent to a [Adventurer] unit> <for units with [Team Up]>"],
+		"uniques": ["[+80]% Strength <when adjacent to a [Adventurer] unit> <for units with [Team Up]>"],
 		"unitTypes" : ["Adventurer"] 
 	}, 
 	{
@@ -219,7 +219,7 @@
 	{
 		"name": "Heroes Aura",
 		"prerequisites": ["Heroism III"],
-		"uniques": ["[+15]% Strength bonus for [Military] units within [1] tiles"],
+		"uniques": ["[+25]% Strength bonus for [Military] units within [1] tiles"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
@@ -240,10 +240,6 @@
 		"name": "Hero", 
 		"uniques": ["[+300]% Strength"]
 	},
-	{
-		"name": "Dragon Slayer", 
-		"uniques": ["[+100]% Strength <vs [Dragon of Light] units>"]
-	},
 	//Magic
 	{
 		"name": "Drain Magic",
@@ -254,7 +250,7 @@
 	}, 
 	{
 		"name": "Shield Magic",
-		"uniques": ["[+70]% Strength bonus for [Military] units within [1] tiles <when defending>", 
+		"uniques": ["[+100]% Strength bonus for [Military] units within [1] tiles <when defending>", 
 			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]", 
 			"This Promotion is free"],
 		"unitTypes" : ["Adventurer"]
