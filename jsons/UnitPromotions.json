@@ -269,5 +269,12 @@
 			"This Promotion is free"],
 		"unitTypes" : ["Adventurer"]
 	},
+	{
+		"name": "Healing Magic",
+		"uniques": ["All adjacent units heal [+12] HP when healing", 
+			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]", 
+			"This Promotion is free"],
+		"unitTypes" : ["Adventurer"]
+	}
 		
 ] 
