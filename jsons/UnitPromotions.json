@@ -171,13 +171,13 @@
 	{
 		"name": "Healer I",
 		"prerequisites": ["Strength II"],
-		"uniques": ["[+5] HP when healing"],
+		"uniques": ["[+3] HP when healing", "All adjacent units heal [+3] HP when healing"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
 		"name": "Healer II",
 		"prerequisites": ["Healer I"],
-		"uniques": ["[+5] HP when healing"],
+		"uniques": ["[+5] HP when healing", "All adjacent units heal [+5] HP when healing"], 
 		"unitTypes" : ["Adventurer"]
 	},
 	{
@@ -207,7 +207,7 @@
 	{
 		"name": "Escape",
 		"prerequisites": ["Quick Feet"],
-		"uniques": ["[+4] Movement <when below [25] HP>"],
+		"uniques": ["[+3] Movement <when below [25] HP>"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
@@ -219,7 +219,7 @@
 	{
 		"name": "Heroes Aura",
 		"prerequisites": ["Heroism III"],
-		"uniques": ["[+25]% Strength bonus for [Military] units within [1] tiles"],
+		"uniques": ["[+75]% Strength bonus for [Military] units within [1] tiles"],
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
@@ -238,7 +238,7 @@
 	//Special
 	{
 		"name": "Hero", 
-		"uniques": ["[+300]% Strength"]
+		"uniques": ["[+450]% Strength"]
 	},
 	//Magic
 	{
@@ -249,8 +249,15 @@
 		"unitTypes" : ["Adventurer"]
 	}, 
 	{
+		"name": "Boost Magic",
+		"uniques": ["[+100]% Strength bonus for [Military] units within [1] tiles <when attacking>", 
+			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]", 
+			"This Promotion is free"],
+		"unitTypes" : ["Adventurer"]
+	}, 
+	{
 		"name": "Shield Magic",
-		"uniques": ["[+100]% Strength bonus for [Military] units within [1] tiles <when defending>", 
+		"uniques": ["[+150]% Strength bonus for [Military] units within [1] tiles <when defending>", 
 			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]", 
 			"This Promotion is free"],
 		"unitTypes" : ["Adventurer"]
@@ -264,14 +271,14 @@
 	},
 	{
 		"name": "Taming Magic",
-		"uniques": ["May capture killed [Creature] units <with [33]% chance>",
+		"uniques": ["May capture killed [Creature] units <with [25]% chance>",
 			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]", 
 			"This Promotion is free"],
 		"unitTypes" : ["Adventurer"]
 	},
 	{
 		"name": "Healing Magic",
-		"uniques": ["All adjacent units heal [+12] HP when healing", 
+		"uniques": ["[+12] HP when healing", "All adjacent units heal [+12] HP when healing", 
 			"Only available <with [Grimoire]>", "Instantly consumes [1] [Grimoire]", 
 			"This Promotion is free"],
 		"unitTypes" : ["Adventurer"]
