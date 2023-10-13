@@ -27,12 +27,10 @@
 		"afterPeace": "That must be a turning point in all our lifes!",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [255,215,58],
-		"innerColor": [140,140,140],
-		"uniqueName": "Introverted",
-		"uniques": ["[+1] Unit Supply per [4] population [in all cities]", 
-			"[+30]% Culture cost of natural border growth [in all cities]", "[-20]% growth [in all cities]", 
-			"Free [Adventurer Melee] appears"]
+		"outerColor": [255,220,39],
+		"innerColor": [38,38,38],
+		"uniqueName": "Adventuring",
+		"uniques": ["Free [Adventurer Melee] appears"]
 		"cities": ["Konstanz","Wildberg","Kupfertal","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
