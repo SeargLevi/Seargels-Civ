@@ -10,8 +10,7 @@
 			"Gain [3] [Gold] <upon ending a turn in a [Dungeon] tile> <for units with [Looter II]>", 
 			"This Unit gains [8] XP <upon defeating a [Creature] unit>", 
 			"This Unit gains [2] XP <upon defeating a [Creature] unit> <when adjacent to a [Supporter] unit>",
-			"Instantly provides [1] [Grimoire] <upon defeating a [Magician of Darkness] unit> <with [25]% chance>", 
-			"[+1] Range"]
+			"Instantly provides [1] [Grimoire] <upon defeating a [Magician of Darkness] unit> <with [25]% chance>"]
     }, 
     {
         "name": "Companion",
