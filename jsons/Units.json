@@ -9,6 +9,18 @@
 		"cost": 500,
 		"requiredTech": "Robotics",
 		"uniques": ["Cannot attack", "Can carry [4] [Aircraft] units", "[+10]% Strength bonus for [Water] units within [2] tiles"],
-		"attackSound": "shipguns"
+	}, 
+	{
+		"name": "Dualist",
+		"unitType": "Sword",
+		"uniqueTo": "Konstanz",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 90,
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Gunpowder",
+		"promotions": ["[Dualist] ability"], 
+		"attackSound": "metalhit"
 	}
 ]
