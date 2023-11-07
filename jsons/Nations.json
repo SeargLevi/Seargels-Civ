@@ -30,7 +30,7 @@
 		"outerColor": [255,220,39],
 		"innerColor": [38,38,38],
 		"uniqueName": "Luring",
-		"uniques": ["[1] additional attacks per turn <in [Friendly Land] tiles>"]
+		"uniques": ["[1] additional attacks per turn <in [Friendly Land] tiles> <for [Land] units>"]
 		"cities": ["Konstanz","Wildberg","Kupfertal","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -64,8 +64,8 @@
 		"afterPeace": "That must be a turning point in all our lifes!",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [90,100,49],
-		"innerColor": [19,62,83],
+		"outerColor": [123,131,90],
+		"innerColor": [15,49,66],
 		"uniqueName": "To the seas! And beyond!",
 		"uniques": ["[+50]% XP gained from combat <for [Water] units>", "[Great General] is earned [+50]% faster <for [Water] units>"] 
 		"cities": ["Durion Prime","Nalon","Veeron Alpha","Veeron Beta","Magnon","Veeron Gamma","Nalon Outpost","Durion Ignis","Durion Terra",
