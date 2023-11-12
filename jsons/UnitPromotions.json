@@ -2,22 +2,21 @@
 	{
     "name": "[Dualist] ability",
     "uniques": ["[+40]% Strength <when attacking> <when above [50] HP>", 
-   							"[+40]% Strength <when defending> <when below [50] HP>"]
+   		"[+40]% Strength <when defending> <when below [50] HP>"]
   }, 
   {
-    "name": "Practical Experience",
+    "name": "Positive Morale",
     "uniques": ["Doing so will consume this opportunity to choose a Promotion", 
-		"[+1]% Strength <for [15] turns>"]
+		"[+1]% Strength <for [25] turns>"]
   }, 
   {
     "name": "Negative Morale",
     "uniques": ["Doing so will consume this opportunity to choose a Promotion", 
-		"[-1]% Strength <for [15] turns>"]
-  }, 
-	
+		"[-1]% Strength <for [25] turns>"]
+  },
   {
-    "name": "Starting",
-    "uniques": ["This Unit gains the [Practical Experience] promotion <upon defeating a [Military] unit>", 
+    "name": "Morale I",
+    "uniques": ["This Unit gains the [Positive Morale] promotion <upon defeating a [Military] unit>", 
    		"This Unit gains the [Negative Morale] promotion <upon being defeated>"]
   }
 ]
