@@ -11,6 +11,20 @@
 		"uniques": ["Cannot attack", "Can carry [4] [Aircraft] units", "[+10]% Strength bonus for [Water] units within [2] tiles"],
 	}, 
 	{
+		"name": "Raidraptor",
+		"unitType": "Melee Water",
+		"uniqueTo": "Durion",
+		"replaces": "Privateer",
+		"movement": 5,
+		"strength": 28,
+		"cost": 150,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"promotions": ["Coastal Raider I"],
+		"uniques": ["May capture killed [Water] units", "Earn [200]% of the damage done to [Water] units as [Gold]"],
+		"attackSound": "cannon"
+	}, 
+	{
 		"name": "Dualist",
 		"unitType": "Sword",
 		"uniqueTo": "Konstanz",
