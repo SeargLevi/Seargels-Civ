@@ -17,6 +17,7 @@
   {
     "name": "Morale I",
     "uniques": ["This Unit gains the [Positive Morale] promotion <upon defeating a [Military] unit>", 
-   		"This Unit gains the [Negative Morale] promotion <upon being defeated>"]
+   		"This Unit gains the [Negative Morale] promotion <upon being defeated>", 
+   		"Only available <for [Major]>"]
   }
 ]
