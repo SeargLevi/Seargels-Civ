@@ -7,10 +7,17 @@
   {
     "name": "Practical Experience",
     "uniques": ["Doing so will consume this opportunity to choose a Promotion", 
-		"[+1]% Strength <for [5] turns>"]
+		"[+1]% Strength <for [15] turns>"]
   }, 
   {
+    "name": "Negative Morale",
+    "uniques": ["Doing so will consume this opportunity to choose a Promotion", 
+		"[-1]% Strength <for [15] turns>"]
+  }, 
+	
+  {
     "name": "Starting",
-    "uniques": ["This Unit gains the [Practical Experience] promotion <upon defeating a [Military] unit>"]
+    "uniques": ["This Unit gains the [Practical Experience] promotion <upon defeating a [Military] unit>", 
+   		"This Unit gains the [Negative Morale] promotion <upon being defeated>"]
   }
 ]
