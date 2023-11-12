@@ -11,6 +11,17 @@
 		"requiredTech": "Navigation"
 	},
 	{
+		"name": "Water Park",
+		"uniqueTo": "Durion", 
+		"replaces": "Harbor", 
+		"cost": 120,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Water] tiles [in this city]",
+			"Connects trade routes over water","Must be next to [Coast]"],
+		"requiredTech": "Compass"
+	},
+	{
 		"name": "Divine Epic",
 		"uniqueTo": "Konstanz", 
 		"replaces": "Heroic Epic",
@@ -21,5 +32,16 @@
 			"Cost increases by [30] per owned city", 
 			"[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>", "Gain a free [Castle] [in this city]"],
 		"requiredTech": "Iron Working"
-	}	
+	}, 
+	{
+		"name": "Fortress",
+		"uniqueTo": "Konstanz", 
+		"replaces": "Castle",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured", "[All] Units adjacent to this city heal [+10] HP per turn when healing"]
+	},
 ]
