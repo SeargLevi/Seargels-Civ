@@ -34,14 +34,14 @@
 		"requiredTech": "Iron Working"
 	}, 
 	{
-		"name": "Fortress",
+		"name": "Green Flow",
 		"uniqueTo": "Konstanz", 
-		"replaces": "Castle",
-		"cityStrength": 7,
-		"cityHealth": 25,
-		"hurryCostModifier": 25,
-		"requiredBuilding": "Walls",
-		"requiredTech": "Chivalry",
-		"uniques": ["Destroyed when the city is captured", "[All] Units adjacent to this city heal [+10] HP per turn when healing"]
-	},
+		"replaces": "Aqueduct",
+		"maintenance": 2,
+		"food": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["[40]% Food is carried over after population increases [in this city]", 
+			"[-10]% Unhappiness from [Population] [in all cities]"], 
+		"requiredTech": "Engineering"
+	}
 ]
