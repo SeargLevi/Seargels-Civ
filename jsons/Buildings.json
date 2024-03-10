@@ -41,7 +41,7 @@
 		"food": 1,
 		"hurryCostModifier": 0,
 		"uniques": ["[40]% Food is carried over after population increases [in this city]", 
-			"[-10]% Unhappiness from [Population] [in all cities]"], 
+			"[-10]% Unhappiness from [Population] [in this city]"], 
 		"requiredTech": "Engineering"
 	}
 ]
