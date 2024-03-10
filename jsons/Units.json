@@ -54,5 +54,12 @@
 		"uniques": ["[1] additional attacks per turn"], 
 		"promotions": ["Logistics"],
 		"attackSound": "arrow" 
-	} 
+	}, 
+	{	"name": "Franz Förster",
+		"unitType": "Civilian",
+		"uniqueTo": "Konstanz",
+		"movement": 2,
+		"cost": 1, 
+		"uniques": ["Turn this tile into a [Forest] tile"]
+		
 ]
