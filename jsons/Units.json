@@ -42,25 +42,25 @@
 		"name": "Triplett Bowman",
 		"unitType": "Archery",
 		"uniqueTo": "Konstanz",
-		"replaces": "Crossbowman",
-		"movement": 3,
+		"replaces": "Composite Bowman",
+		"movement": 2,
 		"strength": 13,
 		"rangedStrength": 12,
 		"range": 1,
 		"cost": 120,
-		"requiredTech": "Machinery",
+		"requiredTech": "Construction",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"uniques": ["[1] additional attacks per turn"], 
+		"uniques": ["[1] additional attacks per turn", "[+1] Movement <when attacking>"], 
 		"promotions": ["Logistics"],
 		"attackSound": "arrow" 
 	}, 
-	{	"name": "Franz Förster",
+	{
+		"name": "Worker",
 		"unitType": "Civilian",
-		"uniqueTo": "Konstanz",
 		"movement": 2,
-		"cost": 1, 
-		"uniques": ["Turn this tile into a [Lakes] tile <in tiles adjacent to [Water]> <[3] times> <after which this unit is consumed>"]
-	} 
-		
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", 
+			"Turn this tile into a [Forest] tile <[4] times> <after which this unit is consumed>"],
+		"cost": 70
+	}
 ]
