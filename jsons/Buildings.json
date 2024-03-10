@@ -43,13 +43,5 @@
 		"uniques": ["[40]% Food is carried over after population increases [in this city]", 
 			"[-10]% Unhappiness from [Population] [in this city]"], 
 		"requiredTech": "Engineering"
-	}, 
-	{
-		"name": "High Walls",
-		"cityStrength": 5,
-		"cityHealth": 60,
-		"hurryCostModifier": 25,
-		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured", "[+1] Range <for [Ranged] units> <in this city>"]
-	}, 
+	}
 ]
