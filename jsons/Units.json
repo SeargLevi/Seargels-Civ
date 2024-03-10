@@ -60,7 +60,7 @@
 		"uniqueTo": "Konstanz",
 		"movement": 2,
 		"cost": 1, 
-		"uniques": ["Turn this tile into a [Forest] tile <[3] times> <after which this unit is consumed>"]
+		"uniques": ["Turn this tile into a [Lakes] tile <in tiles adjacent to [Water]> <[3] times> <after which this unit is consumed>"]
 	} 
 		
 ]
