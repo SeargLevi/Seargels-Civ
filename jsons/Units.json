@@ -61,5 +61,6 @@
 		"movement": 2,
 		"cost": 1, 
 		"uniques": ["Turn this tile into a [Forest] tile"]
+	} 
 		
 ]
