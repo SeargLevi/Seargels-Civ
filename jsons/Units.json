@@ -49,7 +49,7 @@
 			"Can instantly construct a [Citadel] improvement <[2] times> <after which this unit is consumed>",
 			"Can be earned through combat", 
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 3
+		"movement": 2
 	},
 	{
 		"name": "Worker",
