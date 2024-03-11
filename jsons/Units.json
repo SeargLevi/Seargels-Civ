@@ -41,10 +41,11 @@
 	{
 		"name": "Searg",
 		"unitType": "Civilian",
-		"uniqueTo": "Mongolia",
+		"uniqueTo": "Konstanz",
 		"replaces": "Great General",
 		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",
-			"All adjacent units heal [+15] HP when healing",
+			"[-15]% Strength for enemy [Military] units in adjacent [All] tiles", 
+			"All adjacent units heal [+10] HP when healing",
 			"Can instantly construct a [Citadel] improvement <[2] times> <after which this unit is consumed>",
 			"Can be earned through combat", 
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
