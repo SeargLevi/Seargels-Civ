@@ -39,17 +39,17 @@
 		"attackSound": "metalhit"
 	}, 
 	{
-		"name": "Searg",
-		"unitType": "Civilian",
+		"name": "Sidekick",
+		"unitType": "Scout",
 		"uniqueTo": "Konstanz",
-		"replaces": "Great General",
-		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",
-			"[-15]% Strength for enemy [Military] units in adjacent [All] tiles", 
-			"All adjacent units heal [+10] HP when healing",
-			"Can instantly construct a [Citadel] improvement <[2] times> <after which this unit is consumed>",
-			"Can be earned through combat", 
-			"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 2
+		"replaces": "Scout",
+		"movement": 2,
+		"strength": 6,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May capture killed [All] units <with [20]% chance>"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Worker",
