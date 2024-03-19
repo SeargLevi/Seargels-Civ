@@ -16,12 +16,12 @@
 		"uniqueTo": "Durion",
 		"replaces": "Privateer",
 		"movement": 5,
-		"strength": 28,
+		"strength": 25,
 		"cost": 150,
 		"requiredTech": "Navigation",
 		"upgradesTo": "Destroyer",
-		"promotions": ["Coastal Raider I"],
-		"uniques": ["May capture killed [Water] units", "Earn [200]% of the damage done to [Water] units as [Gold]"],
+		"promotions": ["Coastal Raider I", "Boarding Party I"],
+		"uniques": ["May capture killed [Water] units", "Earn [100]% of the damage done to [Water] units as [Gold]"],
 		"attackSound": "cannon"
 	}, 
 	{
