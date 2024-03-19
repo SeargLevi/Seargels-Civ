@@ -48,7 +48,6 @@
 		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["May capture killed [All] units <with [20]% chance>"],
-		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
 	{
