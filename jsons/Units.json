@@ -44,11 +44,14 @@
 		"uniqueTo": "Konstanz",
 		"replaces": "Scout",
 		"movement": 2,
-		"strength": 5,
+		"strength": 2,
 		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["May capture killed [All] units <with [35]% chance>", 
-			"Can build [Farm] improvements on tiles"],
+			"Can build [Farm] improvements on tiles", 
+			"[+150]% Strength <when adjacent to a [Mounted] unit>", 
+			"[+150]% Strength <when adjacent to a [{non-[Mounted]} {Melee}] unit>", 
+			"[+150]% Strength <when adjacent to a [{non-[Mounted]} {Ranged}] unit>"],
 		"attackSound": "nonmetalhit"
 	}
 ]
