@@ -47,16 +47,8 @@
 		"strength": 5,
 		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May capture killed [All] units <with [20]% chance>", 
+		"uniques": ["May capture killed [All] units <with [35]% chance>", 
 			"Can build [Farm] improvements on tiles"],
 		"attackSound": "nonmetalhit"
-	},
-	{
-		"name": "Worker",
-		"unitType": "Civilian",
-		"movement": 2,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", 
-			"Turn this tile into a [Forest] tile <[4] times> <after which this unit is consumed>"],
-		"cost": 70
 	}
 ]
