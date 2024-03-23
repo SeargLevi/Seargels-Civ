@@ -3,18 +3,18 @@
 		"name": "Konstanz",
 		"leaderName": "Searg",
 		"adjective": ["Seargent"],
-		"startBias": ["River", "Mountain"],
+		"startBias": ["River"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Let's go on an adventure!",
 		"startIntroPart2": "The world is a mysterious place.",
 		
-		"declaringWar": "This must be a joke!",
-		"attacked": "How dare you?",
+		"declaringWar": "Come, come! Meet your maker, bud",
+		"attacked": "You finished? My turn!",
 		"defeated": "I'll be back!",
-		"introduction": "To the seas! And beyond!",
+		"introduction": "Let's be friends!",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
