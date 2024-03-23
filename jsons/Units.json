@@ -37,21 +37,19 @@
 		"upgradesTo": "Musketman",
 		"promotions": ["[Dualist] ability"], 
 		"attackSound": "metalhit"
-	}, 
+	},
 	{
-		"name": "Sidekick",
-		"unitType": "Scout",
+		"name": "Searg",
+		"unitType": "Civilian",
 		"uniqueTo": "Konstanz",
-		"replaces": "Scout",
-		"movement": 2,
-		"strength": 2,
-		"cost": 25,
-		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May capture killed [All] units <with [35]% chance>", 
-			"Can build [Farm] improvements on tiles", 
-			"[+150]% Strength <when adjacent to a [Mounted] unit>", 
-			"[+150]% Strength <when adjacent to a [{non-[Mounted]} {Melee}] unit>", 
-			"[+150]% Strength <when adjacent to a [{non-[Mounted]} {Ranged}] unit>"],
-		"attackSound": "nonmetalhit"
-	}
+		"replaces": "Great General",
+		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>",
+           		"[+15]% Strength bonus for [Military] units within [2] tiles",
+			"[+10]% Strength bonus for [Military] units within [1] tiles",
+			"All adjacent units heal [+5] HP when healing",
+           		"Can instantly construct a [Citadel] improvement <once>",
+			"Can be earned through combat",
+           		"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	}, 
 ]
