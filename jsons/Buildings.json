@@ -30,7 +30,7 @@
 		"hurryCostModifier": 40,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured", 
-		"[+111 Culture] [in this city] <for [30] turns> <upon declaring friendship>"
+		"[+1 Culture] [in this city] <for [30] turns> <upon declaring friendship>"
 		] //"Hidden when religion is disabled"
 	},
 	{
