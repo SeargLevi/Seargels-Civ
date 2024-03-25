@@ -29,7 +29,7 @@
 
 		"outerColor": [255,220,39],
 		"innerColor": [38,38,38],
-		"uniqueName": "Luring",
+		"uniqueName": "Luring - Follow Candies",
 		"uniques": ["[1] additional attacks per turn <in [Friendly Land] tiles> <for [Land] units>"]
 		"cities": ["Konstanz","Wildberg","Kupfertal","Südsalz","Bergheim","Hornwald","Neu Fallstadt","Biendorf","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
