@@ -31,7 +31,7 @@
 		"innerColor": [38,38,38],
 		"uniqueName": "Luring",
 		"uniques": ["[1] additional attacks per turn <in [Friendly Land] tiles> <for [Land] units>"]
-		"cities": ["Konstanz","Wildberg","Kupfertal","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"cities": ["Konstanz","Wildberg","Kupfertal","Südsalz","Bergheim","Hornwald","Neu Fallstadt","Biendorf","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
