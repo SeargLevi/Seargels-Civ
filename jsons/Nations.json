@@ -72,5 +72,42 @@
 			"Durion Aqua","Durion Air","District 19","Durion Vita","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	} 
+	}, 
+	{
+		"name": "Nadabarba",
+		"leaderName": "Barbahate",
+		"adjective": ["Nadas"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Let's go on an adventure!",
+		"startIntroPart2": "The world is a mysterious place.",
+		
+		"declaringWar": "Come, come! Meet your maker, bud",
+		"attacked": "You finished? My turn!",
+		"defeated": "I'll be back!",
+		"introduction": "Let's be friends!",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "That must be a turning point in all our lifes!",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [255,220,39],
+		"innerColor": [38,38,38],
+		"uniqueName": "Barbawire",
+		"uniques": ["Notified of new Barbarian encampments", "When conquering an encampment, earn [150] Gold and recruit a Barbarian unit"]
+		"cities": ["Barbielon","Wildberg","Kupfertal","Südsalz","Bergheim","Hornwald","Neu Fallstadt","Biendorf","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		}
 ]
