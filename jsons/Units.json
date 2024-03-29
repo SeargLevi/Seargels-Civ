@@ -50,7 +50,7 @@
            		"Can instantly construct a [Citadel] improvement <once>",
 			"Can be earned through combat",
            		"Great Person - [War]", "Unbuildable", "Uncapturable", 
-			"This Unit gains [1] XP <every [3] turns> <when at war>"],
+			"This Unit gains [5] XP <every [1] turns>"],
 		"movement": 2
 	}, 
 ]
