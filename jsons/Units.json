@@ -43,12 +43,14 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Konstanz",
 		"replaces": "Great General",
+		"promotions": ["Specialisation"], 
 		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>",
            		"[+15]% Strength bonus for [Military] units within [2] tiles",
 			"All adjacent units heal [+10] HP when healing",
            		"Can instantly construct a [Citadel] improvement <once>",
 			"Can be earned through combat",
-           		"Great Person - [War]", "Unbuildable", "Uncapturable"],
+           		"Great Person - [War]", "Unbuildable", "Uncapturable", 
+			"This Unit gains [1] XP <every [3] turns> <when at war>"],
 		"movement": 2
 	}, 
 ]
