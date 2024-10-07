@@ -49,9 +49,9 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus", "Rough terrain penalty",
-		"Earn [10]% of the damage done to [Land] units as [Gold]",
-		"Can move after attacking"],
+		"uniques": ["No defensive terrain bonus",
+		"Earn [30]% of the damage done to [Land] units as [Gold]",
+		"Can move after attacking", "[+15]% Strength <when above [90] HP>"],
 		"attackSound": "horse"
 	}
 ]
