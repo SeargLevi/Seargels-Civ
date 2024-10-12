@@ -12,18 +12,21 @@
 	}, 
 	{
 		"name": "Raidraptor",
-		"unitType": "Melee Water",
+		"unitType": "Fighter",
+		"replaces": "Fighter",
 		"uniqueTo": "Durion",
-		"replaces": "Privateer",
-		"movement": 5,
-		"strength": 25,
-		"cost": 150,
-		"requiredTech": "Navigation",
-		"upgradesTo": "Destroyer",
-		"promotions": ["Coastal Raider I", "Boarding Party I"],
-		"uniques": ["May capture killed [Water] units", "Earn [100]% of the damage done to [Water] units as [Gold]"],
-		"attackSound": "cannon"
-	}, 
+		"movement": 1,
+		"strength": 45,
+		"rangedStrength": 45,
+		"range": 8,
+		"interceptRange": 8,
+		"cost": 375,
+		"requiredTech": "Radar",
+		"upgradesTo": "Jet Fighter",
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"promotions": ["Quick Study"],
+		"attackSound": "machinegun"
+	},
 	{
 		"name": "Dualist",
 		"unitType": "Sword",
@@ -39,19 +42,16 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Raider",
-		"unitType": "Mounted",
+		"name": "Great General of Defence",
+		"unitType": "Civilian",
 		"uniqueTo": "Konstanz",
-		"replaces": "Chariot Archer",
-		"movement": 5,
-		"strength": 7,
-		"cost": 56,
-		"requiredTech": "The Wheel",
-		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus",
-		"Earn [30]% of the damage done to [Land] units as [Gold]",
-		"Can move after attacking", "[+15]% Strength <when above [90] HP>"],
-		"attackSound": "horse"
+		"replaces": "Great General",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <once>",
+	    "Can be earned through combat",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
 	}
 ]
