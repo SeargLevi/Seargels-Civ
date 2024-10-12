@@ -7,7 +7,7 @@
 		"movement": 5,
 		"strength": 100,
 		"cost": 500,
-		"requiredTech": "Robotics",
+		"requiredTech": "Electronics",
 		"uniques": ["Cannot attack", "Can carry [4] [Aircraft] units", "[+10]% Strength bonus for [Water] units within [2] tiles"],
 	}, 
 	{
