@@ -5,10 +5,11 @@
 		"uniqueTo": "Durion",
 		"replaces": "Carrier",
 		"movement": 5,
-		"strength": 100,
+		"strength": 50,
 		"cost": 500,
 		"requiredTech": "Electronics",
-		"uniques": ["Cannot attack", "Can carry [4] [Aircraft] units", "[+15]% Strength bonus for [Water] units within [3] tiles"],
+		"uniques": ["Cannot attack", "Can carry [5] [Aircraft] units", "[+15]% Strength bonus for [Water] units within [3] tiles",
+		"[+50]% Strength <upon discovering [Robotics] technology>", "Cost increases by [200] when built"],
 	}, 
 	{
 		"name": "Raidraptor",
