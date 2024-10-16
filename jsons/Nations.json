@@ -31,7 +31,7 @@
 		"innerColor": [38,38,38],
 		"uniqueName": "Luring - Follow Candies",
 		"uniques": ["[1] additional attacks per turn <in [Friendly Land] tiles> <for [Land] units>"]
-		"cities": ["Konstanz","Wildberg","Kupfertal","Südsalz","Bergheim","Hornwald","Neu Fallstadt","Biendorf","Q'Aerlae",
+		"cities": ["Konstanz","Wildberg","Kupfertal","Südsalz","Bergheim","Hornwald","Neu Fallstadt","Biendorf","Fynnix",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
@@ -67,7 +67,7 @@
 		"outerColor": [123,131,90],
 		"innerColor": [15,49,66],
 		"uniqueName": "To the seas! And beyond!",
-		"uniques": ["[+50]% XP gained from combat <for [Water] units>"] 
+		"uniques": ["[+25]% XP gained from combat <for [Water] units>", "[+15]% Production when constructing [Water] units [in all cities]"] 
 		"cities": ["Durion Prime","Nalon","Veeron Alpha","Veeron Beta","Magnon","Veeron Gamma","Nalon Outpost","Durion Ignis","Durion Terra",
 			"Durion Aqua","Durion Air","District 19","Durion Vita","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
