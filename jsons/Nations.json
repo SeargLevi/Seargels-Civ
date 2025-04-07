@@ -67,7 +67,7 @@
 		"outerColor": [123,131,90],
 		"innerColor": [15,49,66],
 		"uniqueName": "To the seas! And beyond!",
-		"uniques": ["[+25]% XP gained from combat <for [Water] units>", "[+15]% Production when constructing [Water] units [in all cities]"] 
+		"uniques": ["[+25]% XP gained from combat <for [Water] units>", "[+15]% Production when constructing [Water] units [in capital]", "[+2 Food, +2 Production] [in capital]"] 
 		"cities": ["Durion Prime","Nalon","Veeron Alpha","Veeron Beta","Magnon","Veeron Gamma","Nalon Outpost","Durion Ignis","Durion Terra",
 			"Durion Aqua","Durion Air","District 19","Durion Vita","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
