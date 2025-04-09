@@ -3,5 +3,10 @@
    	"name": "[Dualist] ability",
    	"uniques": ["[+40]% Strength <when attacking> <when above [50] HP>", 
    		"[+40]% Strength <when defending> <when below [50] HP>"]
-	}
+	},
+	{
+   	"name": "Desert Desaster",
+   	"uniques": ["[+50]% Strength <in [Desert] tiles>", 
+   		"Double movement in [Desert]"]
+	},
 ]
