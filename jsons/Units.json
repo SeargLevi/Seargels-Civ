@@ -124,7 +124,7 @@
 		"unitType": "Mounted",
 		"uniqueTo": "Mirania",
 		"replaces": "Horseman",
-		"movement": 4,
+		"movement": 5,
 		"strength": 12,
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
@@ -137,5 +137,23 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
-
+	{
+		"name": "Falcon",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Mirania",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["[This Unit] gains the [March] status for [2] turn(s) <upon defeating a [Military] unit>",
+		        "[This Unit] gains the [Sentry] status for [3] turn(s) <upon defeating a [Military] unit>",
+		        "[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>",
+		        "[This Unit] gains the [Logistics] status for [2] turn(s) <upon defeating a [Military] unit>"],
+		"promotions": ["Great Generals II"],
+		"attackSound": "metalhit"
+	}
 ]
