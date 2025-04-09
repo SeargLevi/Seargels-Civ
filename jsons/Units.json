@@ -78,7 +78,7 @@
 	{
 		"name": "Fortanizer Station",
 		"unitType": "Archery",
-		"replaces": "Catapult",
+		"replaces": "Composite Bowman",
 		"uniqueTo": "Konstanz",
 		"movement": 3,
 		"strength": 10,
