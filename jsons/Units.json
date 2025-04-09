@@ -115,7 +115,7 @@
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Steel",
 		"upgradesTo": "Swordsman",
-		"promotions": ["Can build [Land] improvements on tiles", "Ignore terrain cost",
+		"uniques": ["Can build [Land] improvements on tiles", "Ignore terrain cost",
 		            "May upgrade to [Archer] through ruins-like effects", "Invisible to non-adjacent units <in [Desert] tiles>"], 
 		"attackSound": "nonmetalhit"
 	},
