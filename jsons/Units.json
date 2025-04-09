@@ -39,10 +39,8 @@
 		"interceptRange": 8,
 		"cost": 425,
 		"requiredTech": "Lasers",
-		"requiredResource": "Aluminum",
-		"promotions": ["Air Repair"],
 		"uniques": ["[100]% chance to intercept air attacks", "[+100]% Strength <vs [Air] units>", 
-			"[+150]% Strength <vs [Helicopter] units>", "May heal outside of friendly territory <when adjacent to a [Supercarrier] unit>"],
+			"[+150]% Strength <vs [Helicopter] units>", "May heal outside of friendly territory"],
 		"attackSound": "jetgun"
 	},
 	// Konstanz
