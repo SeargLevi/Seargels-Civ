@@ -102,5 +102,20 @@
 	    "Can be earned through combat",
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 2
-	}
+	},
+// Mirania
+	{
+		"name": "Scorpion",
+		"unitType": "Sword",
+		"uniqueTo": "Mirania",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Steel",
+		"upgradesTo": "Longswordsman",
+		"promotions": ["Desert Warrior"], 
+		"attackSound": "metalhit"
+	},
 ]
