@@ -28,7 +28,7 @@
 		"promotions": ["[Privateer] ability"],
 	},
 	{
-		"name": "BT-7 Mk14",
+		"name": "BT-7 Intercepter",
 		"unitType": "Fighter",
 		"uniqueTo": "Durion",
 		"replaces": "Jet Fighter",
