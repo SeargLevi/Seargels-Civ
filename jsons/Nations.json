@@ -2,7 +2,7 @@
 	{
 		"name": "Konstanz",
 		"leaderName": "Searg",
-		"adjective": ["Seargent"],
+		"adjective": ["Constant"],
 		"startBias": ["River"],
 		"preferredVictoryType": "Cultural",
 		
@@ -67,9 +67,45 @@
 		"outerColor": [123,131,90],
 		"innerColor": [15,49,66],
 		"uniqueName": "To the seas! And beyond!",
-		"uniques": ["[+25]% XP gained from combat <for [Water] units>", "[+15]% Production when constructing [Water] units [in capital]", "[+2 Food, +2 Production] [in capital]"] 
+		"uniques": ["[+25]% XP gained from combat <for [Water] units>", "Gain a free [Harbor] [in all coastal cities]"] 
 		"cities": ["Durion Prime","Nalon","Veeron Alpha","Veeron Beta","Magnon","Veeron Gamma","Nalon Outpost","Durion Ignis","Durion Terra",
 			"Durion Aqua","Durion Air","District 19","Durion Vita","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+	{
+		"name": "Mirania",
+		"leaderName": "Velo",
+		"adjective": ["Miranian"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Let's go on an adventure!",
+		"startIntroPart2": "The world is a mysterious place.",
+		
+		"declaringWar": "This must be a joke!",
+		"attacked": "How dare you?",
+		"defeated": "I'll be back!",
+		"introduction": "I'm buried",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "That must be a turning point in all our lifes!",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [177,167,32],
+		"innerColor": [119,32,177],
+		"uniqueName": "Sand Veil",
+		"uniques": [ ] 
+		"cities": ["Mira","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
