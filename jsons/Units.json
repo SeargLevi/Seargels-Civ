@@ -112,7 +112,6 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 25,
-		"requiredTech": "Iron Working",
 		"obsoleteTech": "Steel",
 		"upgradesTo": "Swordsman",
 		"uniques": ["Can build [Land] improvements on tiles", "Ignore terrain cost",
