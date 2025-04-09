@@ -63,10 +63,10 @@
 	{
 		"name": "Fortanizer",
 		"unitType": "Sword",
-		"replaces": "Horseman",
+		"replaces": "Chariot Archer",
 		"uniqueTo": "Konstanz",
 		"movement": 3,
-		"strength": 10,
+		"strength": 8,
 		"cost": 75,
 		"requiredTech": "Engineering",
 		"obsoleteTech": "Industrialization",
@@ -88,7 +88,7 @@
 		"obsoleteTech": "Industrialization",
 		"upgradesTo": "Gatling Gun",
 		"uniques": ["Can transform to [Fortanizer]", "Unbuildable", "Cannot be purchased", "Cannot move",
-		         "[+200]% Strength <when defending>", "[1] additional attacks per turn", "[-50]% XP gained from combat"],
+		         "[+200]% Strength <when defending>", "[1] additional attacks per turn", "[-40]% XP gained from combat"],
 		"hurryCostModifier": 20,
 		"attackSound": "arrow"
 	},
