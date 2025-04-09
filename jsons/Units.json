@@ -1,4 +1,5 @@
 [
+	// Durion
 	{
 		"name": "Supercarrier",
 		"unitType": "Aircraft Carrier",
@@ -27,18 +28,69 @@
 		"promotions": ["[Privateer] ability"],
 	},
 	{
+		"name": "BT-7 Mk14",
+		"unitType": "Fighter",
+		"uniqueTo": "Durion",
+		"replaces": "Jet Fighter",
+		"movement": 1,
+		"strength": 65,
+		"rangedStrength": 65,
+		"range": 12,
+		"interceptRange": 8,
+		"cost": 425,
+		"requiredTech": "Lasers",
+		"requiredResource": "Aluminum",
+		"promotions": ["Air Repair"],
+		"uniques": ["[100]% chance to intercept air attacks", "[+100]% Strength <vs [Air] units>", 
+			"[+150]% Strength <vs [Helicopter] units>", "May heal outside of friendly territory <when adjacent to a [Supercarrier] unit>"],
+		"attackSound": "jetgun"
+	},
+	// Konstanz
+	{
 		"name": "Dualist",
 		"unitType": "Sword",
 		"uniqueTo": "Konstanz",
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 12,
-		"cost": 85,
+		"cost": 75,
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
 		"promotions": ["[Dualist] ability"], 
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Fortanizer",
+		"unitType": "Sword",
+		"replaces": "Catapult",
+		"uniqueTo": "Konstanz",
+		"movement": 3,
+		"strength": 10,
+		"cost": 75,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Chemistry",
+		"upgradesTo": "Cannon",
+		"uniques": ["Can transform to [Fortanizer Station]"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Fortanizer Station",
+		"unitType": "Archery",
+		"replaces": "Catapult",
+		"uniqueTo": "Konstanz",
+		"movement": 3,
+		"strength": 10,
+		"rangedStrength": 9,
+		"cost": 75,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Chemistry",
+		"upgradesTo": "Cannon",
+		"uniques": ["Can transform to [Fortanizer]", "Unbuildable", "Cannot be purchased", "Cannot move",
+		         "[+150]% Strength <when defending>", "[1] additional attacks per turn"],
+		"hurryCostModifier": 20,
+		"attackSound": "arrow"
 	},
 	{
 		"name": "Great General of Defence",
