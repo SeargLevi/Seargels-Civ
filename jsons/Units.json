@@ -40,7 +40,7 @@
 		"cost": 425,
 		"requiredTech": "Lasers",
 		"uniques": ["[100]% chance to intercept air attacks", "[+100]% Strength <vs [Air] units>", 
-			"[+150]% Strength <vs [Helicopter] units>", "May heal outside of friendly territory"],
+			"[+150]% Strength <vs [Helicopter] units>", "[This Unit] heals [7] HP <in [Water] tiles> <upon turn end>"],
 		"attackSound": "jetgun"
 	},
 	// Konstanz
