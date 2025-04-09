@@ -106,16 +106,36 @@
 // Mirania
 	{
 		"name": "Scorpion",
-		"unitType": "Sword",
+		"unitType": "Scout",
 		"uniqueTo": "Mirania",
-		"replaces": "Swordsman",
+		"replaces": "Scout",
 		"movement": 2,
-		"strength": 14,
-		"cost": 75,
+		"strength": 5,
+		"cost": 25,
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Steel",
-		"upgradesTo": "Longswordsman",
-		"promotions": ["Desert Warrior"], 
-		"attackSound": "metalhit"
+		"upgradesTo": "Swordsman",
+		"promotions": ["Can build [Land] improvements on tiles", "Ignore terrain cost",
+		            "May upgrade to [Archer] through ruins-like effects", "Invisible to non-adjacent units <in [Desert] tiles>"], 
+		"attackSound": "nonmetalhit"
 	},
+	{
+		"name": "Cheetah",
+		"unitType": "Mounted",
+		"uniqueTo": "Mirania",
+		"replaces": "Horseman",
+		"movement": 4,
+		"strength": 12,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"promotions": ["[Cheetah] ability"],
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[+66]% Yield from pillaging tiles",
+		          "[+33]% Health from pillaging tiles"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+
 ]
