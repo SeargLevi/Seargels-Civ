@@ -20,7 +20,7 @@
 		"strength": 11,
 		"cost": 45,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles"],
+		"uniques": ["Cannot enter ocean tiles", "Earn [50]% of killed [Water] unit's [Strength] as [Gold]"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
