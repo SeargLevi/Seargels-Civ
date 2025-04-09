@@ -133,7 +133,7 @@
 		"promotions": ["[Cheetah] ability"],
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[+66]% Yield from pillaging tiles",
-		          "[+33]% Health from pillaging tiles"],
+		          "[+33]% Health from pillaging tiles", "No movement cost to pillage", "Transfer Movement to [All]"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
