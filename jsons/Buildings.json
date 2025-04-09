@@ -1,4 +1,5 @@
 [
+// Durion
 	{
 		"name": "Shipyard",
 		"uniqueTo": "Durion", 
@@ -11,7 +12,7 @@
 		"requiredTech": "Navigation"
 	},
 	{
-		"name": "Water Park",
+		"name": "Coastal Park",
 		"uniqueTo": "Durion", 
 		"replaces": "Harbor", 
 		"cost": 120,
@@ -21,7 +22,8 @@
 			"Connects trade routes over water","Must be next to [Coast]"],
 		"requiredTech": "Compass"
 	},
-		{
+// Konstanz
+	{
 		"name": "Sign of Friendship",
        		"replaces": "Monument",
 		"uniqueTo": "Konstanz",
@@ -29,8 +31,7 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"uniques": ["Destroyed when the city is captured", 
-		"[+1 Culture] [in this city] <for [10] turns> <upon declaring friendship>"
-		] //"Hidden when religion is disabled"
+		"[+1 Culture] [in this city] <for [10] turns> <upon declaring friendship>"]
 	},
 	{
 		"name": "Green Flow",
@@ -44,5 +45,29 @@
 		"uniques": ["Must be on [River]"],
 		"percentStatBonus": {"food": 15},
 		"requiredTech": "The Wheel"
-	}
+	},
+// Mirania
+	{
+		"name": "Sand Tomb",
+                "replaces": "Monument",
+		"uniqueTo": "Mirania",
+		"culture": 2,
+		"faith": 1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Sand Care",
+		"replaces": "Stable",
+		"uniqueTo": "Mirania",
+                "production": 1,
+                "hurryCostModifier": 25,
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production] from [Cattle] tiles [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Sheep] tiles [in this city]",
+		        "Provides [1] [Horses]"],
+		"requiredTech": "Horseback Riding"
+	},
 ]
