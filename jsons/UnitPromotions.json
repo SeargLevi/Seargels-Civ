@@ -6,12 +6,12 @@
 	},
 	{
    	"name": "Desert Desaster",
-   	"uniques": ["[+50]% Strength <in [Desert] tiles>", 
+   	"uniques": ["[+20]% Strength <in [Desert] tiles>", 
    		"Double movement in [Desert]"]
 	},
 	{
    	"name": "[Cheetah] ability",
-   	"uniques": ["[+30]% to Flank Attack bonuses", "Heals [15] damage if it kills a unit",
-	        "Earn [66]% of killed [All] unit's [Strength] as [Gold]"]
+   	"uniques": ["[+20]% to Flank Attack bonuses", "Heals [10] damage if it kills a unit",
+	        "Earn [80]% of killed [All] unit's [Strength] as [Gold]"]
 	},
 ]
