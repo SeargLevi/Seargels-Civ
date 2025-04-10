@@ -1,1 +1,7 @@
-
+[
+    {
+        "name": "Faith Epidemy",
+        "type": "Founder",
+        "uniques": ["[+1 Faith] from every [4] global followers [in all cities]"]
+    },
+]
