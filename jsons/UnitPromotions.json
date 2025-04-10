@@ -11,7 +11,7 @@
 	},
 	{
    	"name": "[Cheetah] ability",
-   	"uniques": ["[+20]% to Flank Attack bonuses", "Heals [30] damage if it kills a unit",
+   	"uniques": ["[+30]% to Flank Attack bonuses", "Heals [15] damage if it kills a unit",
 	        "Earn [66]% of killed [All] unit's [Strength] as [Gold]"]
 	},
 ]
