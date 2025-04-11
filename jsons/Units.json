@@ -115,8 +115,9 @@
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Falcon",
 		"promotions": ["Ignore terrain cost"],
-		"uniques": ["Can build [Land] improvements on tiles",
-		            "May upgrade to [Archer] through ruins-like effects", "Invisible to non-adjacent units <in [Desert] tiles>"], 
+		"uniques": ["Can build [Farm] improvements on tiles",
+		        "May upgrade to [Archer] through ruins-like effects", "Invisible to non-adjacent units <in [Desert] tiles>",
+		        "[Target Unit] gains the [Poison] status for [3] turn(s) <upon damaging a [Wounded] unit> <with [33]% chance>"], 
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -133,7 +134,8 @@
 		"promotions": ["[Cheetah] ability"],
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[+150]% Yield from pillaging tiles",
-		          "[+33]% Health from pillaging tiles", "No movement cost to pillage", "Transfer Movement to [Great General]"],
+		          "[+25]% Health from pillaging tiles", "No movement cost to pillage",
+		        "[Target Unit] gains the [Poison] status for [3] turn(s) <upon damaging a [Wounded] unit> <with [33]% chance>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -151,8 +153,9 @@
 		"uniques": ["[This Unit] gains the [March] status for [2] turn(s) <upon defeating a [Military] unit>",
 		        "[This Unit] gains the [Sentry] status for [3] turn(s) <upon defeating a [Military] unit>",
 		        "[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>",
-		        "[This Unit] gains the [Logistics] status for [2] turn(s) <upon defeating a [Military] unit>"],
-		"promotions": ["Great Generals II"],
+		        "[This Unit] gains the [Logistics] status for [1] turn(s) <upon defeating a [Military] unit>",
+		        "[Target Unit] gains the [Poison] status for [3] turn(s) <upon damaging a [Wounded] unit> <with [33]% chance>"],
+		"promotions": ["Great Generals I"],
 		"attackSound": "metalhit"
 	}
 ]
