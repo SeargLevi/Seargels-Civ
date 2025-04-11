@@ -13,4 +13,13 @@
    	"name": "[Cheetah] ability",
    	"uniques": ["[+30]% to Flank Attack bonuses", "[+20]% Strength <vs [Wounded] units>"]
 	},
+	{
+	"name": "Poison",
+	"uniques": ["[This Unit] takes [6] damage <upon turn end>"]
+	},
+	{
+	"name": "Bleed",
+	"uniques": ["[This Unit] takes [5] damage <upon turn end>"]
+	},
+	
 ]
