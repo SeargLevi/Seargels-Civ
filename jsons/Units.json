@@ -115,9 +115,8 @@
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Falcon",
 		"promotions": ["Ignore terrain cost"],
-		"uniques": ["Can build [Farm] improvements on tiles",
-		        "May upgrade to [Archer] through ruins-like effects", "Invisible to non-adjacent units <in [Desert] tiles>",
-		        "[Target Unit] gains the [Poison] status for [3] turn(s) <upon damaging a [Wounded] unit> <with [33]% chance>"], 
+		"uniques": ["Can build [All] improvements on tiles <in [Desert] tiles>", "Invisible to non-adjacent units <in [Desert] tiles>",
+		        "[Target Unit] gains the [Poison] status for [3] turn(s) <upon damaging a [Wounded] unit> <with [66]% chance>"], 
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -131,11 +130,9 @@
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"promotions": ["[Cheetah] ability"],
+		"promotions": ["[Cheetah] ability", "Shock I"],
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[+150]% Yield from pillaging tiles",
-		          "[+25]% Health from pillaging tiles", "No movement cost to pillage",
-		        "[Target Unit] gains the [Poison] status for [3] turn(s) <upon damaging a [Wounded] unit> <with [33]% chance>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -145,7 +142,7 @@
 		"replaces": "Swordsman",
 		"uniqueTo": "Mirania",
 		"movement": 2,
-		"strength": 15,
+		"strength": 14,
 		"cost": 75,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
@@ -153,9 +150,8 @@
 		"uniques": ["[This Unit] gains the [March] status for [2] turn(s) <upon defeating a [Military] unit>",
 		        "[This Unit] gains the [Sentry] status for [3] turn(s) <upon defeating a [Military] unit>",
 		        "[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>",
-		        "[This Unit] gains the [Logistics] status for [1] turn(s) <upon defeating a [Military] unit>",
-		        "[Target Unit] gains the [Poison] status for [3] turn(s) <upon damaging a [Wounded] unit> <with [33]% chance>"],
-		"promotions": ["Great Generals I"],
+		        "[This Unit] gains the [Logistics] status for [1] turn(s) <upon defeating a [Military] unit>"],
+		"promotions": ["Drill I"],
 		"attackSound": "metalhit"
 	}
 ]
