@@ -55,7 +55,7 @@
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
-		"promotions": ["[Dualist] ability"], 
+		"promotions": ["[Dualist] ability", "Great Generals I"], 
 		"attackSound": "metalhit"
 	},
 	{
@@ -96,11 +96,13 @@
 		"uniqueTo": "Konstanz",
 		"replaces": "Great General",
 		"uniques": [
-            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "[+15]% Strength bonus for [Military] units within [2] tiles",
-            "Can instantly construct a [Citadel] improvement <once>",
-	    "Can be earned through combat",
-            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+                        "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+                        "[+15]% Strength bonus for [Military] units within [2] tiles",
+			"[+15]% Strength bonus for [Military] units within [2] tiles <when defending>",
+			"All adjacent units heal [+5] HP when healing",
+                        "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+	                "Can be earned through combat",
+                        "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
 // Mirania
