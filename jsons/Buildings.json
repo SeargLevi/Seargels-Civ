@@ -53,7 +53,6 @@
 		"uniqueTo": "Mirania",
 		"culture": 2,
 		"faith": 1,
-		"maintenance": 1
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"uniques": ["Destroyed when the city is captured"]
