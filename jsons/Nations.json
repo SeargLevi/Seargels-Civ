@@ -142,8 +142,7 @@
 		"innerColor": [38,38,38],
 		"uniqueName": "Hand in hand",
 		"uniques": ["Cannot build [Settler] units",
-			"[+1 Gold, +1 Production] per [3] population [in capital]",
-			"Gain [10] Influence with a [Military] gift to a City-State",
+			"[+1 Gold, +1 Production, +1 Faith] per [2] population [in capital]",
 		        "Militaristic City-States grant units [3] times as fast when you are at war with a common nation"],
 		"cities": ["Buddylon"]
 	}, 
