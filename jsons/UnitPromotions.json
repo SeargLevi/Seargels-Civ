@@ -17,11 +17,17 @@ Mirania
 	},
 Buddylon
 	{
+	"name": "Buddylonian Hero",
+	"uniques": ["Access to special promotions"]
+	},
+	{
    	"name": "United",
+	"prerequisites": ["Buddylonian Hero"],
    	"uniques": ["Comment [Gain 30 Influence when gifted to a City-State]"]
 	},
 	{
    	"name": "Homeland",
+	"prerequisites": ["Buddylonian Hero"],
    	"uniques": ["[+50]% Strength decreasing with distance from the capital"]
 	},
 //Status
