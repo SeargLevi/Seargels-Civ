@@ -1,9 +1,11 @@
 [
+Konstanz
 	{
    	"name": "[Dualist] ability",
    	"uniques": ["[+30]% Strength <when attacking> <when above [50] HP>", 
    		"[+50]% Strength <when defending> <when below [50] HP>"]
 	},
+Mirania
 	{
    	"name": "Desert Desaster",
    	"uniques": ["[+25]% Strength <in [Desert] tiles>", 
@@ -12,6 +14,15 @@
 	{
    	"name": "[Cheetah] ability",
    	"uniques": ["[+50]% to Flank Attack bonuses", "[+15]% Strength <vs [Wounded] units>"]
+	},
+Buddylon
+	{
+   	"name": "United",
+   	"uniques": [" "]
+	},
+	{
+   	"name": "Homeland",
+   	"uniques": ["[+50]% Strength decreasing with distance from the capital"]
 	},
 //Status
 	{
