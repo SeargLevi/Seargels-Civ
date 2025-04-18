@@ -155,5 +155,22 @@
 		        "[This Unit] gains the [Logistics] status for [1] turn(s) <upon defeating a [Military] unit>"],
 		"promotions": ["Drill I"],
 		"attackSound": "metalhit"
-	}
+	},
+// Buddylon
+	{
+		"name": "Homeland Warrior",
+		"unitType": "Archery",
+		"uniqueTo": "Buddylon",
+		"replaces": "Chariot Archer",
+		"movement": 4,
+		"strength": 7,
+		"rangedStrength": 9,
+		"cost": 40,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus"],
+		"promotions": ["Buddylonian Hero", "Accuracy I"],
+		"attackSound": "arrow"
+	},
 ]
