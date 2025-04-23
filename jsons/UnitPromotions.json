@@ -12,8 +12,17 @@ Mirania
    		"Double movement in [Desert]"]
 	},
 	{
-   	"name": "[Cheetah] ability",
-   	"uniques": ["[+50]% to Flank Attack bonuses", "[+15]% Strength <vs [Wounded] units>"]
+   	"name": "General Power",
+   	"uniques": ["Transfer Movement to [Great General]", 
+		"Great General provides double combat bonus"]
+	},
+	{
+   	"name": "Kidnapper",
+   	"uniques": ["May capture killed [Military] units"]
+	},
+	{
+   	"name": "Brotherhood",
+   	"uniques": ["Free [Cheetah] appears"]
 	},
 //Status
 	{
