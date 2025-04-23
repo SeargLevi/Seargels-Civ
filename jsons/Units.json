@@ -134,32 +134,6 @@
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Triggers a [Cheetah Promotion] event"],
-		"civilopediaText":[
-            {
-                "text":"Restlessness",
-                "link":"Promotion/Restlessness"
-            },
-            {
-                "text":"Recruitment",
-                "link":"Promotion/Recruitment"
-            },
-            {
-                "text":"Ambition",
-                "link":"Promotion/Ambition"
-            },
-            {
-                "text":"Invulnerability",
-                "link":"Promotion/Invulnerability"
-            },
-            {
-                "text":"Heroism",
-                "link":"Promotion/Heroism"
-            },
-            {
-                "text":"Sneak Attack",
-                "link":"Promotion/Sneak Attack"
-            }
-		]
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
