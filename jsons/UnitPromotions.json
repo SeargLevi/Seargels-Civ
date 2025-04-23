@@ -20,7 +20,10 @@
    	"name": "Kidnapper",
    	"uniques": ["May capture killed [Military] units"]
 	},
-
+	{
+   	"name": "Brotherhood",
+   	"uniques": ["[+15]% Strength <when adjacent to a [Cheetah] unit>"]
+	},
 	{
    	"name": "Serial Killer",
    	"uniques": ["[This Unit] gains the [March] status for [2] turn(s) <upon defeating a [Military] unit>",
