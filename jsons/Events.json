@@ -4,35 +4,19 @@
         "text": "[Cheetah Promotion]\n\n[Cheetahs were great individuals ruling the battlefield when fighting together.]",
         "choices": [
             {
-                "text": "[This Unit] gains the [Enemy Blade] promotion",
+                "text": "[This Unit] gains the [Great Generals I] promotion",
                 "uniques": [
-                    "[This Unit] gains the [Enemy Blade] promotion <hidden from users>",
-                    "Comment [[This Unit] takes [20] damage] <in [Enemy Land] tiles>"
-                ]
-            },
-            {
-                "text": "[This Unit] gains the [Evil Spirits] promotion",
-                "uniques": [
-                    "[This Unit] gains the [Evil Spirits] promotion <hidden from users>",
-                    "Comment [[-10]% Strength] <when attacking>",
-                    "Comment [[-30]% Strength] <when defending>"
-                ]
-            },
-            {
-                "text": "[This Unit] gains the [Restlessness] promotion",
-                "uniques": [
-                    "[This Unit] gains the [Restlessness] promotion <hidden from users>",
+                    "[This Unit] gains the [Great Generals I] promotion <hidden from users>",
                     "Only available <with [20]% chance>",
-                    "Comment [[+1] Movement]",
-                    "Comment [[1] additional attacks per turn]"
+                    "Comment [[Great General] is earned [50]% faster]",
                 ]
             },
             {
-                "text": "[This Unit] gains the [Recruitment] promotion",
+                "text": "[This Unit] gains the [Quick Study] promotion",
                 "uniques": [
-                    "[This Unit] gains the [Recruitment] promotion <hidden from users>",
+                    "[This Unit] gains the [Quick Study] promotion <hidden from users>",
                     "Only available <with [20]% chance>",
-                    "Comment [[This Unit] heals [50] HP] <upon defeating a [Military] unit>"
+                    "Comment [[+50]% XP gained from combat]",
                 ]
             },
             {
