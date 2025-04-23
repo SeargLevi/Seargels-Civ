@@ -1,0 +1,74 @@
+[
+      {
+        "name": "Cheetah Promotion",
+        "text": "[Cheetah Promotion]\n\n[Cheetahs were great individuals ruling the battlefield when fighting together.]",
+        "choices": [
+            {
+                "text": "[This Unit] gains the [Enemy Blade] promotion",
+                "uniques": [
+                    "[This Unit] gains the [Enemy Blade] promotion <hidden from users>",
+                    "Comment [[This Unit] takes [20] damage] <in [Enemy Land] tiles>"
+                ]
+            },
+            {
+                "text": "[This Unit] gains the [Evil Spirits] promotion",
+                "uniques": [
+                    "[This Unit] gains the [Evil Spirits] promotion <hidden from users>",
+                    "Comment [[-10]% Strength] <when attacking>",
+                    "Comment [[-30]% Strength] <when defending>"
+                ]
+            },
+            {
+                "text": "[This Unit] gains the [Restlessness] promotion",
+                "uniques": [
+                    "[This Unit] gains the [Restlessness] promotion <hidden from users>",
+                    "Only available <with [20]% chance>",
+                    "Comment [[+1] Movement]",
+                    "Comment [[1] additional attacks per turn]"
+                ]
+            },
+            {
+                "text": "[This Unit] gains the [Recruitment] promotion",
+                "uniques": [
+                    "[This Unit] gains the [Recruitment] promotion <hidden from users>",
+                    "Only available <with [20]% chance>",
+                    "Comment [[This Unit] heals [50] HP] <upon defeating a [Military] unit>"
+                ]
+            },
+            {
+                "text": "[This Unit] gains the [Ambition] promotion",
+                "uniques": [
+                    "[This Unit] gains the [Ambition] promotion <hidden from users>",
+                    "Only available <with [20]% chance>",
+                    "Comment [[+50]% Strength] <when attacking>",
+                    "Comment [[-20]% Strength] <when defending>"
+                ]
+            },
+            {
+                "text": "[This Unit] gains the [Invulnerability] promotion",
+                "uniques": [
+                    "[This Unit] gains the [Invulnerability] promotion <hidden from users>",
+                    "Only available <with [20]% chance>",
+                    "Comment [[+30]% Strength] <when defending>",
+                    "Comment [[+20] HP when healing]"
+                ]
+            },
+            {
+                "text": "[This Unit] gains the [Heroism] promotion",
+                "uniques": [
+                    "[This Unit] gains the [Heroism] promotion <hidden from users>",
+                    "Only available <with [20]% chance>",
+                    "Comment [[+20]% Strength] <when adjacent to a [Great General] unit>"
+                ]
+            },
+            {
+                "text": "[This Unit] gains the [Sneak Attack] promotion",
+                "uniques": [
+                    "[This Unit] gains the [Sneak Attack] promotion <hidden from users>",
+                    "Only available <with [50]% chance>",
+                    "Comment [[+50]% to Flank Attack bonuses]"
+                ]
+            }
+        ]
+    },
+]
