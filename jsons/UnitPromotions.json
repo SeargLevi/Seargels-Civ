@@ -1,0 +1,41 @@
+[
+Konstanz
+	{
+   	"name": "[Dualist] ability",
+   	"uniques": ["[+30]% Strength <when attacking> <when above [50] HP>", 
+   		"[+50]% Strength <when defending> <when below [50] HP>"]
+	},
+Mirania
+	{
+   	"name": "Desert Desaster",
+   	"uniques": ["[+25]% Strength <in [Desert] tiles>", 
+   		"Double movement in [Desert]"]
+	},
+	{
+   	"name": "General Power",
+   	"uniques": ["Transfer Movement to [Great General]", 
+		"Great General provides double combat bonus"]
+	},
+	{
+   	"name": "Kidnapper",
+   	"uniques": ["May capture killed [Military] units"]
+	},
+	{
+   	"name": "Brotherhood",
+   	"uniques": ["Free [Cheetah] appears"]
+	},
+	{
+   	"name": "Serial Killer",
+   	"uniques": ["[This Unit] gains the [March] status for [2] turn(s) <upon defeating a [Military] unit>",
+		"[This Unit] gains the [Sentry] status for [3] turn(s) <upon defeating a [Military] unit>",
+		"[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>",
+		"[This Unit] gains the [Logistics] status for [1] turn(s) <upon defeating a [Military] unit>"]
+	},
+//Status
+	{
+	"name": "Poison",
+	"uniques": ["[This Unit] takes [6] damage <upon turn end>", 
+		"[This Unit] takes [6] damage <upon turn end> <with [8]% chance>"]
+	},
+	
+]
