@@ -4,6 +4,12 @@
         "text": "[Cheetah Promotion]\n\n[Cheetahs were great individuals ruling the battlefield when fighting together.]",
         "choices": [
             {
+                "text": "[This Unit] gains the [Shock I] promotion",
+                "uniques": [
+                    "[This Unit] gains the [Shock I] promotion <hidden from users>",
+                ]
+            },
+              {
                 "text": "[This Unit] gains the [Great Generals I] promotion",
                 "uniques": [
                     "[This Unit] gains the [Great Generals I] promotion <hidden from users>",
@@ -20,37 +26,39 @@
                 ]
             },
             {
-                "text": "[This Unit] gains the [Ambition] promotion",
+                "text": "[This Unit] gains the [General Power] promotion",
                 "uniques": [
-                    "[This Unit] gains the [Ambition] promotion <hidden from users>",
+                    "[This Unit] gains the [General Power] promotion <hidden from users>",
                     "Only available <with [20]% chance>",
-                    "Comment [[+50]% Strength] <when attacking>",
-                    "Comment [[-20]% Strength] <when defending>"
+                    "Comment [Transfer Movement to [Great General]]",
+                    "Comment [Great General provides double combat bonus]"
                 ]
             },
             {
-                "text": "[This Unit] gains the [Invulnerability] promotion",
+                "text": "[This Unit] gains the [Kidnapper] promotion",
                 "uniques": [
-                    "[This Unit] gains the [Invulnerability] promotion <hidden from users>",
+                    "[This Unit] gains the [Kidnapper] promotion <hidden from users>",
                     "Only available <with [20]% chance>",
-                    "Comment [[+30]% Strength] <when defending>",
-                    "Comment [[+20] HP when healing]"
+                    "Comment [May capture killed [Military] units]",
                 ]
             },
             {
-                "text": "[This Unit] gains the [Heroism] promotion",
+                "text": "[This Unit] gains the [Brotherhood] promotion",
                 "uniques": [
-                    "[This Unit] gains the [Heroism] promotion <hidden from users>",
-                    "Only available <with [20]% chance>",
-                    "Comment [[+20]% Strength] <when adjacent to a [Great General] unit>"
+                    "[This Unit] gains the [Brotherhood] promotion <hidden from users>",
+                    "Only available <with [10]% chance>",
+                    "Comment [Free [Cheetah] appears]"
                 ]
             },
             {
-                "text": "[This Unit] gains the [Sneak Attack] promotion",
+                "text": "[This Unit] gains the [Serial Killer] promotion",
                 "uniques": [
-                    "[This Unit] gains the [Sneak Attack] promotion <hidden from users>",
-                    "Only available <with [50]% chance>",
-                    "Comment [[+50]% to Flank Attack bonuses]"
+                    "[This Unit] gains the [Serial Killer] promotion <hidden from users>",
+                    "Only available <with [20]% chance>",
+                    "Comment [[This Unit] gains the [March] status for [2] turn(s) <upon defeating a [Military] unit>]",
+                    "Comment [[This Unit] gains the [Sentry] status for [3] turn(s) <upon defeating a [Military] unit>]",
+                    "Comment [[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>]",
+                    "Comment [[This Unit] gains the [Logistics] status for [1] turn(s) <upon defeating a [Military] unit>]"
                 ]
             }
         ]
