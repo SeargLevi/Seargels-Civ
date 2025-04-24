@@ -12,9 +12,9 @@
               {
                 "text": "[This Unit] gains the [Great Generals II] promotion",
                 "uniques": [
-                    "[This Unit] gains the [Great Generals I] promotion <hidden from users>",
+                    "[This Unit] gains the [Great Generals II] promotion <hidden from users>",
                     "Only available <with [20]% chance>",
-                    "Comment [[Great General] is earned [50]% faster]",
+                    "Comment [[Great General] is earned [100]% faster]",
                 ]
             },
             {
@@ -57,10 +57,10 @@
                 "uniques": [
                     "[This Unit] gains the [Serial Killer] promotion <hidden from users>",
                     "Only available <with [20]% chance>",
-                    "Comment [[This Unit] gains the [March] status for [2] turn(s) <upon defeating a [Military] unit>]",
+                    "Comment [[This Unit] gains the [March] status for [1] turn(s) <upon defeating a [Military] unit>]",
                     "Comment [[This Unit] gains the [Sentry] status for [3] turn(s) <upon defeating a [Military] unit>]",
                     "Comment [[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>]",
-                    "Comment [[This Unit] gains the [Logistics] status for [1] turn(s) <upon defeating a [Military] unit>]"
+                    "Comment [[This Unit] gains the [Logistics] status for [2] turn(s) <upon defeating a [Military] unit>]"
                 ]
             }
         ]
