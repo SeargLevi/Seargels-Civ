@@ -112,7 +112,7 @@
 		"uniqueTo": "Mirania",
 		"replaces": "Scout",
 		"movement": 2,
-		"strength": 7,
+		"strength": 6,
 		"cost": 35,
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Falcon",
@@ -151,7 +151,9 @@
 		"uniques": ["[This Unit] gains the [March] status for [2] turn(s) <upon defeating a [Military] unit>",
 		        "[This Unit] gains the [Sentry] status for [3] turn(s) <upon defeating a [Military] unit>",
 		        "[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>",
-		        "[This Unit] gains the [Logistics] status for [1] turn(s) <upon defeating a [Military] unit>"],
+		        "[This Unit] gains the [Logistics] status for [1] turn(s) <upon defeating a [Military] unit>",
+		        "[This Unit] gains the [Great Generals I] status for [2] turn(s) <upon defeating a [Military] unit>",
+		        "[This Unit] gains the [Shock I] status for [2] turn(s) <upon defeating a [Military] unit>"],
 		"promotions": ["Drill I"],
 		"attackSound": "metalhit"
 	}
