@@ -18,7 +18,7 @@
 	},
 	{
    	"name": "Kidnapper",
-   	"uniques": ["May capture killed [Military] units"]
+   	"uniques": ["May capture killed [Military] units <with [20]% chance>"]
 	},
 	{
    	"name": "Brotherhood",
