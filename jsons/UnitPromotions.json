@@ -35,7 +35,8 @@
 	{
 	"name": "Poison",
 	"uniques": ["[This Unit] takes [6] damage <upon turn end>", 
-		"[This Unit] takes [6] damage <upon turn end> <with [8]% chance>"]
+		"[This Unit] takes [6] damage <upon turn end> <with [8]% chance>",
+	        "[-10]% Strength"]
 	},
 	
 ]
