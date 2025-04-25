@@ -156,5 +156,34 @@
 		        "[This Unit] gains the [Shock I] status for [2] turn(s) <upon defeating a [Military] unit>"],
 		"promotions": ["Drill I"],
 		"attackSound": "metalhit"
-	}
+	},
+// Treeton
+	{
+		"name": "Treehopper",
+		"unitType": "Sword",
+		"uniqueTo": "Treeton",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"promotions": ["[Treehopper] ability"],
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Treebow",
+		"unitType": "Archery",
+		"uniqueTo": "Treeton",
+		"replaces": "Composite Bowman",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 10,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"promotions": ["[Treebow] ability"],
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
 ]
