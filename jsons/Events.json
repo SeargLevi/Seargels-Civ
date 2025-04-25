@@ -60,9 +60,18 @@
                     "Comment [[This Unit] gains the [March] status for [1] turn(s) <upon defeating a [Military] unit>]",
                     "Comment [[This Unit] gains the [Sentry] status for [3] turn(s) <upon defeating a [Military] unit>]",
                     "Comment [[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>]",
-                    "Comment [[This Unit] gains the [Logistics] status for [2] turn(s) <upon defeating a [Military] unit>]"
+                    "Comment [[This Unit] gains the [Logistics] status for [2] turn(s) <upon defeating a [Military] unit>]",
+                    "Comment [[This Unit] gains the [Charge] status for [2] turn(s) <upon defeating a [Military] unit>]"
                 ]
-            }
+            },
+              {
+                "text": "[This Unit] gains the [Poison Blade] promotion",
+                "uniques": [
+                    "[This Unit] gains the [Poison Blade] promotion <hidden from users>",
+                    "Only available <with [20]% chance>",
+                    "Comment [[Target Unit] gains the [Poison] status for [3] turn(s) <upon damaging a [Military] unit>]",
+                ]
+            },
         ]
       }
 ]
