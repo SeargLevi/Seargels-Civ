@@ -1,11 +1,11 @@
 [
-//Konstanz
+// Konstanz
 	{
    	"name": "[Dualist] ability",
    	"uniques": ["[+30]% Strength <when attacking> <when above [50] HP>", 
    		"[+50]% Strength <when defending> <when below [50] HP>"]
 	},
-//Mirania
+// Mirania
 	{
    	"name": "Desert Desaster",
    	"uniques": ["[+25]% Strength <in [Desert] tiles>", 
@@ -37,6 +37,16 @@
    	"uniques": ["[+10]% Strength <vs [Poison] units>",
 	        "[Target Unit] gains the [Poison] status for [2] turn(s) <upon damaging a [Military] unit>"]
 	},
+// Treeton
+	{
+   	"name": "[Treehopper] ability",
+   	"uniques": ["May Paradrop up to [2] tiles from inside friendly territory <in [Forest] tiles>",
+	        "[+25]% to Flank Attack bonuses"]
+	},
+	{
+   	"name": "[Treebow] ability",
+   	"uniques": ["Invisible to non-adjacent units <in [Forest] tiles>"]
+	},
 //Status
 	{
 	"name": "Poison",
@@ -44,5 +54,4 @@
 		"[This Unit] takes [6] damage <upon turn end> <with [8]% chance>",
 	        "[-10]% Strength"]
 	},
-	
 ]
