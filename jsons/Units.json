@@ -118,7 +118,7 @@
 		"upgradesTo": "Falcon",
 		"promotions": ["Ignore terrain cost"],
 		"uniques": ["Can build [All] improvements on tiles <in [Desert] tiles>", "Invisible to non-adjacent units <in [Desert] tiles>",
-		        "[Target Unit] gains the [Poison] status for [2] turn(s) <upon damaging a [Wounded] unit> <with [66]% chance>"], 
+		        "[Target Unit] gains the [Poison] status for [2] turn(s) <upon damaging a [Wounded] unit> <with [33]% chance>"], 
 		"attackSound": "nonmetalhit"
 	},
 	{
