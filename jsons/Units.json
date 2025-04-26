@@ -114,11 +114,10 @@
 		"movement": 2,
 		"strength": 6,
 		"cost": 35,
-		"obsoleteTech": "Iron Working",
-		"upgradesTo": "Falcon",
+		"obsoleteTech": "Scientific Theory",
 		"promotions": ["Ignore terrain cost"],
-		"uniques": ["Can build [All] improvements on tiles <in [Desert] tiles>", "Invisible to non-adjacent units <in [Desert] tiles>",
-		        "[Target Unit] gains the [Poison] status for [2] turn(s) <upon damaging a [Wounded] unit> <with [33]% chance>"], 
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Can build [All] improvements on tiles <in [Desert] tiles>", 
+			"Invisible to non-adjacent units <in [Desert] tiles>"], 
 		"attackSound": "nonmetalhit"
 	},
 	{
