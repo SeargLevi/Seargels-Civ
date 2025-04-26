@@ -54,4 +54,10 @@
 		"[This Unit] takes [6] damage <upon turn end> <with [8]% chance>",
 	        "[-10]% Strength"]
 	},
+	{
+	"name": "MLP Target",
+	"uniques": ["Instantly consumes [1] [MLP Point]",
+	        "Only available <when adjacent to a [Miranian Lord] unit>",
+	        "Only available <when above [0] [MLP Point]>"]
+	},
 ]
