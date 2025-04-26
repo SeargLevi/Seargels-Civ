@@ -1,7 +1,6 @@
 [
-
   {
-		"name": "Miranian Lords Cheetah Promotion Point",	
+		"name": "MLP Point",	
 		"resourceType": "Strategic",
 		"uniques": ["Not shown on world screen", "Doesn't generate naturally",
 			"Stockpiled", "Cannot be traded", 
