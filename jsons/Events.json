@@ -9,14 +9,6 @@
                     "[This Unit] gains the [Shock I] promotion <hidden from users>",
                 ]
             },
-              {
-                "text": "[This Unit] gains the [Great Generals II] promotion",
-                "uniques": [
-                    "[This Unit] gains the [Great Generals II] promotion <hidden from users>",
-                    "Only available <with [20]% chance>",
-                    "Comment [[Great General] is earned [100]% faster]",
-                ]
-            },
             {
                 "text": "[This Unit] gains the [Quick Study] promotion",
                 "uniques": [
@@ -26,12 +18,12 @@
                 ]
             },
             {
-                "text": "[This Unit] gains the [General Power] promotion",
+                "text": "[This Unit] gains the [Great Generals III] promotion",
                 "uniques": [
-                    "[This Unit] gains the [General Power] promotion <hidden from users>",
+                    "[This Unit] gains the [Great Generals III] promotion <hidden from users>",
                     "Only available <with [20]% chance>",
-                    "Comment [Transfer Movement to [Great General]]",
-                    "Comment [Great General provides double combat bonus]"
+                    "Comment [Great General provides double combat bonus]",
+                    "Comment [[Great General] is earned [50]% faster]"
                 ]
             },
             {
