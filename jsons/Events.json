@@ -73,20 +73,20 @@
             {
                 "text": "[This Unit] gains the [Shock I] promotion",
                 "uniques": [
-                    "[MLP Target] units gain the [Shock I] promotion",
+                    "[MLP Target] units gain the [Shock I] promotion <hidden from users>",
                 ]
             },
             {
                 "text": "[This Unit] gains the [Quick Study] promotion",
                 "uniques": [
-                    "[This Unit] gains the [Quick Study] promotion <hidden from users>",
+                    "[MLP Target] units gain the [Quick Study] promotion <hidden from users>",
                     "Comment [[+50]% XP gained from combat]",
                 ]
             },
             {
                 "text": "[This Unit] gains the [Great Generals III] promotion",
                 "uniques": [
-                    "[This Unit] gains the [Great Generals III] promotion <hidden from users>",
+                    "[MLP Target] units gain the [Great Generals III] promotion <hidden from users>",
                     "Comment [Great General provides double combat bonus]",
                     "Comment [[Great General] is earned [50]% faster]"
                 ]
@@ -94,14 +94,14 @@
             {
                 "text": "[This Unit] gains the [Kidnapper] promotion",
                 "uniques": [
-                    "[This Unit] gains the [Kidnapper] promotion <hidden from users>",
+                    "[MLP Target] units gain the [Kidnapper] promotion <hidden from users>",
                     "Comment [May capture killed [Military] units]",
                 ]
             },
             {
                 "text": "[This Unit] gains the [Brotherhood] promotion",
                 "uniques": [
-                    "[This Unit] gains the [Brotherhood] promotion <hidden from users>",
+                    "[MLP Target] units gain the [Brotherhood] promotion <hidden from users>",
                     "Free [Cheetah] appears",
                     "Comment [Free [Cheetah] appears]",
                     "Comment [[+15]% Strength <when adjacent to a [Cheetah] unit>]"
@@ -110,7 +110,7 @@
             {
                 "text": "[This Unit] gains the [Serial Killer] promotion",
                 "uniques": [
-                    "[This Unit] gains the [Serial Killer] promotion <hidden from users>",
+                    "[MLP Target] units gain the [Serial Killer] promotion <hidden from users>",
                     "Comment [[This Unit] gains the [March] status for [1] turn(s) <upon defeating a [Military] unit>]",
                     "Comment [[This Unit] gains the [Sentry] status for [3] turn(s) <upon defeating a [Military] unit>]",
                     "Comment [[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>]",
@@ -121,7 +121,7 @@
               {
                 "text": "[This Unit] gains the [Poison Blade] promotion",
                 "uniques": [
-                    "[This Unit] gains the [Poison Blade] promotion <hidden from users>",
+                    "[MLP Target] units gain the [Poison Blade] promotion <hidden from users>",
                     "Comment [[Target Unit] gains the [Poison] status for [2] turn(s) <upon damaging a [Military] unit>]",
                 ]
             },
