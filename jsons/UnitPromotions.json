@@ -56,7 +56,7 @@
 	},
 	{
 	"name": "MLP Target",
-	"uniques": ["Instantly consumes [1] [MLP Point]",
+	"uniques": [
 	        "Only available <when adjacent to a [Miranian Lord] unit>",
 	        "Only available <when above [0] [MLP Point]>"]
 	},
