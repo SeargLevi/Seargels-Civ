@@ -1,5 +1,8 @@
 {
   "name": "Global uniques",
+  "uniques": [
+              "Instantly provides [1] [MLP Point] <upon losing the [MLP Target] status>"
+            ],
   "unitUniques": [
               "[This Unit] gains the [MLP Target] status for [1] turn(s) <costs [1] [MLP Point]> <for [Cheetah] units>"
                 ]
