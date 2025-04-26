@@ -71,9 +71,9 @@
         "text": "[Cheetah Promotion Extra]\n\n[Cheetahs were great individuals ruling the battlefield when fighting together.]",
         "choices": [
             {
-                "text": "[Cheetah] units gain the [Shock I] promotion <in [Capital] cities>",
+                "text": "[This Unit] gains the [Shock I] promotion",
                 "uniques": [
-                    "[Cheetah] units gain the [Drill I] promotion <in [Capital] cities>",
+                    "[MLP Target] units gain the [Shock I] promotion",
                 ]
             },
             {
