@@ -73,7 +73,8 @@
             {
                 "text": "[This Unit] gains the [Shock I] promotion",
                 "uniques": [
-                    "[MLP Target] units gain the [Shock I] promotion <hidden from users>",
+                        "[MLP Target] units gain the [Shock I] promotion <hidden from users>",
+                        "[MLP Target] loses the [MLP Target] status"
                 ]
             },
             {
