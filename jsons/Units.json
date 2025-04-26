@@ -133,7 +133,8 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Triggers a [Cheetah Promotion] event"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", 
+			"Triggers a [Cheetah Promotion] event", "Instantly provides [1] [MLP Point] <upon losing the [MLP Target] status> <hidden from users>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
