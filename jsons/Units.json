@@ -138,26 +138,6 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Falcon",
-		"unitType": "Sword",
-		"replaces": "Swordsman",
-		"uniqueTo": "Mirania",
-		"movement": 2,
-		"strength": 14,
-		"cost": 75,
-		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
-		"obsoleteTech": "Steel",
-		"uniques": ["[This Unit] gains the [March] status for [2] turn(s) <upon defeating a [Military] unit>",
-		        "[This Unit] gains the [Sentry] status for [3] turn(s) <upon defeating a [Military] unit>",
-		        "[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>",
-		        "[This Unit] gains the [Logistics] status for [1] turn(s) <upon defeating a [Military] unit>",
-		        "[This Unit] gains the [Great Generals I] status for [2] turn(s) <upon defeating a [Military] unit>",
-		        "[This Unit] gains the [Shock I] status for [2] turn(s) <upon defeating a [Military] unit>"],
-		"promotions": ["Drill I"],
-		"attackSound": "metalhit"
-	},
-	{
 		"name": "Miranian Lord",
 		"unitType": "Civilian",
 		"uniqueTo": "Mirania",
@@ -168,7 +148,6 @@
 			"Triggers a [Miranian Lords Cheetah Promotion] event <by consuming this unit>",
                         "Empire enters a [8]-turn Golden Age <by consuming this unit>",
                         "[+15]% Strength bonus for [Military] units within [2] tiles",
-                        "Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Can be earned through combat",
                         "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 6
