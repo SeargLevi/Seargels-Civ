@@ -103,7 +103,7 @@
 
 		"outerColor": [177,167,32],
 		"innerColor": [119,32,177],
-		"uniqueName": "Sand Veil",
+		"uniqueName": "Desert Desaster",
 		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Desert Desaster] promotion",
 		        "Gain a free [Sand Tomb] [in all cities]", "Instantly provides [1] [MLP Point] <hidden from users>"],
 		"cities": ["Mira","Palasand","Sandy","Skelesand","Sandelure","Wheresand","Q'Honkrath",
