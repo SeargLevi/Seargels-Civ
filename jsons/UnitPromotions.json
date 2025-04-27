@@ -69,6 +69,11 @@
 		"[+20]% Strength <vs [Poison] units>", "[+10]% Strength <vs [Bad Poison] units>",
 	        "[Target Unit] gains the [Bad Poison] status for [3] turn(s) <upon damaging a [Military] unit>"]
 	},
+	{
+   	"name": "Intimidation",
+   	"uniques": ["[+10]% Strength <when attacking",
+	        "[Target Unit] gains the [Scared] status for [2] turn(s) <upon damaging a [Military] unit>"]
+	},
 // Treeton
 	{
    	"name": "[Treehopper] ability",
@@ -91,6 +96,11 @@
 	"uniques": ["[This Unit] takes [10] damage <upon turn end>", 
 		"[This Unit] takes [10] damage <upon turn end> <with [12]% chance>",
 	        "[-10]% Strength"]
+	},
+	{
+	"name": "Scared",
+	"uniques": ["Cannot attack", 
+		"[+1] Movement"]
 	},
 	{
 	"name": "MLP Target",
