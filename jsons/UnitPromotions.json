@@ -17,12 +17,29 @@
 		"Great General provides double combat bonus"]
 	},
 	{
+   	"name": "Great Generals X",
+   	"uniques": ["[This Unit] loses the [Great Generals III] promotion",
+		"[Great General] is earned [100]% faster", 
+		"Great General provides double combat bonus",
+	        "[+20]% Strength when stacked with [Miranian Lord]"]
+	},
+	{
    	"name": "Kidnapper",
    	"uniques": ["May capture killed [Military] units <with [33]% chance>"]
 	},
 	{
+   	"name": "Kidnapper X",
+   	"uniques": ["[This Unit] loses the [Kidnapper] promotion",
+		"May capture killed [Military] units <with [50]% chance>"]
+	},
+	{
    	"name": "Brotherhood",
    	"uniques": ["[+15]% Strength <when adjacent to a [Cheetah] unit>"]
+	},
+	{
+   	"name": "Brotherhood X",
+   	"uniques": ["[This Unit] loses the [Brotherhood] promotion",
+		"[+35]% Strength <when adjacent to a [Cheetah] unit>"]
 	},
 	{
    	"name": "Serial Killer",
@@ -36,6 +53,12 @@
    	"name": "Poison Blade",
    	"uniques": ["[+10]% Strength <vs [Poison] units>",
 	        "[Target Unit] gains the [Poison] status for [2] turn(s) <upon damaging a [Military] unit>"]
+	},
+	{
+   	"name": "Poison Blade X",
+   	"uniques": ["[This Unit] loses the [Poison Blade] promotion",
+		"[+20]% Strength <vs [Poison] units>", "[+10]% Strength <vs [Bad Poison] units>",
+	        "[Target Unit] gains the [Bad Poison] status for [3] turn(s) <upon damaging a [Military] unit>"]
 	},
 // Treeton
 	{
@@ -52,6 +75,12 @@
 	"name": "Poison",
 	"uniques": ["[This Unit] takes [6] damage <upon turn end>", 
 		"[This Unit] takes [6] damage <upon turn end> <with [8]% chance>",
+	        "[-10]% Strength"]
+	},
+	{
+	"name": "Bad Poison",
+	"uniques": ["[This Unit] takes [10] damage <upon turn end>", 
+		"[This Unit] takes [10] damage <upon turn end> <with [12]% chance>",
 	        "[-10]% Strength"]
 	},
 	{
