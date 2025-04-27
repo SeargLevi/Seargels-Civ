@@ -143,9 +143,10 @@
 		"uniqueTo": "Mirania",
 		"replaces": "Great General",
 		"uniques": [
+			"Comment [Grants unique Promotions to one Cheetah you need to choose before]",
 			"Transfer Movement to [Mounted]",
 			"Double movement in [Desert]",
-			"Triggers a [Miranian Lords Cheetah Promotion] event <by consuming this unit> <when below [1] [MLP Point]>",
+			"Triggers a [Cheetah Promotion X] event <by consuming this unit> <when below [1] [MLP Point]>",
                         "Empire enters a [8]-turn Golden Age <by consuming this unit>",
                         "[+15]% Strength bonus for [Military] units within [2] tiles",
 			"Can be earned through combat",
