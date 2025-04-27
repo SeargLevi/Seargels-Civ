@@ -107,7 +107,15 @@
                 "text": "[This Unit] gains the [Kidnapper] promotion",
                 "uniques": [
                         "[MLP Target] units gain the [Kidnapper] promotion <hidden from users>",
-                        "Comment [May capture killed [Military] units]",
+                        "Comment [May capture killed [Military] units <with [33]% chance>]",
+                ]
+            },
+            {
+                "text": "[This Unit] gains the [Kidnapper X] promotion",
+                "uniques": [
+                        "[MLP Target] units gain the [Kidnapper X] promotion <hidden from users>",
+                        "Comment [May capture killed [Military] units <with [50]% chance>]",
+                        "Only available <for units with [Kidnapper]> <hidden from users>"
                 ]
             },
             {
@@ -119,14 +127,35 @@
                 ]
             },
             {
+                "text": "[This Unit] gains the [Brotherhood X] promotion",
+                "uniques": [
+                        "[MLP Target] units gain the [Brotherhood X] promotion <hidden from users>",
+                        "Free [Cheetah] appears",
+                        "Comment [[+35]% Strength <when adjacent to a [Cheetah] unit>]",
+                        "Only available <for units with [Brotherhood]> <hidden from users>"
+                ]
+            },
+            {
                 "text": "[This Unit] gains the [Serial Killer] promotion",
                 "uniques": [
                   "[MLP Target] units gain the [Serial Killer] promotion <hidden from users>",
                   "Comment [[This Unit] gains the [March] status for [1] turn(s) <upon defeating a [Military] unit>]",
                   "Comment [[This Unit] gains the [Sentry] status for [3] turn(s) <upon defeating a [Military] unit>]",
                   "Comment [[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>]",
-                  "Comment [[This Unit] gains the [Logistics] status for [2] turn(s) <upon defeating a [Military] unit>]",
+                  "Comment [[This Unit] gains the [Blitz] status for [2] turn(s) <upon defeating a [Military] unit>]",
                   "Comment [[This Unit] gains the [Charge] status for [2] turn(s) <upon defeating a [Military] unit>]"
+                ]
+            },
+              {
+                "text": "[This Unit] gains the [Serial Killer X] promotion",
+                "uniques": [
+                  "[MLP Target] units gain the [Serial Killer X] promotion <hidden from users>",
+                  "Comment [[This Unit] gains the [March] status for [3] turn(s) <upon defeating a [Military] unit>]",
+                  "Comment [[This Unit] gains the [Sentry] status for [5] turn(s) <upon defeating a [Military] unit>]",
+                  "Comment [[This Unit] gains the [Mobility] status for [5] turn(s) <upon defeating a [Military] unit>]",
+                  "Comment [[This Unit] gains the [Blitz] status for [3] turn(s) <upon defeating a [Military] unit>]",
+                  "Comment [[This Unit] gains the [Charge] status for [4] turn(s) <upon defeating a [Military] unit>]",
+                  "Only available <for units with [Serial Killer]> <hidden from users>"
                 ]
             },
               {
@@ -135,6 +164,16 @@
                         "[MLP Target] units gain the [Poison Blade] promotion <hidden from users>",
                         "Comment [[Target Unit] gains the [Poison] status for [2] turn(s)]",
                         "Comment [[+10]% Strength <vs [Poison] units>]"
+                ]
+            },
+              {
+                "text": "[This Unit] gains the [Poison Blade X] promotion",
+                "uniques": [
+                        "[MLP Target] units gain the [Poison Blade X] promotion <hidden from users>",
+                        "Comment [[Target Unit] gains the [Bad Poison] status for [3] turn(s)]",
+                        "Comment [[+20]% Strength <vs [Poison] units>]",
+                        "Comment [[+10]% Strength <vs [Bad Poison] units>]",
+                        "Only available <for units with [Poison Blade]> <hidden from users>"
                 ]
             },
         ]
