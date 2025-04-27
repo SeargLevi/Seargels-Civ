@@ -93,6 +93,17 @@
                 ]
             },
             {
+                "text": "[This Unit] gains the [Great Generals X] promotion",
+                "uniques": [
+                        "[MLP Target] units gain the [Great Generals X] promotion <hidden from users>",
+                        "Comment [[This Unit] loses the [Great Generals III] promotion]",
+                        "Comment [Great General provides double combat bonus]",
+                        "Comment [[Great General] is earned [100]% faster]",
+                        "Comment [[+15]% Strength when stacked with [Miranian Lord]]",
+                        "Only available <for units with [Great Generals III]> <hidden from users>"
+                ]
+            },
+            {
                 "text": "[This Unit] gains the [Kidnapper] promotion",
                 "uniques": [
                         "[MLP Target] units gain the [Kidnapper] promotion <hidden from users>",
