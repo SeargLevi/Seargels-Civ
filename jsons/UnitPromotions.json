@@ -21,7 +21,7 @@
    	"uniques": ["[This Unit] loses the [Great Generals III] promotion",
 		"[Great General] is earned [100]% faster", 
 		"Great General provides double combat bonus",
-	        "[+20]% Strength when stacked with [Miranian Lord]"]
+	        "[+15]% Strength when stacked with [Miranian Lord]"]
 	},
 	{
    	"name": "Kidnapper",
@@ -48,6 +48,15 @@
 		"[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>",
 		"[This Unit] gains the [Blitz] status for [2] turn(s) <upon defeating a [Military] unit>",
 	        "[This Unit] gains the [Charge] status for [2] turn(s) <upon defeating a [Military] unit>"]
+	},
+	{
+   	"name": "Serial Killer X",
+   	"uniques": ["[This Unit] loses the [Serial Killer] promotion",
+		"[This Unit] gains the [March] status for [3] turn(s) <upon defeating a [Military] unit>",
+		"[This Unit] gains the [Sentry] status for [5] turn(s) <upon defeating a [Military] unit>",
+		"[This Unit] gains the [Mobility] status for [5] turn(s) <upon defeating a [Military] unit>",
+		"[This Unit] gains the [Blitz] status for [3] turn(s) <upon defeating a [Military] unit>",
+	        "[This Unit] gains the [Charge] status for [4] turn(s) <upon defeating a [Military] unit>"]
 	},
 	{
    	"name": "Poison Blade",
