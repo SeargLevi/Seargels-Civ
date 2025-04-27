@@ -74,6 +74,12 @@
    	"uniques": ["[+10]% Strength <when attacking",
 	        "[Target Unit] gains the [Scared] status for [2] turn(s) <upon damaging a [Military] unit>"]
 	},
+	{
+   	"name": "Intimidation X",
+   	"uniques": ["[This Unit] loses the [Intimidation] promotion",
+		"[+20]% Strength <when attacking",
+	        "[Target Unit] gains the [Too Scared] status for [2] turn(s) <upon damaging a [Military] unit>"]
+	},
 // Treeton
 	{
    	"name": "[Treehopper] ability",
@@ -99,8 +105,11 @@
 	},
 	{
 	"name": "Scared",
-	"uniques": ["Cannot attack", 
-		"[+1] Movement"]
+	"uniques": ["Cannot attack", "[+1] Movement"]
+	},
+	{
+	"name": "Too Scared",
+	"uniques": ["Cannot attack", "Cannot move", "[0] HP when healing"]
 	},
 	{
 	"name": "MLP Target",
