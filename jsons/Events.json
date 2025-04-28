@@ -176,6 +176,25 @@
                         "Only available <for units with [Poison Blade]> <hidden from users>"
                 ]
             },
+            {
+                "text": "[This Unit] gains the [Intimidation] promotion",
+                "uniques": [
+                        "[MLP Target] units gain the [Intimidation] promotion <hidden from users>",
+                        "Comment [[Target Unit] gains the [Scared] status for [2] turn(s)]",
+                        "Comment [[+10]% Strength <when attacking]"
+                ]
+            },
+            {
+                "text": "[This Unit] gains the [Intimidation X] promotion",
+                "uniques": [
+                        "[MLP Target] units gain the [Intimidation X] promotion <hidden from users>",
+                        "Comment [[Target Unit] gains the [Scared] status for [3] turn(s)]",
+                        "Comment [[Target Unit] gains the [Too Scared] status for [1] turn(s) <upon damaging a [Scared] unit>]",
+                        "Comment [[Target Unit] gains the [TooScared] status for [1] turn(s) when dealing at least 50 damage with a single attack]",
+                        "Comment [[+20]% Strength <when attacking]",
+                        "Only available <for units with [Intimidation]> <hidden from users>"
+                ]
+            },
         ]
       }
 ]
