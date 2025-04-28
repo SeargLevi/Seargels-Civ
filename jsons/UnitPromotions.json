@@ -71,16 +71,16 @@
 	},
 	{
    	"name": "Intimidation",
-   	"uniques": ["[+10]% Strength <when attacking",
+   	"uniques": ["[+10]% Strength <when attacking>",
 	        "[Target Unit] gains the [Scared] status for [2] turn(s) <upon damaging a [Military] unit>"]
 	},
 	{
    	"name": "Intimidation X",
    	"uniques": ["[This Unit] loses the [Intimidation] promotion",
-		"[+20]% Strength <when attacking",
+		"[+20]% Strength <when attacking>",
 	        "[Target Unit] gains the [Scared] status for [3] turn(s) <upon damaging a [Military] unit>",
 	        "[Target Unit] gains the [Too Scared] status for [1] turn(s) <upon damaging a [Scared] unit>",
-	        "[Target Unit] gains the [TooScared] status for [1] turn(s) when dealing at least 50 damage with a single attack"]
+	        "[Target Unit] gains the [Too Scared] status for [1] turn(s) when dealing at least 50 damage with a single attack"]
 	},
 // Treeton
 	{
