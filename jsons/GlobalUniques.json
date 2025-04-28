@@ -3,6 +3,5 @@
   
   "unitUniques": [
               "[This Unit] gains the [MLP Target] status for [1] turn(s) <costs [1] [MLP Point]> <for [Cheetah] units> <when adjacent to a [Miranian Lord] unit>",
-              "[This Unit] gains the [Too Scared] status for [1] turn(s) <upon losing at least [50] HP in a single attack> <vs [Intimidation X] units>",
                 ]
 }
