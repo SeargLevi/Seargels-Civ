@@ -104,12 +104,12 @@
             {
                 "text": "[This Unit] gains the [Great Generals X] promotion",
                 "uniques": [
-                        "[MLP Target] units gain the [Great Generals X] promotion <hidden from users>",
+                        "[{MLP Target} {Great Generals III}] units gain the [Great Generals X] promotion <hidden from users>",
+                        "Comment [Do not choose for units without Great Generals III]",
                         "Comment [[This Unit] loses the [Great Generals III] promotion]",
                         "Comment [Great General provides double combat bonus]",
                         "Comment [[Great General] is earned [100]% faster]",
                         "Comment [[+15]% Strength when stacked with [Miranian Lord]]",
-                        "Only available <for units with [Great Generals III]> <hidden from users>"
                 ]
             },
             {
@@ -123,6 +123,7 @@
                 "text": "[This Unit] gains the [Kidnapper X] promotion",
                 "uniques": [
                         "[{MLP Target} {Kidnapper}] units gain the [Kidnapper X] promotion <hidden from users>",
+                        "Comment [Do not choose for units without Kidnapper]",
                         "Comment [May capture killed [Military] units <with [50]% chance>]",
                 ]
             },
@@ -138,6 +139,7 @@
                 "text": "[This Unit] gains the [Brotherhood X] promotion",
                 "uniques": [
                         "[{MLP Target} {Brotherhood}] units gain the [Brotherhood X] promotion <hidden from users>",
+                        "Comment [Do not choose for units without Brotherhood]",
                         "Free [Cheetah] appears",
                         "Comment [[+35]% Strength <when adjacent to a [Cheetah] unit>]"
                 ]
@@ -156,13 +158,13 @@
               {
                 "text": "[This Unit] gains the [Serial Killer X] promotion",
                 "uniques": [
-                  "[MLP Target] units gain the [Serial Killer X] promotion <hidden from users>",
+                  "[{MLP Target} {Serial Killer}] units gain the [Serial Killer X] promotion <hidden from users>",
+                  "Comment [Do not choose for units without Serial Killer]",
                   "Comment [[This Unit] gains the [March] status for [3] turn(s) <upon defeating a [Military] unit>]",
                   "Comment [[This Unit] gains the [Sentry] status for [5] turn(s) <upon defeating a [Military] unit>]",
                   "Comment [[This Unit] gains the [Mobility] status for [5] turn(s) <upon defeating a [Military] unit>]",
                   "Comment [[This Unit] gains the [Blitz] status for [3] turn(s) <upon defeating a [Military] unit>]",
-                  "Comment [[This Unit] gains the [Charge] status for [4] turn(s) <upon defeating a [Military] unit>]",
-                  "Only available <for units with [Serial Killer]> <hidden from users>"
+                  "Comment [[This Unit] gains the [Charge] status for [4] turn(s) <upon defeating a [Military] unit>]"
                 ]
             },
               {
@@ -176,11 +178,11 @@
               {
                 "text": "[This Unit] gains the [Poison Blade X] promotion",
                 "uniques": [
-                        "[MLP Target] units gain the [Poison Blade X] promotion <hidden from users>",
+                        "[{MLP Target} {Poison Blade}] units gain the [Poison Blade X] promotion <hidden from users>",
+                        "Comment [Do not choose for units without Poison Blade]",
                         "Comment [[Target Unit] gains the [Bad Poison] status for [3] turn(s)]",
                         "Comment [[+20]% Strength <vs [Poison] units>]",
-                        "Comment [[+10]% Strength <vs [Bad Poison] units>]",
-                        "Only available <for units with [Poison Blade]> <hidden from users>"
+                        "Comment [[+10]% Strength <vs [Bad Poison] units>]"
                 ]
             },
             {
@@ -198,8 +200,7 @@
                         "Comment [[Target Unit] gains the [Scared] status for [3] turn(s)]",
                         "Comment [[Target Unit] gains the [Too Scared] status for [1] turn(s) <upon damaging a [Scared] unit>]",
                         "Comment [[Target Unit] gains the [TooScared] status for [1] turn(s) when dealing at least 50 damage with a single attack]",
-                        "Comment [[+20]% Strength <when attacking]",
-                        "Only available <for units with [Intimidation]> <hidden from users>"
+                        "Comment [[+20]% Strength <when attacking]"
                 ]
             },
         ]
