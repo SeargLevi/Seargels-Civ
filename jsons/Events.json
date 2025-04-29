@@ -196,7 +196,8 @@
             {
                 "text": "[This Unit] gains the [Intimidation X] promotion",
                 "uniques": [
-                        "[MLP Target] units gain the [Intimidation X] promotion <hidden from users>",
+                        "[{MLP Target} {Intimidation}] units gain the [Intimidation X] promotion <hidden from users>",
+                        "Comment [Do not choose for units without Intimidation]",
                         "Comment [[Target Unit] gains the [Scared] status for [3] turn(s)]",
                         "Comment [[Target Unit] gains the [Too Scared] status for [1] turn(s) <upon damaging a [Scared] unit>]",
                         "Comment [[Target Unit] gains the [TooScared] status for [1] turn(s) when dealing at least 50 damage with a single attack]",
