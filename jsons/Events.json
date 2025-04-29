@@ -67,7 +67,7 @@
             {
                 "text": "[This Unit] gains the [Intimidation] promotion",
                 "uniques": [
-                        "[This Unit] unit gains the [Intimidation] promotion <hidden from users>",
+                        "[This Unit] gains the [Intimidation] promotion <hidden from users>",
                         "Only available <with [20]% chance>",
                         "Comment [[Target Unit] gains the [Scared] status for [2] turn(s)]",
                         "Comment [[+10]% Strength <when attacking]"
