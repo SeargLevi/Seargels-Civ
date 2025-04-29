@@ -30,7 +30,7 @@
                 "text": "[This Unit] gains the [Kidnapper] promotion",
                 "uniques": [
                     "[This Unit] gains the [Kidnapper] promotion <hidden from users>",
-                    "Only available <with [15]% chance>",
+                    "Only available <with [10]% chance>",
                     "Comment [May capture killed [Military] units]",
                 ]
             },
@@ -39,7 +39,7 @@
                 "uniques": [
                     "[This Unit] gains the [Brotherhood] promotion <hidden from users>",
                     "Free [Cheetah] appears",
-                    "Only available <with [10]% chance>",
+                    "Only available <with [5]% chance>",
                     "Comment [Free [Cheetah] appears]",
                     "Comment [[+15]% Strength <when adjacent to a [Cheetah] unit>]"
                 ]
@@ -62,6 +62,15 @@
                     "[This Unit] gains the [Poison Blade] promotion <hidden from users>",
                     "Only available <with [20]% chance>",
                     "Comment [[Target Unit] gains the [Poison] status for [2] turn(s) <upon damaging a [Military] unit>]",
+                ]
+            },
+            {
+                "text": "[This Unit] gains the [Intimidation] promotion",
+                "uniques": [
+                        "[This Unit] unit gains the [Intimidation] promotion <hidden from users>",
+                        "Only available <with [20]% chance>",
+                        "Comment [[Target Unit] gains the [Scared] status for [2] turn(s)]",
+                        "Comment [[+10]% Strength <when attacking]"
                 ]
             },
         ]
