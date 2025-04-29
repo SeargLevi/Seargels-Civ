@@ -103,7 +103,7 @@
 	"name": "Bad Poison",
 	"uniques": ["[This Unit] takes [10] damage <upon turn end>", 
 		"[This Unit] takes [10] damage <upon turn end> <with [12]% chance>",
-	        "[-10]% Strength"]
+	        "[-15]% Strength"]
 	},
 	{
 	"name": "Scared",
