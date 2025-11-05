@@ -13,7 +13,7 @@
 // Mirania
 	{
    	"name": "Desert Desaster",
-   	"uniques": ["[+25]% Strength <in [Desert] tiles>", 
+   	"uniques": ["[+15]% Strength <in [Desert] tiles>", 
    		"Double movement in [Desert]"]
 	},
 	{
@@ -30,21 +30,21 @@
 	},
 	{
    	"name": "Kidnapper",
-   	"uniques": ["May capture killed [Military] units <with [33]% chance>"]
+   	"uniques": ["May capture killed [Military] units <with [15]% chance>"]
 	},
 	{
    	"name": "Kidnapper X",
    	"uniques": ["[This Unit] loses the [Kidnapper] promotion",
-		"May capture killed [Military] units <with [50]% chance>"]
+		"May capture killed [Military] units <with [30]% chance>"]
 	},
 	{
    	"name": "Brotherhood",
-   	"uniques": ["[+15]% Strength <when adjacent to a [Cheetah] unit>"]
+   	"uniques": ["[+20]% Strength <when adjacent to a [Cheetah] unit>"]
 	},
 	{
    	"name": "Brotherhood X",
    	"uniques": ["[This Unit] loses the [Brotherhood] promotion",
-		"[+35]% Strength <when adjacent to a [Cheetah] unit>"]
+		"[+40]% Strength <when adjacent to a [Cheetah] unit>"]
 	},
 	{
    	"name": "Serial Killer",
@@ -101,14 +101,14 @@
 	{
 	"name": "Poison",
 	"uniques": ["[This Unit] takes [6] damage <upon turn end>", 
-		"[This Unit] takes [6] damage <upon turn end> <with [8]% chance>",
+		"[This Unit] takes [6] damage <upon turn end> <with [15]% chance>",
 	        "[-10]% Strength"]
 	},
 	{
 	"name": "Bad Poison",
 	"uniques": ["[This Unit] takes [10] damage <upon turn end>", 
-		"[This Unit] takes [10] damage <upon turn end> <with [12]% chance>",
-	        "[-15]% Strength"]
+		"[This Unit] takes [10] damage <upon turn end> <with [33]% chance>",
+	        "[-20]% Strength"]
 	},
 	{
 	"name": "Scared",
