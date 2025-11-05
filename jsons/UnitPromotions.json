@@ -1,4 +1,9 @@
 [
+// General Units
+	{
+   	"name": "[Saffiyah] ability",
+   	"uniques": ["Comment [Allows Saffiyah to spawn a Swordsman]"]
+	},
 // Konstanz
 	{
    	"name": "[Dualist] ability",
