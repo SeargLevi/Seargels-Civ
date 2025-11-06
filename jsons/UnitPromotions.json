@@ -1,6 +1,12 @@
 [
 // General Units
 	{
+   	"name": "Saffiyah",
+   	"uniques": ["Free [Swordsman] appears <for [1] movement> <removing the [Saffiyah Ability] promotion/status> <with the [Saffiyah Ability] promotion>",
+                   "[This Unit] gains the [[Saffiyah] ability] promotion <upon defeating a [Military] unit>",
+                   "Withdraws before melee combat <with [50]% chance>"],
+	},
+	{
    	"name": "[Saffiyah] ability",
    	"uniques": ["Comment [Allows Saffiyah to spawn a Swordsman]"]
 	},
