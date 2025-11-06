@@ -2,7 +2,7 @@
 // General Units
 	{
    	"name": "Saffiyah",
-   	"uniques": ["Free [Swordsman] appears <for [1] movement> <removing the [Saffiyah Ability] promotion/status> <with the [Saffiyah Ability] promotion>",
+   	"uniques": ["Free [Saffiyahs Mercenary] appears <for [1] movement> <removing the [[Saffiyah] ability] promotion/status> <with the [[Saffiyah] ability] promotion>",
                    "[This Unit] gains the [[Saffiyah] ability] promotion <upon defeating a [Military] unit>",
                    "Withdraws before melee combat <with [50]% chance>"],
 	},
@@ -32,7 +32,7 @@
    	"uniques": ["[This Unit] loses the [Great Generals III] promotion",
 		"[Great General] is earned [100]% faster", 
 		"Great General provides double combat bonus",
-	        "[+15]% Strength when stacked with [Miranian Lord]"]
+	        "[+15]% Strength <when stacked with a [Miranian Lord] unit>"]
 	},
 	{
    	"name": "Kidnapper",
