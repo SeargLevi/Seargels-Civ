@@ -134,9 +134,24 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", 
 			"Triggers a [Cheetah Promotion] event", "Instantly provides [1] [MLP Point] <upon losing the [MLP Target] status> <hidden from users>",
-		    "[This Unit] units gain the [Saffiyah] promotion <with [Saffiyah Point]> <with [6]% chance> <costs [1] [Saffiyah Point]>"],
+		    "[This Unit] units gain the [Saffiyah] promotion <with [Saffiyah Point]> <with [33]% chance> <costs [1] [Saffiyah Point]>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
+	},
+	{
+		"name": "Saffiyahs Mercenary",
+		"unitType": "Archery",
+		"uniqueTo": "Mirania",
+		"replaces": "Chariot Archer",
+		"movement": 3,
+		"strength": 4,
+		"rangedStrength": 8,
+		"range": 1,
+		"cost": 56
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty",
+		        "unbuildable", "uncapturable", "[This Unit] takes [40] damage <upon turn end>",
+		        "Can only heal by pillaging"],
+		"attackSound": "arrow"
 	},
 	{
 		"name": "Miranian Lord",
