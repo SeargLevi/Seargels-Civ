@@ -1,5 +1,11 @@
 [
-// General Units
+// Konstanz
+	{
+   	"name": "[Dualist] ability",
+   	"uniques": ["[+30]% Strength <when attacking> <when above [50] HP>", 
+   		"[+50]% Strength <when defending> <when below [50] HP>"]
+	},
+// Mirania
 	{
    	"name": "Saffiyah",
    	"uniques": ["This Promotion is free", "Instantly consumes [1] [Saffiyah Point]",
@@ -13,13 +19,6 @@
    	"name": "[Saffiyah] ability",
    	"uniques": ["Comment [Allows Saffiyah to spawn a Swordsman]"]
 	},
-// Konstanz
-	{
-   	"name": "[Dualist] ability",
-   	"uniques": ["[+30]% Strength <when attacking> <when above [50] HP>", 
-   		"[+50]% Strength <when defending> <when below [50] HP>"]
-	},
-// Mirania
 	{
    	"name": "Great Generals III",
    	"uniques": ["[Great General] is earned [50]% faster", 
