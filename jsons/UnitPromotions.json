@@ -18,11 +18,6 @@
 	},
 // Mirania
 	{
-   	"name": "Desert Desaster",
-   	"uniques": ["[+15]% Strength <in [Desert] tiles>", 
-   		"Double movement in [Desert]"]
-	},
-	{
    	"name": "Great Generals III",
    	"uniques": ["[Great General] is earned [50]% faster", 
 		"Great General provides double combat bonus"]
@@ -92,16 +87,6 @@
 	        "[Target Unit] gains the [Scared] status for [3] turn(s) <upon damaging a [Military] unit>",
 	        "[Target Unit] gains the [Too Scared] status for [1] turn(s) <upon damaging a [Scared] unit>",
 	        "Comment [[Target Unit] gains the [Too Scared] status for [1] turn(s) when dealing at least 50 damage with a single attack]"]
-	},
-// Treeton
-	{
-   	"name": "[Treehopper] ability",
-   	"uniques": ["May Paradrop up to [2] tiles from inside friendly territory <in [Forest] tiles>",
-	        "[+25]% to Flank Attack bonuses"]
-	},
-	{
-   	"name": "[Treebow] ability",
-   	"uniques": ["Invisible to non-adjacent units <in [Forest] tiles>"]
 	},
 //Status
 	{
