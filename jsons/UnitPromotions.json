@@ -2,9 +2,10 @@
 // General Units
 	{
    	"name": "Saffiyah",
-   	"uniques": ["Free [Saffiyahs Mercenary] appears <for [1] movement> <removing the [[Saffiyah] ability] promotion/status> <with the [[Saffiyah] ability] promotion>",
-                   "[This Unit] gains the [[Saffiyah] ability] promotion <upon defeating a [Military] unit>",
-                   "Withdraws before melee combat <with [50]% chance>"],
+   	"uniques": ["This Promotion is free", "Instantly consumes [1] [Saffiyah Point]",
+		"Free [Saffiyahs Mercenary] appears <for [1] movement> <removing the [[Saffiyah] ability] promotion/status> <with the [[Saffiyah] ability] promotion>",
+        "[This Unit] gains the [[Saffiyah] ability] promotion <upon defeating a [Military] unit>",
+        "Withdraws before melee combat <with [50]% chance>"],
 	},
 	{
    	"name": "[Saffiyah] ability",
@@ -27,7 +28,7 @@
    	"uniques": ["[This Unit] loses the [Great Generals III] promotion",
 		"[Great General] is earned [100]% faster", 
 		"Great General provides double combat bonus",
-	        "[+15]% Strength <when stacked with a [Miranian Lord] unit>"]
+	    "[+15]% Strength <when stacked with a [Miranian Lord] unit>"]
 	},
 	{
    	"name": "Kidnapper",
@@ -53,7 +54,7 @@
 		"[This Unit] gains the [Sentry] status for [3] turn(s) <upon defeating a [Military] unit>",
 		"[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>",
 		"[This Unit] gains the [Blitz] status for [2] turn(s) <upon defeating a [Military] unit>",
-	        "[This Unit] gains the [Charge] status for [2] turn(s) <upon defeating a [Military] unit>"]
+	    "[This Unit] gains the [Charge] status for [2] turn(s) <upon defeating a [Military] unit>"]
 	},
 	{
    	"name": "Serial Killer X",
@@ -62,7 +63,7 @@
 		"[This Unit] gains the [Sentry] status for [5] turn(s) <upon defeating a [Military] unit>",
 		"[This Unit] gains the [Mobility] status for [5] turn(s) <upon defeating a [Military] unit>",
 		"[This Unit] gains the [Blitz] status for [3] turn(s) <upon defeating a [Military] unit>",
-	        "[This Unit] gains the [Charge] status for [4] turn(s) <upon defeating a [Military] unit>"]
+	    "[This Unit] gains the [Charge] status for [4] turn(s) <upon defeating a [Military] unit>"]
 	},
 	{
    	"name": "Poison Blade",
@@ -73,7 +74,7 @@
    	"name": "Poison Blade X",
    	"uniques": ["[This Unit] loses the [Poison Blade] promotion",
 		"[+20]% Strength <vs [Poison] units>", "[+10]% Strength <vs [Bad Poison] units>",
-	        "[Target Unit] gains the [Bad Poison] status for [3] turn(s) <upon damaging a [Military] unit>"]
+	    "[Target Unit] gains the [Bad Poison] status for [3] turn(s) <upon damaging a [Military] unit>"]
 	},
 	{
    	"name": "Intimidation",
@@ -84,22 +85,22 @@
    	"name": "Intimidation X",
    	"uniques": ["[This Unit] loses the [Intimidation] promotion",
 		"[+20]% Strength <when attacking>",
-	        "[Target Unit] gains the [Scared] status for [3] turn(s) <upon damaging a [Military] unit>",
-	        "[Target Unit] gains the [Too Scared] status for [1] turn(s) <upon damaging a [Scared] unit>",
-	        "Comment [[Target Unit] gains the [Too Scared] status for [1] turn(s) when dealing at least 50 damage with a single attack]"]
+	    "[Target Unit] gains the [Scared] status for [3] turn(s) <upon damaging a [Military] unit>",
+	    "[Target Unit] gains the [Too Scared] status for [1] turn(s) <upon damaging a [Scared] unit>",
+	    "Comment [[Target Unit] gains the [Too Scared] status for [1] turn(s) when dealing at least 50 damage with a single attack]"]
 	},
 //Status
 	{
 	"name": "Poison",
 	"uniques": ["[This Unit] takes [6] damage <upon turn end>", 
 		"[This Unit] takes [6] damage <upon turn end> <with [15]% chance>",
-	        "[-10]% Strength"]
+	    "[-10]% Strength"]
 	},
 	{
 	"name": "Bad Poison",
 	"uniques": ["[This Unit] takes [10] damage <upon turn end>", 
 		"[This Unit] takes [10] damage <upon turn end> <with [33]% chance>",
-	        "[-20]% Strength"]
+	    "[-20]% Strength"]
 	},
 	{
 	"name": "Scared",
@@ -112,7 +113,7 @@
 	{
 	"name": "MLP Target",
 	"uniques": [
-	        "Only available <when adjacent to a [Miranian Lord] unit>",
-	        "Only available <when above [0] [MLP Point]>"]
+	    "Only available <when adjacent to a [Miranian Lord] unit>",
+	    "Only available <when above [0] [MLP Point]>"]
 	},
 ]
