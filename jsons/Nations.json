@@ -104,9 +104,9 @@
 		"outerColor": [177,167,32],
 		"innerColor": [119,32,177],
 		"uniqueName": "Desert Desaster",
-		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Desert Desaster] promotion",
-		        "Gain a free [Sand Tomb] [in all cities]", "Instantly provides [1] [MLP Point] <hidden from users>", 
-		        "Instantly provides [1] [Saffiyah Point]"],
+		"uniques": ["[+15]% Strength <in [Desert] tiles>", "Double movement in [Desert]",
+		        "Provides a [Sand Tomb] in your first [3] cities for free", "Instantly provides [1] [MLP Point] <hidden from users>", 
+		        "Instantly provides [1] [Saffiyah Point] <hidden from users>"],
 		"cities": ["Mira","Palasand","Sandy","Skelesand","Sandelure","Wheresand","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
