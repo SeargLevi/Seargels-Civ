@@ -133,8 +133,7 @@
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", 
-			"Triggers a [Cheetah Promotion] event", "Instantly provides [1] [MLP Point] <upon losing the [MLP Target] status> <hidden from users>",
-		    "[This Unit] units gain the [Saffiyah] promotion <with [Saffiyah Point]> <with [33]% chance> <costs [1] [Saffiyah Point]>"],
+			"Triggers a [Cheetah Promotion] event", "Instantly provides [1] [MLP Point] <upon losing the [MLP Target] status> <hidden from users>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
