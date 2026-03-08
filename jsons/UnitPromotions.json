@@ -90,6 +90,15 @@
 	    "[Target Unit] gains the [Too Scared] status for [1] turn(s) <upon damaging a [Scared] unit>",
 	    "Comment [[Target Unit] gains the [Too Scared] status for [1] turn(s) when dealing at least 50 damage with a single attack]"]
 	},
+//Coloria
+	{
+	"name": "Light"
+	"uniques": "Can Spread Religion <once>"
+	},
+	{
+	"name": "Dark"
+	"uniques": "Can remove other religions from cities <once>"
+	},
 //Status
 	{
 	"name": "Poison",
