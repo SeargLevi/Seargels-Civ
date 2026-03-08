@@ -72,6 +72,7 @@
 		        "Provides [2] [Horses]"],
 		"requiredTech": "Horseback Riding"
 	},
+//Coloria
 	{
 		"name": "White Tower",
         "replaces": "Monument",
@@ -81,14 +82,16 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured", "All newly-trained [White Sword] units [in this city] receive the [Light] promotion"]
+		"uniques": ["Destroyed when the city is captured", 
+			"All newly-trained [White Sword] units [in this city] receive the [Light] promotion"]
 	},
 	{
 		"name": "Black Tomb",
 		"replaces": "Temple",
 		"uniqueTo": "Coloria",
 		"maintenance": 0,
-		"uniques": ["[+100]% Gold given to enemy if city is captured <in this city>", "All newly-trained [Black Arrow] units [in this city] receive the [Dark] promotion"],
+		"uniques": ["[+100]% Gold given to enemy if city is captured <in this city>", 
+			"All newly-trained [Black Arrow] units [in this city] receive the [Dark] promotion"],
 		"faith": 2,
 		"happiness": 1,
 		"requiredBuilding": "Shrine",
