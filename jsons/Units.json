@@ -180,7 +180,9 @@
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
-		"uniques": ["[+3] Strength <when adjacent to a [Black Arrow] unit>"],
+		"uniques": ["[+3] Strength <when adjacent to a [Black Arrow] unit>",
+		    "[+15]% Strength <vs [Black and White] units>",
+		    "[Target Unit] loses the [Black and White] status <upon damaging a [Black and White] unit>"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -196,7 +198,7 @@
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
 		"uniques": ["[+3] Strength <when adjacent to a [White Sword] unit>",
-		    ],
+		    "[Target Unit] gains the [Black and White] status for [2] turn(s) <upon damaging a [Military] unit>"],
 		"attackSound": "arrow"
 	},
 	{
