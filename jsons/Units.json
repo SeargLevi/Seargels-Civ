@@ -168,24 +168,25 @@
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 6
 	},
-//New
-		{
+//Coloria
+	{
 		"name": "White Sword",
 		"unitType": "Sword",
-		"uniqueTo": "Placeholder",
+		"uniqueTo": "Coloria",
 		"replaces": "Swordsman",
 		"movement": 2,
-		"strength": 12,
+		"strength": 14,
 		"cost": 75,
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
-		"promotions": [Placeholder], 
+		"uniques": ["[+3] Strength <when adjacent to a [Black Arrow] unit>"],
 		"attackSound": "metalhit"
 	},
 	{
 		"name": "Black Arrow",
 		"unitType": "Archery",
+		"uniqueTo": "Coloria",
 		"replaces": "Composite Bowman",
 		"movement": 2,
 		"strength": 7,
@@ -194,20 +195,21 @@
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
+		"uniques": ["[+3] Strength <when adjacent to a [White Sword] unit>"],
 		"attackSound": "arrow"
 	},
 	{
 		"name": "Golden Hammer",
 		"unitType": "Civilian",
-		"uniqueTo": "Mirania",
+		"uniqueTo": "Coloria",
 		"replaces": "Great General",
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "[+10]% Strength bonus for [Military] units within [2] tiles",
-			"[+10]% Strength bonus for [White Sword] units within [2] tiles",
-			"[+10]% Strength bonus for [Black Arrow] units within [2] tiles",
+            "[+7]% Strength bonus for [Military] units within [2] tiles",
+			"[+18]% Strength bonus for [White Sword] units within [2] tiles",
+			"[+18]% Strength bonus for [Black Arrow] units within [2] tiles",
 			"Can be earned through combat",
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 6
+		"movement": 2
 	},
 ]
