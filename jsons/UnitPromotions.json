@@ -55,7 +55,8 @@
 		"[This Unit] gains the [Sentry] status for [3] turn(s) <upon defeating a [Military] unit>",
 		"[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>",
 		"[This Unit] gains the [Blitz] status for [2] turn(s) <upon defeating a [Military] unit>",
-	    "[This Unit] gains the [Charge] status for [2] turn(s) <upon defeating a [Military] unit>"]
+	    "[This Unit] gains the [Charge] status for [2] turn(s) <upon defeating a [Military] unit>",
+	    "[This Unit] heals [8] HP <upon defeating a [Military] unit>"]
 	},
 	{
    	"name": "Serial Killer X",
@@ -64,7 +65,8 @@
 		"[This Unit] gains the [Sentry] status for [5] turn(s) <upon defeating a [Military] unit>",
 		"[This Unit] gains the [Mobility] status for [5] turn(s) <upon defeating a [Military] unit>",
 		"[This Unit] gains the [Blitz] status for [3] turn(s) <upon defeating a [Military] unit>",
-	    "[This Unit] gains the [Charge] status for [4] turn(s) <upon defeating a [Military] unit>"]
+	    "[This Unit] gains the [Charge] status for [4] turn(s) <upon defeating a [Military] unit>",
+	    "[This Unit] heals [16] HP <upon defeating a [Military] unit>"]
 	},
 	{
    	"name": "Poison Blade",
