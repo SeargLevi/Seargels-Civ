@@ -196,4 +196,18 @@
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
 	},
+	{
+		"name": "Golden Hammer",
+		"unitType": "Civilian",
+		"uniqueTo": "Mirania",
+		"replaces": "Great General",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+10]% Strength bonus for [Military] units within [2] tiles",
+			"[+10]% Strength bonus for [White Sword] units within [2] tiles",
+			"[+10]% Strength bonus for [Black Arrow] units within [2] tiles",
+			"Can be earned through combat",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 6
+	},
 ]
