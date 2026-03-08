@@ -195,7 +195,8 @@
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
-		"uniques": ["[+3] Strength <when adjacent to a [White Sword] unit>"],
+		"uniques": ["[+3] Strength <when adjacent to a [White Sword] unit>",
+		    ],
 		"attackSound": "arrow"
 	},
 	{
