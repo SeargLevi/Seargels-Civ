@@ -168,4 +168,32 @@
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 6
 	},
+//New
+		{
+		"name": "White Sword",
+		"unitType": "Sword",
+		"uniqueTo": "Placeholder",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 12,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Musketman",
+		"promotions": [Placeholder], 
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Black Arrow",
+		"unitType": "Archery",
+		"replaces": "Composite Bowman",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 11,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
 ]
