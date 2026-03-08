@@ -126,4 +126,7 @@
 	    "Only available <when adjacent to a [Miranian Lord] unit>",
 	    "Only available <when above [0] [MLP Point]>"]
 	},
+	{
+	"name": "Black and White"
+	},
 ]
