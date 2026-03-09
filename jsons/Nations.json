@@ -139,8 +139,8 @@
 		"afterPeace": "That must be a turning point in all our lifes!",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [177,167,32],
-		"innerColor": [119,32,177],
+		"outerColor": [5,5,5],
+		"innerColor": [250,250,250],
 		"uniqueName": "Color the World",
 		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"],
 		"cities": ["Great Grey","Great White","Water Blue","Hot Red","Great Dark","Bright Shimmer","Q'Honkrath",
