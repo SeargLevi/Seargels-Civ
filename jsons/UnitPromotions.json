@@ -95,11 +95,11 @@
 //Coloria
 	{
 	"name": "Light"
-	"uniques": "Can Spread Religion <once>"
+	"uniques": ["Can Spread Religion <once>", "Religious Unit"]
 	},
 	{
 	"name": "Dark"
-	"uniques": "Can remove other religions from cities <once>"
+	"uniques": ["Can remove other religions from cities <once>"]
 	},
 //Status
 	{
