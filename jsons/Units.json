@@ -166,7 +166,7 @@
             "[+15]% Strength bonus for [Military] units within [2] tiles",
 			"Can be earned through combat",
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 6
+		"movement": 5
 	},
 //Coloria
 	{
@@ -176,13 +176,15 @@
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 14,
-		"cost": 75,
+		"cost": 65,
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
 		"uniques": ["[+3] Strength <when adjacent to a [Black Arrow] unit>",
 		    "[+15]% Strength <vs [Black and White] units>",
-		    "[Target Unit] loses the [Black and White] status <upon damaging a [Black and White] unit>"],
+		    "[Target Unit] loses the [Black and White] status <upon damaging a [Black and White] unit>",
+		    "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"Unbuildable", "Religious Unit"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -193,12 +195,14 @@
 		"movement": 2,
 		"strength": 7,
 		"rangedStrength": 11,
-		"cost": 75,
+		"cost": 65,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
 		"uniques": ["[+3] Strength <when adjacent to a [White Sword] unit>",
-		    "[Target Unit] gains the [Black and White] status for [2] turn(s) <upon damaging a [Military] unit>"],
+		    "[Target Unit] gains the [Black and White] status for [2] turn(s) <upon damaging a [Military] unit>",
+		    "Can be purchased with [Gold] [in all cities in which the majority religion is a major religion]",
+		    "Unbuildable", "Religious Unit"],
 		"attackSound": "arrow"
 	},
 	{
@@ -208,6 +212,7 @@
 		"replaces": "Great General",
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
             "[+7]% Strength bonus for [Military] units within [2] tiles",
 			"[+18]% Strength bonus for [White Sword] units within [2] tiles",
 			"[+18]% Strength bonus for [Black Arrow] units within [2] tiles",
