@@ -138,21 +138,6 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Saffiyahs Mercenary",
-		"unitType": "Archery",
-		"uniqueTo": "Mirania",
-		"replaces": "Chariot Archer",
-		"movement": 3,
-		"strength": 4,
-		"rangedStrength": 8,
-		"range": 1,
-		"cost": 56
-		"uniques": ["No defensive terrain bonus", "Rough terrain penalty",
-		        "Unbuildable", "Uncapturable", "[This Unit] takes [40] damage <upon turn end>",
-		        "Can only heal by pillaging"],
-		"attackSound": "arrow"
-	},
-	{
 		"name": "Miranian Lord",
 		"unitType": "Civilian",
 		"uniqueTo": "Mirania",
