@@ -7,19 +7,6 @@
 	},
 // Mirania
 	{
-   	"name": "Saffiyah",
-   	"uniques": ["This Promotion is free", "Instantly consumes [1] [Saffiyah Point]",
-		"Free [Saffiyahs Mercenary] appears <for [1] movement> <removing the [[Saffiyah] ability] promotion/status> <for units with [[Saffiyah] ability]>",
-        "[This Unit] gains the [[Saffiyah] ability] promotion <upon defeating a [Military] unit>",
-        "Withdraws before melee combat <with [50]% chance>",
-	    "Only available <for [Cheetah] units>", "Only available <with [Saffiyah Point]>"],
-	"unitTypes": ["Mounted"]
-	},
-	{
-   	"name": "[Saffiyah] ability",
-   	"uniques": ["Comment [Allows Saffiyah to spawn a Swordsman]"]
-	},
-	{
    	"name": "Great Generals III",
    	"uniques": ["[Great General] is earned [50]% faster", 
 		"Great General provides double combat bonus"]
@@ -56,7 +43,7 @@
 		"[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>",
 		"[This Unit] gains the [Blitz] status for [2] turn(s) <upon defeating a [Military] unit>",
 	    "[This Unit] gains the [Charge] status for [2] turn(s) <upon defeating a [Military] unit>",
-	    "[This Unit] heals [8] HP <upon defeating a [Military] unit>"]
+	    "[This Unit] heals [6] HP <upon defeating a [Military] unit>"]
 	},
 	{
    	"name": "Serial Killer X",
@@ -66,7 +53,7 @@
 		"[This Unit] gains the [Mobility] status for [5] turn(s) <upon defeating a [Military] unit>",
 		"[This Unit] gains the [Blitz] status for [3] turn(s) <upon defeating a [Military] unit>",
 	    "[This Unit] gains the [Charge] status for [4] turn(s) <upon defeating a [Military] unit>",
-	    "[This Unit] heals [16] HP <upon defeating a [Military] unit>"]
+	    "[This Unit] heals [12] HP <upon defeating a [Military] unit>"]
 	},
 	{
    	"name": "Poison Blade",
