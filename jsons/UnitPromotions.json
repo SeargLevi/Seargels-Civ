@@ -27,11 +27,13 @@
 	},
 	{
    	"name": "Anger IV",
-   	"uniques": ["[This Unit] gains the [Anger V] status for [25] turn(s) <when defending> <for units without [Anger V]>"]
+   	"uniques": ["[+2]% Strength",
+		"[This Unit] gains the [Anger V] status for [25] turn(s) <when defending> <for units without [Anger V]>"]
 	},
 	{
    	"name": "Anger V",
-   	"uniques": ["[+2]% Strength"]
+   	"uniques": ["[+2]% Strength",
+	    "[This Unit] loses the [Anger V] promotion"]
 	},
 // Mirania
 	{
