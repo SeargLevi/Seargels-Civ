@@ -28,11 +28,11 @@
 	{
    	"name": "Anger V",
    	"uniques": ["[+2]% Strength", "[+90]% Strength <when attacking>",
-	    "[This Unit] loses the [Anger V] promotion <when attacking>",
-	    "[This Unit] loses the [Anger IV] promotion <when attacking>",
-	    "[This Unit] loses the [Anger III] promotion <when attacking>",
-	    "[This Unit] loses the [Anger II] promotion <when attacking>",
-	    "[This Unit] loses the [Anger I] promotion <when attacking>"]
+	    "[This Unit] loses the [Anger V] promotion <upon entering combat> <when attacking>",
+	    "[This Unit] loses the [Anger IV] promotion <upon entering combat> <when attacking>",
+	    "[This Unit] loses the [Anger III] promotion <upon entering combat> <when attacking>",
+	    "[This Unit] loses the [Anger II] promotion <upon entering combat> <when attacking>",
+	    "[This Unit] loses the [Anger I] promotion <upon entering combat> <when attacking>"]
 	},
 // Mirania
 	{
