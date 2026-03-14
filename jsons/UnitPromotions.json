@@ -7,33 +7,32 @@
 	},
 	{
    	"name": "Furious Anger",
-   	"uniques": ["[This Unit] gains the [Anger I] status for [25] turn(s) <when defending> <for units without [Anger I]>",
-
-
-
-    ]
+   	"uniques": ["[This Unit] gains the [Anger I] status for [25] turn(s) <when defending>"]
 	},
 	{
    	"name": "Anger I",
-   	"uniques": ["[This Unit] gains the [Anger II] status for [25] turn(s) <when defending> <for units without [Anger II]>"]
+   	"uniques": ["[+2]% Strength",
+		"[This Unit] gains the [Anger II] status for [25] turn(s) <when defending>"]
 	},
 	{
    	"name": "Anger II",
-   	"uniques": ["[This Unit] gains the [Anger III] status for [25] turn(s) <when defending> <for units without [Anger III]>"]
+   	"uniques": ["[+2]% Strength",
+		"[This Unit] gains the [Anger III] status for [25] turn(s) <when defending>"]
 	},
 	{
    	"name": "Anger III",
-   	"uniques": ["[This Unit] gains the [Anger IV] status for [25] turn(s) <when defending> <for units without [Anger IV]>"]
+   	"uniques": ["[+2]% Strength",
+		"[This Unit] gains the [Anger IV] status for [25] turn(s) <when defending>"]
 	},
 	{
    	"name": "Anger IV",
    	"uniques": ["[+2]% Strength",
-		"[This Unit] gains the [Anger V] status for [25] turn(s) <when defending> <for units without [Anger V]>"]
+		"[This Unit] gains the [Anger V] status for [25] turn(s) <when defending>"]
 	},
 	{
    	"name": "Anger V",
-   	"uniques": ["[+2]% Strength",
-	    "[This Unit] loses the [Anger V] promotion"]
+   	"uniques": ["[+2]% Strength", "[+90]% Strength <when attacking>",
+	    "[This Unit] loses the [Anger V, Anger IV] promotion <when attacking>"]
 	},
 // Mirania
 	{
