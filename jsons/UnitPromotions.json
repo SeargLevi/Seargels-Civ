@@ -5,6 +5,34 @@
    	"uniques": ["[+30]% Strength <when attacking> <when above [50] HP>", 
    		"[+50]% Strength <when defending> <when below [50] HP>"]
 	},
+	{
+   	"name": "Furious Anger",
+   	"uniques": ["[This Unit] gains the [Anger I] status for [25] turn(s) <when defending> <for units without [Anger I]>",
+
+
+
+    ]
+	},
+	{
+   	"name": "Anger I",
+   	"uniques": ["[This Unit] gains the [Anger II] status for [25] turn(s) <when defending> <for units without [Anger II]>"]
+	},
+	{
+   	"name": "Anger II",
+   	"uniques": ["[This Unit] gains the [Anger III] status for [25] turn(s) <when defending> <for units without [Anger III]>"]
+	},
+	{
+   	"name": "Anger III",
+   	"uniques": ["[This Unit] gains the [Anger IV] status for [25] turn(s) <when defending> <for units without [Anger IV]>"]
+	},
+	{
+   	"name": "Anger IV",
+   	"uniques": ["[This Unit] gains the [Anger V] status for [25] turn(s) <when defending> <for units without [Anger V]>"]
+	},
+	{
+   	"name": "Anger V",
+   	"uniques": ["[+2]% Strength"]
+	},
 // Mirania
 	{
    	"name": "Great Generals III",
