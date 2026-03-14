@@ -10,7 +10,7 @@
 		"cost": 500,
 		"requiredTech": "Electronics",
 		"uniques": ["Cannot attack", "Can carry [5] [Aircraft] units", "[+15]% Strength bonus for [Water] units within [3] tiles",
-		"[+50]% Strength <upon discovering [Robotics] technology>", "Cost increases by [400] when built"],
+		    "[+50]% Strength <upon discovering [Robotics] technology>", "Cost increases by [400] when built"],
 	}, 
 	{
 		"name": "Raidraptor",
@@ -86,7 +86,7 @@
 		"obsoleteTech": "Industrialization",
 		"upgradesTo": "Gatling Gun",
 		"uniques": ["Can transform to [Fortanizer]", "Unbuildable", "Cannot be purchased", "Cannot move",
-		         "[+200]% Strength <when defending>", "[1] additional attacks per turn", "[-40]% XP gained from combat"],
+		    "[+200]% Strength <when defending>", "[1] additional attacks per turn", "[-40]% XP gained from combat"],
 		"hurryCostModifier": 20,
 		"attackSound": "arrow"
 	},
@@ -95,14 +95,13 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Konstanz",
 		"replaces": "Great General",
-		"uniques": [
-                        "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-                        "[+15]% Strength bonus for [Military] units within [2] tiles",
+		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
 			"[+15]% Strength bonus for [Military] units within [2] tiles <when defending>",
 			"All adjacent units heal [+5] HP when healing",
-                        "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-	                "Can be earned through combat",
-                        "Great Person - [War]", "Unbuildable", "Uncapturable"],
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+	        "Can be earned through combat",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
 // Mirania
@@ -142,8 +141,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Mirania",
 		"replaces": "Great General",
-		"uniques": [
-			"Comment [Grants unique Promotions to one Cheetah you need to choose before]",
+		"uniques": ["Comment [Grants unique Promotions to one Cheetah you need to choose before]",
 			"Transfer Movement to [Mounted]",
 			"All adjacent units heal [+5] HP when healing",
 			"Triggers a [Cheetah Promotion X] event <by consuming this unit> <when below [1] [MLP Point]>",
@@ -197,8 +195,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Coloria",
 		"replaces": "Great General",
-		"uniques": [
-            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>",
 			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
             "[+7]% Strength bonus for [Military] units within [2] tiles",
 			"[+18]% Strength bonus for [White Sword] units within [2] tiles",
