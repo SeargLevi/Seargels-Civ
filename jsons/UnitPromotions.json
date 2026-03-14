@@ -2,37 +2,34 @@
 // Konstanz
 	{
    	"name": "[Dualist] ability",
-   	"uniques": ["[This Unit] gains the [Anger I] status for [25] turn(s) <upon losing at least [1] HP in a single attack>",
+   	"uniques": ["[This Unit] gains the [Anger I] status for [5] turn(s) <upon losing at least [1] HP in a single attack>",
    		"[+40]% Strength <when defending> <when below [60] HP>"]
 	},
 	{
    	"name": "Anger I",
    	"uniques": ["[+2]% Strength",
-		"[This Unit] gains the [Anger II] status for [25] turn(s) <upon losing at least [1] HP in a single attack>"]
+		"[This Unit] gains the [Anger II] status for [5] turn(s) <upon entering combat> <when attacking>"]
 	},
 	{
    	"name": "Anger II",
-   	"uniques": ["[+2]% Strength",
-		"[This Unit] gains the [Anger III] status for [25] turn(s) <upon losing at least [1] HP in a single attack>"]
+   	"uniques": ["[+4]% Strength", "[This Unit] loses the [Anger I] promotion",
+		"[This Unit] gains the [Anger III] status for [5] turn(s) <upon entering combat> <when attacking>"]
 	},
 	{
    	"name": "Anger III",
-   	"uniques": ["[+2]% Strength",
-		"[This Unit] gains the [Anger IV] status for [25] turn(s) <upon losing at least [1] HP in a single attack>"]
+   	"uniques": ["[+6]% Strength", "[This Unit] loses the [Anger II] promotion",
+		"[This Unit] gains the [Anger IV] status for [5] turn(s) <upon entering combat> <when attacking>"]
 	},
 	{
    	"name": "Anger IV",
-   	"uniques": ["[+2]% Strength",
-		"[This Unit] gains the [Anger V] status for [25] turn(s) <upon losing at least [1] HP in a single attack>"]
+   	"uniques": ["[+8]% Strength", "[This Unit] loses the [Anger I] promotion",
+		"[This Unit] gains the [Anger V] status for [5] turn(s) <upon entering combat> <when attacking>"]
 	},
 	{
    	"name": "Anger V",
-   	"uniques": ["[+2]% Strength", "[+90]% Strength <when attacking>",
-	    "[This Unit] loses the [Anger V] promotion <upon entering combat> <when attacking>",
-	    "[This Unit] loses the [Anger IV] promotion <upon entering combat> <when attacking>",
-	    "[This Unit] loses the [Anger III] promotion <upon entering combat> <when attacking>",
-	    "[This Unit] loses the [Anger II] promotion <upon entering combat> <when attacking>",
-	    "[This Unit] loses the [Anger I] promotion <upon entering combat> <when attacking>"]
+   	"uniques": ["[+10]% Strength", "[This Unit] loses the [Anger I] promotion",
+		"[+90]% Strength <when attacking>",
+	    "[This Unit] loses the [Anger V] promotion <upon entering combat> <when attacking>"]
 	},
 // Mirania
 	{
