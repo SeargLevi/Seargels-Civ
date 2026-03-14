@@ -2,7 +2,7 @@
 // Konstanz
 	{
    	"name": "[Dualist] ability",
-   	"uniques": ["[This Unit] gains the [Anger I] status for [25] turn(s) <when defending>",
+   	"uniques": ["[This Unit] gains the [Anger I] status for [25] turn(s) <upon losing at least [1] HP in a single attack>",
    		"[+40]% Strength <when defending> <when below [60] HP>"]
 	},
 	{
