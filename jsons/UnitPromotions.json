@@ -8,7 +8,7 @@
 	{
    	"name": "Anger I",
    	"uniques": ["[+2]% Strength",
-		"[This Unit] gains the [Anger II] status for [5] turn(s) <upon entering combat> <when attacking>"]
+		"[This Unit] gains the [Anger II] status for [5] turn(s) <upon entering combat> <when defending>"]
 	},
 	{
    	"name": "Anger II",
