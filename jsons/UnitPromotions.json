@@ -32,7 +32,7 @@
 	{
    	"name": "Anger V",
    	"uniques": ["[+2]% Strength", "[+90]% Strength <when attacking>",
-	    "[This Unit] loses the [Anger V, Anger IV] promotion <when attacking>"]
+	    "[This Unit] loses the [{Anger V}{Anger IV}] promotion <when attacking>"]
 	},
 // Mirania
 	{
