@@ -8,22 +8,22 @@
 	{
    	"name": "Anger I",
    	"uniques": ["[+2]% Strength",
-		"[This Unit] gains the [Anger II] status for [25] turn(s) <when defending>"]
+		"[This Unit] gains the [Anger II] status for [25] turn(s) <upon losing at least [1] HP in a single attack>"]
 	},
 	{
    	"name": "Anger II",
    	"uniques": ["[+2]% Strength",
-		"[This Unit] gains the [Anger III] status for [25] turn(s) <when defending>"]
+		"[This Unit] gains the [Anger III] status for [25] turn(s) <upon losing at least [1] HP in a single attack>"]
 	},
 	{
    	"name": "Anger III",
    	"uniques": ["[+2]% Strength",
-		"[This Unit] gains the [Anger IV] status for [25] turn(s) <when defending>"]
+		"[This Unit] gains the [Anger IV] status for [25] turn(s) <upon losing at least [1] HP in a single attack>"]
 	},
 	{
    	"name": "Anger IV",
    	"uniques": ["[+2]% Strength",
-		"[This Unit] gains the [Anger V] status for [25] turn(s) <when defending>"]
+		"[This Unit] gains the [Anger V] status for [25] turn(s) <upon losing at least [1] HP in a single attack>"]
 	},
 	{
    	"name": "Anger V",
