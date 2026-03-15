@@ -2,34 +2,8 @@
 // Konstanz
 	{
    	"name": "[Dualist] ability",
-   	"uniques": ["[This Unit] gains the [Anger I] status for [5] turn(s) <upon entering combat> <when defending> <for [non-[{Anger I} {Anger II} {Anger III} {AngerIV} {AngerV}]] units>",
+   	"uniques": ["[+30]% Strength <when attacking> <when above [70] HP>",
    		"[+40]% Strength <when defending> <when below [60] HP>"]
-	},
-	{
-   	"name": "Anger I",
-   	"uniques": ["[+2]% Strength",
-		"[This Unit] gains the [Anger II] status for [5] turn(s) <upon entering combat> <when defending> <for [non-[{Anger II} {Anger III} {AngerIV} {AngerV}]] units>"]
-	},
-	{
-   	"name": "Anger II",
-   	"uniques": ["[+4]% Strength", "[This Unit] loses the [Anger I] promotion",
-		"[This Unit] gains the [Anger III] status for [5] turn(s) <upon entering combat> <when defending> <for [non-[{Anger III} {AngerIV} {AngerV}]] units>"]
-	},
-	{
-   	"name": "Anger III",
-   	"uniques": ["[+6]% Strength", "[This Unit] loses the [Anger II] promotion",
-		"[This Unit] gains the [Anger IV] status for [5] turn(s) <upon entering combat> <when defending> <for [non-[{AngerIV} {AngerV}]] units>"]
-	},
-	{
-   	"name": "Anger IV",
-   	"uniques": ["[+8]% Strength", "[This Unit] loses the [Anger I] promotion",
-		"[This Unit] gains the [Anger V] status for [5] turn(s) <upon entering combat> <when defending> <for [non-[{AngerV}]] units>"]
-	},
-	{
-   	"name": "Anger V",
-   	"uniques": ["[+10]% Strength", "[This Unit] loses the [Anger I] promotion",
-		"[+90]% Strength <when attacking>",
-	    "[This Unit] loses the [Anger V] promotion <upon entering combat> <when attacking>"]
 	},
 // Mirania
 	{
