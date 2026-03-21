@@ -7,6 +7,10 @@
 	},
 // Mirania
 	{
+   	"name": "Pacifist",
+   	"uniques": ["Cannot attack"]
+	},
+	{
    	"name": "Great Generals III",
    	"uniques": ["[Great General] is earned [50]% faster", 
 		"Great General provides double combat bonus"]
@@ -38,21 +42,13 @@
 	},
 	{
    	"name": "Serial Killer",
-   	"uniques": ["[This Unit] gains the [March] status for [1] turn(s) <upon defeating a [Military] unit>",
-		"[This Unit] gains the [Sentry] status for [3] turn(s) <upon defeating a [Military] unit>",
-		"[This Unit] gains the [Mobility] status for [3] turn(s) <upon defeating a [Military] unit>",
-		"[This Unit] gains the [Blitz] status for [2] turn(s) <upon defeating a [Military] unit>",
-	    "[This Unit] gains the [Charge] status for [2] turn(s) <upon defeating a [Military] unit>",
+   	"uniques": ["[+15]% Strength <upon defeating a [Military] unit> <for [3] turns>",
 	    "[This Unit] heals [6] HP <upon defeating a [Military] unit>"]
 	},
 	{
    	"name": "Serial Killer X",
    	"uniques": ["[This Unit] loses the [Serial Killer] promotion",
-		"[This Unit] gains the [March] status for [3] turn(s) <upon defeating a [Military] unit>",
-		"[This Unit] gains the [Sentry] status for [5] turn(s) <upon defeating a [Military] unit>",
-		"[This Unit] gains the [Mobility] status for [5] turn(s) <upon defeating a [Military] unit>",
-		"[This Unit] gains the [Blitz] status for [3] turn(s) <upon defeating a [Military] unit>",
-	    "[This Unit] gains the [Charge] status for [4] turn(s) <upon defeating a [Military] unit>",
+		"[+30]% Strength <upon defeating a [Military] unit> <for [5] turns>",
 	    "[This Unit] heals [12] HP <upon defeating a [Military] unit>"]
 	},
 	{
