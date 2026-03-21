@@ -105,8 +105,8 @@
 		"innerColor": [119,32,177],
 		"uniqueName": "Desert Desaster",
 		"uniques": ["[+1] Movement <in [Desert] tiles> <for [Mounted] units>",
-			"Earn [50]% of killed [Military] unit's [Strength] as [Culture] <in [Desert] tiles>",
-		    "Provides a [Sand Tomb] in your first [3] cities for free", "Instantly provides [1] [MLP Point] <hidden from users>"],
+		    "Provides a [Sand Tomb] in your first [3] cities for free", 
+			"Instantly provides [1] [MLP Point] <hidden from users>"],
 		"cities": ["Mira","Palasand","Sandy","Skelesand","Sandelure","Wheresand","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
