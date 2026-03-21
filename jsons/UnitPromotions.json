@@ -11,6 +11,11 @@
    	"uniques": ["Cannot attack"]
 	},
 	{
+   	"name": "Raider",
+   	"uniques": ["Earn [33]% of the damage done to [All] units as [Gold]",
+	    "[+33]% Yield from pillaging tiles", "No movement cost to pillage"]
+	},
+	{
    	"name": "Great Generals III",
    	"uniques": ["[Great General] is earned [50]% faster", 
 		"Great General provides double combat bonus"]
@@ -34,11 +39,6 @@
 	{
    	"name": "Brotherhood",
    	"uniques": ["[+20]% Strength <when adjacent to a [Cheetah] unit>"]
-	},
-	{
-   	"name": "Brotherhood X",
-   	"uniques": ["[This Unit] loses the [Brotherhood] promotion",
-		"[+40]% Strength <when adjacent to a [Cheetah] unit>"]
 	},
 	{
    	"name": "Serial Killer",
