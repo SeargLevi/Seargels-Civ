@@ -4,9 +4,9 @@
         "text": "[Cheetah Promotion]\n\n[Cheetahs were great individuals ruling the battlefield when fighting together.]",
         "choices": [
             {
-                "text": "[This Unit] gains the [Shock I] promotion",
+                "text": "[This Unit] gains the [Pacifist] promotion",
                 "uniques": [
-                    "[This Unit] gains the [Shock I] promotion <hidden from users>",
+                    "[This Unit] gains the [Pacifist] promotion <hidden from users>",
                 ]
             },
             {
