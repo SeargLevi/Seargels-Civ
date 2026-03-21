@@ -10,6 +10,13 @@
                 ]
             },
             {
+                "text": "[This Unit] gains the [Raider] promotion",
+                "uniques": [
+                  "[This Unit] gains the [Raider] promotion <hidden from users>",
+                  "Only available <with [20]% chance>"
+                ]
+            },
+            {
                 "text": "[This Unit] gains the [Quick Study] promotion",
                 "uniques": [
                     "[This Unit] gains the [Quick Study] promotion <hidden from users>",
@@ -80,10 +87,9 @@
         "text": "[Cheetah Promotion Extra]\n\n[Cheetahs were great individuals ruling the battlefield when fighting together.]",
         "choices": [
             {
-                "text": "[This Unit] gains the [Shock I] promotion",
+                "text": "[This Unit] gains the [Raider] promotion",
                 "uniques": [
-                        "[MLP Target] units gain the [Shock I] promotion <hidden from users>",
-                        "Comment [[+15]% Strength <when fighting in [Open terrain] tiles>]"
+                  "[This Unit] gains the [Raider] promotion <hidden from users>"
                 ]
             },
             {
