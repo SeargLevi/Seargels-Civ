@@ -51,7 +51,7 @@
 		"name": "Sand Tomb",
         "replaces": "Monument",
 		"uniqueTo": "Mirania",
-		"culture": 2,
+		"culture": 3,
 		"faith": 1,
 		"cost": 40,
 		"hurryCostModifier": 40,
